@@ -13,7 +13,7 @@ Self-Supervised Learning has become an exciting direction in Computer Vision, Ma
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by contacting [me](https://jason718.github.io/) or add [pull request](https://github.com/markdtw/awesome-architecture-search/pulls)
+Please help contribute this list by contacting [me](https://jason718.github.io/) or add [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls)
 
 Markdown format:
 ```markdown
@@ -21,9 +21,7 @@ Markdown format:
   - Author 1, Author 2 and Author 3. *Conference'Year*
 ```
 
-
 ## Table of Contents
-
 - [Computer Vision](#computer-vision)
   - [Representation Learning](#represeantation-learning)
   - [Geometry](#geometry)
@@ -41,6 +39,13 @@ Markdown format:
   - Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar. *ICLR'17*
   
 ### Geometry
+
+## Machine Learning
+### Reinforcement Learning
+
+## Robotics
+
+## Talks
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
