@@ -40,7 +40,7 @@ Markdown format:
   - Wang, Xiaolong and Gupta, Abhinav. *ICCV 2015*
 
 - Learning to See by Moving
- - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra. *ICCV 2015*
+  - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra. *ICCV 2015*
 
 - Learning image representations tied to egomotion
   - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
