@@ -6,7 +6,7 @@
 
 A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search)
 
-Self-Supervised Learning has become a promising direction in both Computer Vision and Machine Learning community. These are some of the awesome resources! 
+Self-Supervised Learning has become an exciting direction in Computer Vision, Machine Learning, and Robotics community. These are some of the awesome resources! 
 
 ## Contributing
 <p align="center">
