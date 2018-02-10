@@ -36,8 +36,58 @@ Markdown format:
 - Unsupervised Visual Representation Learning by Context Prediction [[pdf]](link) [[code]](link)
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A.  *ICCV 2015*
   
-- Context Encoders: Feature Learning by Inpainting
+- Context Encoders: Feature Learning by Inpainting [[pdf]](link) [[code]](link)
   - Pathak, Deepak and  Kr\"ahenb\"uhl, Philipp and Donahue, Jeff and Darrell, Trevor and Efros, Alexei A. *CVPR 2016*
+  
+- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction
+  - Zhang, Richard and Isola, Phillip and Efros, Alexei A},
+  booktitle={CVPR},
+  year={2017}
+
+- Colorful Image Colorization},
+  - Zhang, Richard and Isola, Phillip and Efros, Alexei A},
+  booktitle={ECCV},
+  year={2016}
+
+- Pathak, Deepak and Girshick, Ross and Doll{\'a}r, Piotr and  Darrell, Trevor and Hariharan, Bharath},
+    - Learning Features by Watching Objects Move},
+    Booktitle = {CVPR},
+    Year = {2017}
+
+- Adversarial Feature Learning
+  - Donahue, Jeff and Kr\"ahenb\"uhl, Philipp and Darrell, Trevor
+	booktitle = {ICLR},
+	year = {2017}
+
+- Adversarial Feature Learning},Slow and steady feature analysis: higher order temporal coherence in video}
+  - Dinesh Jayaraman and Kristen Grauman
+	booktitle = {CVPR},
+	year = {2016}
+
+- Learning image representations tied to egomotion},
+  - Dinesh Jayaraman and Kristen Grauman},
+	booktitle = {ICCV},
+	year = {2015}
+
+- Unsupervised Learning of Visual Representations using Videos},
+  - Wang, Xiaolong and Gupta, Abhinav},
+	booktitle = {ICCV},
+	year = {2015}
+
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles},
+  - Mehdi Noroozi and Paolo Favaro},
+  booktitle = {ECCV},
+  year = {2016}
+
+- Ambient Sound Provides Supervision for Visual Learning
+  - Owens,Andrew and Wu,Jiajun and McDermott,Josh  and Freeman,William and Torralba, Antonio},
+	booktitle = {ECCV},
+	year = {2016}
+
+- Learning to See by Moving
+ - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra
+ booktitle={ICCV},
+ Year = {2015}
   
 ### Geometry
 coming soon...
