@@ -32,20 +32,25 @@ Markdown format:
 
 ## Computer Vision
 ### Representation (Feature) Learning
-- Neural Architecture Search with Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.01578)
-  - Barret Zoph and Quoc V. Le. *ICLR'17*
+
+- Unsupervised Visual Representation Learning by Context Prediction [[pdf]](link) [[code]](link)
+  - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A.  *ICCV 2015*
   
-- Designing Neural Network Architectures Using Reinforcement Learning [[pdf]](https://arxiv.org/abs/1611.02167) [[code]](https://github.com/bowenbaker/metaqnn)
-  - Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar. *ICLR'17*
+- Context Encoders: Feature Learning by Inpainting
+  - Pathak, Deepak and  Kr\"ahenb\"uhl, Philipp and Donahue, Jeff and Darrell, Trevor and Efros, Alexei A. *CVPR 2016*
   
 ### Geometry
+coming soon...
 
 ## Machine Learning
 ### Reinforcement Learning
+coming soon...
 
 ## Robotics
+coming soon...
 
 ## Talks
+coming soon...
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
