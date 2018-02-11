@@ -33,10 +33,10 @@ Markdown format:
 ## Computer Vision
 ### Representation (Feature) Learning
 #### 2015
-- Unsupervised Visual Representation Learning by Context Prediction
+- Unsupervised Visual Representation Learning by Context Prediction. [[pdf]](https://arxiv.org/abs/1505.05192) [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
 
-- Unsupervised Learning of Visual Representations using Videos
+- Unsupervised Learning of Visual Representations using Videos. [[pdf]](http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf) [[code]](http://www.cs.cmu.edu/~xiaolonw/unsupervise.html)
   - Wang, Xiaolong and Gupta, Abhinav. *ICCV 2015*
 
 - Learning to See by Moving
@@ -49,10 +49,10 @@ Markdown format:
 - Slow and steady feature analysis: higher order temporal coherence in video
    - Jayaraman, Dinesh and Grauman, Kristen. *CVPR 2016*
 
-- Context Encoders: Feature Learning by Inpainting
+- Context Encoders: Feature Learning by Inpainting. [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf) [[code]](https://people.eecs.berkeley.edu/~pathak/context_encoder/)
   - Pathak, Deepak and  Krahenbuhl, Philipp and Donahue, Jeff and Darrell, Trevor and Efros, Alexei A. *CVPR 2016*
 
-- Colorful Image Colorization
+- Colorful Image Colorization. [[pdf]](https://arxiv.org/abs/1603.08511) [[code]](http://richzhang.github.io/colorization/)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *ECCV 2016*
 
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
@@ -68,24 +68,25 @@ Markdown format:
 - Adversarial Feature Learning
   - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
 
-- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction
+- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. [[pdf]](https://arxiv.org/abs/1611.09842) [[code]](https://github.com/richzhang/splitbrainauto)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *CVPR 2017*
 
-- Learning Features by Watching Objects Move
+- Learning Features by Watching Objects Move. [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf) [[code]](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)
   - Pathak, Deepak and Girshick, Ross and Dollar, Piotr and  Darrell, Trevor and Hariharan, Bharath. *CVPR 2017*
+  
 - Colorization as a Proxy Task for Visual Understanding
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *CVPR 2017*
 
 - Unsupervised Learning by Predicting Noise
   - Bojanowski, Piotr and Joulin, Armand. *ICML 2017*
 
-- Multi-task Self-Supervised Visual Learning
+- Multi-task Self-Supervised Visual Learning. [[pdf]](https://arxiv.org/abs/1708.07860)
   - Doersch, Carl and Zisserman, Andrew. *ICCV 2017*
 
 - Representation Learning by Learning to Count
   - Noroozi, Mehdi and Pirsiavash, Hamed and Favaro, Paolo. *ICCV 2017*
 
-- Transitive Invariance for Self-supervised Visual Representation Learning
+- Transitive Invariance for Self-supervised Visual Representation Learning. [[pdf]](https://arxiv.org/pdf/1708.02901.pdf)
   - Wang, Xiaolong and He, Kaiming and Gupta, Abhinav. *ICCV 2017*
 
 - Look, Listen and Learn
@@ -95,7 +96,7 @@ Markdown format:
 - Unsupervised Representation Learning by Predicting Image Rotations.
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
 
-- Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery
+- Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. [[pdf]](https://arxiv.org/abs/1711.09082)
   - Zhongzheng Ren and Yong Jae Lee. *Arxiv 2018*
 
 ### Video Representation Learning
