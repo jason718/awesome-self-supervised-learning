@@ -43,7 +43,7 @@ Markdown format:
   - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra. *ICCV 2015*
 
 - Learning image representations tied to egomotion. [[pdf]](http://vision.cs.utexas.edu/projects/egoequiv/ijcv_bestpaper_specialissue_egoequiv.pdf) [[code]](http://vision.cs.utexas.edu/projects/egoequiv/)
-  - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
+  - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
 
 #### 2016
 - Slow and steady feature analysis: higher order temporal coherence in video. [[pdf]](http://vision.cs.utexas.edu/projects/slowsteady/cvpr16.pdf)
@@ -65,8 +65,8 @@ Markdown format:
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *ECCV 2016*
 
 #### 2017
-- Adversarial Feature Learning
-  - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*. [[pdf]](https://arxiv.org/pdf/1605.09782.pdf) [[code]](https://github.com/jeffdonahue/bigan)
+- Adversarial Feature Learning. [[pdf]](https://arxiv.org/pdf/1605.09782.pdf) [[code]](https://github.com/jeffdonahue/bigan)
+  - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
 
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. [[pdf]](https://arxiv.org/abs/1611.09842) [[code]](https://github.com/richzhang/splitbrainauto)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *CVPR 2017*
