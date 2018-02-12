@@ -39,14 +39,14 @@ Markdown format:
 - Unsupervised Learning of Visual Representations using Videos. [[pdf]](http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf) [[code]](http://www.cs.cmu.edu/~xiaolonw/unsupervise.html)
   - Wang, Xiaolong and Gupta, Abhinav. *ICCV 2015*
 
-- Learning to See by Moving
+- Learning to See by Moving.  [[pdf]](http://arxiv.org/abs/1505.01596) [[code]](https://people.eecs.berkeley.edu/~pulkitag/lsm/lsm.html)
   - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra. *ICCV 2015*
 
-- Learning image representations tied to egomotion
-  - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
+- Learning image representations tied to egomotion. [[pdf]](http://vision.cs.utexas.edu/projects/egoequiv/ijcv_bestpaper_specialissue_egoequiv.pdf) [[code]](http://vision.cs.utexas.edu/projects/egoequiv/)
+  - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
 
 #### 2016
-- Slow and steady feature analysis: higher order temporal coherence in video
+- Slow and steady feature analysis: higher order temporal coherence in video. [[pdf]](http://vision.cs.utexas.edu/projects/slowsteady/cvpr16.pdf)
    - Jayaraman, Dinesh and Grauman, Kristen. *CVPR 2016*
 
 - Context Encoders: Feature Learning by Inpainting. [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf) [[code]](https://people.eecs.berkeley.edu/~pathak/context_encoder/)
@@ -55,18 +55,18 @@ Markdown format:
 - Colorful Image Colorization. [[pdf]](https://arxiv.org/abs/1603.08511) [[code]](http://richzhang.github.io/colorization/)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *ECCV 2016*
 
-- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles. [[pdf]](http://arxiv.org/abs/1603.09246) [[code]](http://www.cvg.unibe.ch/research/JigsawPuzzleSolver.html)
   - Noroozi, Mehdi and Favaro, Paolo. *ECCV 2016*
 
-- Ambient Sound Provides Supervision for Visual Learning
+- Ambient Sound Provides Supervision for Visual Learning. [[pdf]](http://arxiv.org/pdf/1608.07017) [[code]](http://andrewowens.com/ambient/index.html)
   - Owens, Andrew and Wu, Jiajun and McDermott, Josh and Freeman, William and Torralba, Antonio. *ECCV 2016*
 
-- Learning Representations for Automatic Colorization
+- Learning Representations for Automatic Colorization. [[pdf]](http://arxiv.org/pdf/1603.06668.pdf) [[code]](http://people.cs.uchicago.edu/~larsson/colorization/)
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *ECCV 2016*
 
 #### 2017
 - Adversarial Feature Learning
-  - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
+  - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*. [[pdf]](https://arxiv.org/pdf/1605.09782.pdf) [[code]](https://github.com/jeffdonahue/bigan)
 
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. [[pdf]](https://arxiv.org/abs/1611.09842) [[code]](https://github.com/richzhang/splitbrainauto)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *CVPR 2017*
@@ -74,49 +74,49 @@ Markdown format:
 - Learning Features by Watching Objects Move. [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf) [[code]](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)
   - Pathak, Deepak and Girshick, Ross and Dollar, Piotr and  Darrell, Trevor and Hariharan, Bharath. *CVPR 2017*
   
-- Colorization as a Proxy Task for Visual Understanding
+- Colorization as a Proxy Task for Visual Understanding. [[pdf]](http://arxiv.org/abs/1703.04044) [[code]](http://people.cs.uchicago.edu/~larsson/color-proxy/)
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *CVPR 2017*
 
-- Unsupervised Learning by Predicting Noise
+- Unsupervised Learning by Predicting Noise. [[pdf]](https://arxiv.org/abs/1704.05310) [[code]](https://github.com/facebookresearch/noise-as-targets)
   - Bojanowski, Piotr and Joulin, Armand. *ICML 2017*
 
 - Multi-task Self-Supervised Visual Learning. [[pdf]](https://arxiv.org/abs/1708.07860)
   - Doersch, Carl and Zisserman, Andrew. *ICCV 2017*
 
-- Representation Learning by Learning to Count
+- Representation Learning by Learning to Count. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   - Noroozi, Mehdi and Pirsiavash, Hamed and Favaro, Paolo. *ICCV 2017*
 
 - Transitive Invariance for Self-supervised Visual Representation Learning. [[pdf]](https://arxiv.org/pdf/1708.02901.pdf)
   - Wang, Xiaolong and He, Kaiming and Gupta, Abhinav. *ICCV 2017*
 
-- Look, Listen and Learn
+- Look, Listen and Learn.  [[pdf]](https://arxiv.org/pdf/1705.08168.pdf)
   - Relja, Arandjelovic and Zisserman, Andrew. *ICCV 2017*
 
 #### 2018
-- Unsupervised Representation Learning by Predicting Image Rotations.
+- Unsupervised Representation Learning by Predicting Image Rotations. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
 
 - Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. [[pdf]](https://arxiv.org/abs/1711.09082)
   - Zhongzheng Ren and Yong Jae Lee. *Arxiv 2018*
 
 ### Video Representation Learning
-- Shuffle and Learn: Unsupervised Learning using Temporal Order Verification
+- Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. [[pdf]](http://arxiv.org/abs/1603.08561) [[code]](https://github.com/imisra/shuffle-tuple)
   - Ishan Misra, C. Lawrence Zitnick and Martial Hebert. *ECCV 2016*
 
 ### Geometry
-- Self-Supervised Depth Learning for Urban Scene Understanding
+- Self-Supervised Depth Learning for Urban Scene Understanding. [[pdf]](https://arxiv.org/abs/1712.04850)
   - Huaizu Jiang and Erik Learned-Miller and Gustav Larsson and Michael Maire and Greg Shakhnarovich. *Arxiv 2017*
 
 
 ## Machine Learning
 ### Reinforcement Learning
-- Curiosity-driven Exploration by Self-supervised Prediction
+- Curiosity-driven Exploration by Self-supervised Prediction. [[pdf]](http://pathak22.github.io/noreward-rl/resources/icml17.pdf) [[code]](https://pathak22.github.io/noreward-rl/index.html#sourceCode)
   - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. *ICML 2017*
 
 - coming soon...
 
 ## Robotics
-- The Curious Robot: Learning Visual Representations via Physical Interactions
+- The Curious Robot: Learning Visual Representations via Physical Interactions. [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
 
 - coming soon...
