@@ -97,7 +97,7 @@ Markdown format:
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
 
 - Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. [[pdf]](https://arxiv.org/abs/1711.09082)
-  - Zhongzheng Ren and Yong Jae Lee. *Arxiv 2018*
+  - Zhongzheng Ren and Yong Jae Lee. *CVPR 2018*
 
 ### Video Representation Learning
 - Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. [[pdf]](http://arxiv.org/abs/1603.08561) [[code]](https://github.com/imisra/shuffle-tuple)
