@@ -119,7 +119,8 @@ Markdown format:
 - The Curious Robot: Learning Visual Representations via Physical Interactions. [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
 
-- coming soon...
+- Time-Contrastive Networks: Self-Supervised Learning from Video. [[pdf]](https://arxiv.org/abs/1704.06888) [[Project]](https://sermanet.github.io/imitate/)
+  - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
 
 ## Talks
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
