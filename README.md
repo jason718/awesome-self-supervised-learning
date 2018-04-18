@@ -23,15 +23,16 @@ Markdown format:
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
-  - [Representation Learning](#represeantation-learning)
+  - [Image Representation Learning](#image-representation-learning)
+  - [Video Representation Learning](#video-representation-learning)
   - [Geometry](#geometry)
-- [Machine Learning](#machine-leanring)
+- [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
 - [Talks](#talks)
 
 ## Computer Vision
-### Image Representation (Feature) Learning
+### Image Representation Learning
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction. [[pdf]](https://arxiv.org/abs/1505.05192) [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
