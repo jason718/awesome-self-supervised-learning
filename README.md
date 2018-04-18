@@ -31,7 +31,7 @@ Markdown format:
 - [Talks](#talks)
 
 ## Computer Vision
-### Representation (Feature) Learning
+### Image Representation (Feature) Learning
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction. [[pdf]](https://arxiv.org/abs/1505.05192) [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
@@ -67,7 +67,10 @@ Markdown format:
 #### 2017
 - Adversarial Feature Learning. [[pdf]](https://arxiv.org/pdf/1605.09782.pdf) [[code]](https://github.com/jeffdonahue/bigan)
   - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
-
+  
+- Self-supervised learning of visual features through embedding images into text topic spaces. [[pdf]](https://arxiv.org/pdf/1705.08631.pdf) [[code]](https://github.com/lluisgomez/TextTopicNet)
+  - L. Gomez* and Y. Patel* and M. Rusiñol and D. Karatzas and C.V. Jawahar. *CVPR 2017*
+  
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. [[pdf]](https://arxiv.org/abs/1611.09842) [[code]](https://github.com/richzhang/splitbrainauto)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *CVPR 2017*
 
@@ -95,13 +98,29 @@ Markdown format:
 #### 2018
 - Unsupervised Representation Learning by Predicting Image Rotations. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
-
+  
+- Improvements to context based self-supervised learning. [[pdf]](https://arxiv.org/abs/1711.06379)
+  - Terrell Mundhenk and Daniel Ho and Barry Chen. *CVPR 2018*
+  
+- Self-Supervised Feature Learning by Learning to Spot Artifacts.
+  - Simon Jenni and Universität Bern and Paolo Favaro. *CVPR 2018*
+  
+- Boosting Self-Supervised Learning via Knowledge Transfer. [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/transfer_cvpr18.pdf)
+  - Mehdi Noroozi and Ananth Vinjimoor and Paolo Favaro and Hamed Pirsiavash. *CVPR 2018*
+  
 - Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. [[pdf]](https://arxiv.org/abs/1711.09082)
   - Zhongzheng Ren and Yong Jae Lee. *CVPR 2018*
+
 
 ### Video Representation Learning
 - Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. [[pdf]](http://arxiv.org/abs/1603.08561) [[code]](https://github.com/imisra/shuffle-tuple)
   - Ishan Misra, C. Lawrence Zitnick and Martial Hebert. *ECCV 2016*
+  
+- Self-Supervised Video Representation Learning With Odd-One-Out Networks. [[pdf]](https://arxiv.org/abs/1611.06646) 
+  - Basura Fernando and Hakan Bilen and Efstratios Gavves and Stephen Gould. *CVPR 2017*
+  
+- Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.  [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
+  - Chuang Gan and Boqing Gong and Kun Liu and Hao Su and Leonidas J. Guibas. *CVPR 2018*
 
 ### Geometry
 - Self-Supervised Depth Learning for Urban Scene Understanding. [[pdf]](https://arxiv.org/abs/1712.04850)
