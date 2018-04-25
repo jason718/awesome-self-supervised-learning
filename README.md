@@ -96,6 +96,9 @@ Markdown format:
 - Look, Listen and Learn.  [[pdf]](https://arxiv.org/pdf/1705.08168.pdf)
   - Relja, Arandjelovic and Zisserman, Andrew. *ICCV 2017*
 
+- Unsupervised Representation Learning by Sorting Sequences. [[pdf]](https://arxiv.org/pdf/1708.01246.pdf) [[code]](https://github.com/HsinYingLee/OPN)
+  - Hsin-Ying Lee, Jia-Bin Huang, Maneesh Kumar Singh, and Ming-Hsuan Yang. *ICCV 2017*
+
 #### 2018
 - Unsupervised Representation Learning by Predicting Image Rotations. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
