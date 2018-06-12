@@ -100,6 +100,10 @@ Markdown format:
   - Hsin-Ying Lee, Jia-Bin Huang, Maneesh Kumar Singh, and Ming-Hsuan Yang. *ICCV 2017*
 
 #### 2018
+
+- Frustum PointNets for 3D Object Detection from RGB-D Data. [[pdf]](https://arxiv.org/pdf/1711.08488.pdf)
+  - Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas. *CVPR 2018*
+
 - Unsupervised Representation Learning by Predicting Image Rotations. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
   
