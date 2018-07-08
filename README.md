@@ -26,6 +26,8 @@ Markdown format:
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
   - [Geometry](#geometry)
+  - [Audio](#audio)
+  - [Others](#others)
 - [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
@@ -171,6 +173,27 @@ Markdown format:
     -   Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe,
         David G. *CVPR 2017*
 
+### Audio
+- Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
+  [[pdf]](https://arxiv.org/pdf/1804.03641.pdf)
+  [[code]](https://github.com/andrewowens/multisensory)
+  - Andrew Owens, Alexei A. Efros. *ECCV 2018*
+  
+- Objects that Sound.
+  [[pdf]](https://arxiv.org/pdf/1712.06651.pdf)
+  -  R. Arandjelović, A. Zisserman. *ECCV 2018* 
+  
+- Learning to Separate Object Sounds by Watching Unlabeled Video.
+  [[pdf]](https://arxiv.org/abs/1804.01665)
+  [[project]](http://vision.cs.utexas.edu/projects/separating_object_sounds/)
+  - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
+  
+### Others
+- Fighting Fake News: Image Splice Detection via Learned Self-Consistency
+  [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
+  [[code]](https://github.com/minyoungg/selfconsistency)
+  - Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros. *ECCV 2018*
+
 
 ## Machine Learning
 
@@ -215,6 +238,7 @@ Markdown format:
 
 ## Talks
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
+- Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) [[link]](https://business.facebook.com/academics/videos/1632981350086599)
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
