@@ -189,10 +189,21 @@ Markdown format:
   - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
   
 ### Others
+- LSTM Self-Supervision for Detailed Behavior Analysis
+  [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Brattoli_LSTM_Self-Supervision_for_CVPR_2017_paper.pdf)
+  - Biagio Brattoli*, Uta Büchler*, Anna-Sophia Wahl, Martin E. Schwab, and Björn Ommer. *CVPR 2017*
+  
+- Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
+  [[pdf]](https://arxiv.org/abs/1611.07544)
+  - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
+
 - Fighting Fake News: Image Splice Detection via Learned Self-Consistency
   [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
   [[code]](https://github.com/minyoungg/selfconsistency)
   - Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros. *ECCV 2018*
+
+- Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
+  - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
 
 
 ## Machine Learning
