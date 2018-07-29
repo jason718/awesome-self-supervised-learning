@@ -17,9 +17,13 @@ Please help contribute this list by contacting [me](https://jason718.github.io/)
 
 Markdown format:
 ```markdown
-- Paper Name. [[pdf]](link) [[code]](link)
-  - Author 1, Author 2 and Author 3. *Conference'Year*
+- Paper Name. 
+  [[pdf]](link) 
+  [[code]](link)
+  - Author 1, Author 2, and Author 3. *Conference'Year*
 ```
+## Change Log
+- July.29 ECCV'18 papers updated!
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
@@ -36,102 +40,147 @@ Markdown format:
 ## Computer Vision
 ### Image Representation Learning
 #### 2015
-- Unsupervised Visual Representation Learning by Context Prediction. [[pdf]](https://arxiv.org/abs/1505.05192) [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
+- Unsupervised Visual Representation Learning by Context Prediction.
+  [[pdf]](https://arxiv.org/abs/1505.05192)
+  [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
 
-- Unsupervised Learning of Visual Representations using Videos. [[pdf]](http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf) [[code]](http://www.cs.cmu.edu/~xiaolonw/unsupervise.html)
+- Unsupervised Learning of Visual Representations using Videos.
+  [[pdf]](http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf) 
+  [[code]](http://www.cs.cmu.edu/~xiaolonw/unsupervise.html)
   - Wang, Xiaolong and Gupta, Abhinav. *ICCV 2015*
 
-- Learning to See by Moving.  [[pdf]](http://arxiv.org/abs/1505.01596) [[code]](https://people.eecs.berkeley.edu/~pulkitag/lsm/lsm.html)
+- Learning to See by Moving. 
+  [[pdf]](http://arxiv.org/abs/1505.01596)
+  [[code]](https://people.eecs.berkeley.edu/~pulkitag/lsm/lsm.html)
   - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra. *ICCV 2015*
 
-- Learning image representations tied to ego-motion. [[pdf]](http://vision.cs.utexas.edu/projects/egoequiv/ijcv_bestpaper_specialissue_egoequiv.pdf) [[code]](http://vision.cs.utexas.edu/projects/egoequiv/)
+- Learning image representations tied to ego-motion.
+  [[pdf]](http://vision.cs.utexas.edu/projects/egoequiv/ijcv_bestpaper_specialissue_egoequiv.pdf) 
+  [[code]](http://vision.cs.utexas.edu/projects/egoequiv/)
   - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
 
 #### 2016
-- Slow and steady feature analysis: higher order temporal coherence in video. [[pdf]](http://vision.cs.utexas.edu/projects/slowsteady/cvpr16.pdf)
-   - Jayaraman, Dinesh and Grauman, Kristen. *CVPR 2016*
+- Slow and steady feature analysis: higher order temporal coherence in video. 
+  [[pdf]](http://vision.cs.utexas.edu/projects/slowsteady/cvpr16.pdf)
+  - Jayaraman, Dinesh and Grauman, Kristen. *CVPR 2016*
 
-- Context Encoders: Feature Learning by Inpainting. [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf) [[code]](https://people.eecs.berkeley.edu/~pathak/context_encoder/)
+- Context Encoders: Feature Learning by Inpainting. 
+  [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf)
+  [[code]](https://people.eecs.berkeley.edu/~pathak/context_encoder/)
   - Pathak, Deepak and  Krahenbuhl, Philipp and Donahue, Jeff and Darrell, Trevor and Efros, Alexei A. *CVPR 2016*
 
-- Colorful Image Colorization. [[pdf]](https://arxiv.org/abs/1603.08511) [[code]](http://richzhang.github.io/colorization/)
+- Colorful Image Colorization.
+  [[pdf]](https://arxiv.org/abs/1603.08511)
+  [[code]](http://richzhang.github.io/colorization/)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *ECCV 2016*
 
-- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles. [[pdf]](http://arxiv.org/abs/1603.09246) [[code]](http://www.cvg.unibe.ch/research/JigsawPuzzleSolver.html)
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.
+  [[pdf]](http://arxiv.org/abs/1603.09246)
+  [[code]](http://www.cvg.unibe.ch/research/JigsawPuzzleSolver.html)
   - Noroozi, Mehdi and Favaro, Paolo. *ECCV 2016*
 
-- Ambient Sound Provides Supervision for Visual Learning. [[pdf]](http://arxiv.org/pdf/1608.07017) [[code]](http://andrewowens.com/ambient/index.html)
+- Ambient Sound Provides Supervision for Visual Learning.
+  [[pdf]](http://arxiv.org/pdf/1608.07017) 
+  [[code]](http://andrewowens.com/ambient/index.html)
   - Owens, Andrew and Wu, Jiajun and McDermott, Josh and Freeman, William and Torralba, Antonio. *ECCV 2016*
 
-- Learning Representations for Automatic Colorization. [[pdf]](http://arxiv.org/pdf/1603.06668.pdf) [[code]](http://people.cs.uchicago.edu/~larsson/colorization/)
+- Learning Representations for Automatic Colorization. 
+  [[pdf]](http://arxiv.org/pdf/1603.06668.pdf)
+  [[code]](http://people.cs.uchicago.edu/~larsson/colorization/)
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *ECCV 2016*
 
--   Unsupervised Visual Representation Learning by
-    Graph-based Consistent Constraints.
+-   Unsupervised Visual Representation Learning by Graph-based Consistent Constraints.
     [\[pdf\]](http://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf)
     [\[code\]](https://github.com/dongli12/FeatureLearning)
-    -   Li, Dong and Hung, Wei-Chih and Huang, Jia-Bin and Wang,
-        Shengjin and Ahuja, Narendra and Yang, Ming-Hsuan. *ECCV 2016*
+    -   Li, Dong and Hung, Wei-Chih and Huang, Jia-Bin and Wang, Shengjin and Ahuja, Narendra and Yang, Ming-Hsuan. *ECCV 2016*
 
 #### 2017
-- Adversarial Feature Learning. [[pdf]](https://arxiv.org/pdf/1605.09782.pdf) [[code]](https://github.com/jeffdonahue/bigan)
+- Adversarial Feature Learning. 
+  [[pdf]](https://arxiv.org/pdf/1605.09782.pdf)
+  [[code]](https://github.com/jeffdonahue/bigan)
   - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
   
-- Self-supervised learning of visual features through embedding images into text topic spaces. [[pdf]](https://arxiv.org/pdf/1705.08631.pdf) [[code]](https://github.com/lluisgomez/TextTopicNet)
+- Self-supervised learning of visual features through embedding images into text topic spaces.
+  [[pdf]](https://arxiv.org/pdf/1705.08631.pdf)
+  [[code]](https://github.com/lluisgomez/TextTopicNet)
   - L. Gomez* and Y. Patel* and M. Rusiñol and D. Karatzas and C.V. Jawahar. *CVPR 2017*
   
-- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. [[pdf]](https://arxiv.org/abs/1611.09842) [[code]](https://github.com/richzhang/splitbrainauto)
+- Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction.
+  [[pdf]](https://arxiv.org/abs/1611.09842) 
+  [[code]](https://github.com/richzhang/splitbrainauto)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *CVPR 2017*
 
-- Learning Features by Watching Objects Move. [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf) [[code]](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)
+- Learning Features by Watching Objects Move.
+  [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf) 
+  [[code]](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)
   - Pathak, Deepak and Girshick, Ross and Dollar, Piotr and  Darrell, Trevor and Hariharan, Bharath. *CVPR 2017*
   
-- Colorization as a Proxy Task for Visual Understanding. [[pdf]](http://arxiv.org/abs/1703.04044) [[code]](http://people.cs.uchicago.edu/~larsson/color-proxy/)
+- Colorization as a Proxy Task for Visual Understanding. 
+  [[pdf]](http://arxiv.org/abs/1703.04044) 
+  [[code]](http://people.cs.uchicago.edu/~larsson/color-proxy/)
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *CVPR 2017*
 
 -   DeepPermNet: Visual Permutation Learning.
     [\[pdf\]](https://arxiv.org/pdf/1704.02729.pdf)
     [\[code\]](https://github.com/rfsantacruz/deep-perm-net)
-    -   Cruz, Rodrigo Santa and Fernando, Basura and Cherian, Anoop and
-        Gould, Stephen. *CVPR 2017*
+    -   Cruz, Rodrigo Santa and Fernando, Basura and Cherian, Anoop and Gould, Stephen. *CVPR 2017*
 
-- Unsupervised Learning by Predicting Noise. [[pdf]](https://arxiv.org/abs/1704.05310) [[code]](https://github.com/facebookresearch/noise-as-targets)
+- Unsupervised Learning by Predicting Noise.
+  [[pdf]](https://arxiv.org/abs/1704.05310) 
+  [[code]](https://github.com/facebookresearch/noise-as-targets)
   - Bojanowski, Piotr and Joulin, Armand. *ICML 2017*
 
-- Multi-task Self-Supervised Visual Learning. [[pdf]](https://arxiv.org/abs/1708.07860)
+- Multi-task Self-Supervised Visual Learning. 
+  [[pdf]](https://arxiv.org/abs/1708.07860)
   - Doersch, Carl and Zisserman, Andrew. *ICCV 2017*
 
-- Representation Learning by Learning to Count. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
+- Representation Learning by Learning to Count.
+  [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   - Noroozi, Mehdi and Pirsiavash, Hamed and Favaro, Paolo. *ICCV 2017*
 
-- Transitive Invariance for Self-supervised Visual Representation Learning. [[pdf]](https://arxiv.org/pdf/1708.02901.pdf)
+- Transitive Invariance for Self-supervised Visual Representation Learning.
+  [[pdf]](https://arxiv.org/pdf/1708.02901.pdf)
   - Wang, Xiaolong and He, Kaiming and Gupta, Abhinav. *ICCV 2017*
 
-- Look, Listen and Learn. [[pdf]](https://arxiv.org/pdf/1705.08168.pdf)
+- Look, Listen and Learn. 
+  [[pdf]](https://arxiv.org/pdf/1705.08168.pdf)
   - Relja, Arandjelovic and Zisserman, Andrew. *ICCV 2017*
 
-- Unsupervised Representation Learning by Sorting Sequences. [[pdf]](https://arxiv.org/pdf/1708.01246.pdf) [[code]](https://github.com/HsinYingLee/OPN)
+- Unsupervised Representation Learning by Sorting Sequences. 
+  [[pdf]](https://arxiv.org/pdf/1708.01246.pdf) 
+  [[code]](https://github.com/HsinYingLee/OPN)
   - Hsin-Ying Lee, Jia-Bin Huang, Maneesh Kumar Singh, and Ming-Hsuan Yang. *ICCV 2017*
 
 #### 2018
--   Learning Image Representations by Completing Damaged Jigsaw Puzzles. [\[pdf\]](https://arxiv.org/pdf/1802.01880.pdf)
-    -   Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WAVC 2018*
+- Learning Image Representations by Completing Damaged Jigsaw Puzzles. 
+  [[pdf]](https://arxiv.org/pdf/1802.01880.pdf)
+  - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WAVC 2018*
         
-- Unsupervised Representation Learning by Predicting Image Rotations. [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)[[code]](https://github.com/gidariss/FeatureLearningRotNet)
+- Unsupervised Representation Learning by Predicting Image Rotations. 
+  [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
+  [[code]](https://github.com/gidariss/FeatureLearningRotNet)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
   
-- Improvements to context based self-supervised learning. [[pdf]](https://arxiv.org/abs/1711.06379)
+- Improvements to context based self-supervised learning. 
+  [[pdf]](https://arxiv.org/abs/1711.06379)
   - Terrell Mundhenk and Daniel Ho and Barry Chen. *CVPR 2018*
   
 - Self-Supervised Feature Learning by Learning to Spot Artifacts.
   - Simon Jenni and Universität Bern and Paolo Favaro. *CVPR 2018*
   
-- Boosting Self-Supervised Learning via Knowledge Transfer. [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/transfer_cvpr18.pdf)
+- Boosting Self-Supervised Learning via Knowledge Transfer. 
+  [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/transfer_cvpr18.pdf)
   - Mehdi Noroozi and Ananth Vinjimoor and Paolo Favaro and Hamed Pirsiavash. *CVPR 2018*
   
-- Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. [[pdf]](https://arxiv.org/abs/1711.09082)[[code]](https://github.com/jason718/game-feature-learning)
+- Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. 
+  [[pdf]](https://arxiv.org/abs/1711.09082)
+  [[code]](https://github.com/jason718/game-feature-learning)
   - Zhongzheng Ren and Yong Jae Lee. *CVPR 2018*
+  
+- ShapeCodes: Self-Supervised Feature Learning by Lifting Views to Viewgrids.
+  [[pdf]](https://arxiv.org/pdf/1709.00505.pdf)
+  - Dinesh Jayaraman*, UC Berkeley; Ruohan Gao, University of Texas at Austin; Kristen Grauman. *ECCV 2018*
 
 ### Video Representation Learning
 
@@ -156,22 +205,26 @@ Markdown format:
   - Chuang Gan and Boqing Gong and Kun Liu and Hao Su and Leonidas J. Guibas. *CVPR 2018*
 
 ### Geometry
-- Self-Supervised Relative Depth Learning for Urban Scene Understanding. [[pdf]](https://arxiv.org/abs/1712.04850)
-  - Huaizu Jiang and Erik Learned-Miller and Gustav Larsson and Michael Maire and Greg Shakhnarovich. *Arxiv 2017*
-  
 -   Self-supervised Learning of Motion Capture.
-    [\[pdf\]](https://arxiv.org/pdf/1712.01337.pdf)
-    [\[code\]](https://github.com/htung0101/3d_smpl)
-    [\[web\]](https://sites.google.com/view/selfsupervisedlearningofmotion/)
-    -   Tung, Hsiao-Yu and Tung, Hsiao-Wei and Yumer, Ersin and
-        Fragkiadaki, Katerina. *NIPS 2017*
+    [[pdf]](https://arxiv.org/pdf/1712.01337.pdf)
+    [[code]](https://github.com/htung0101/3d_smpl)
+    [[web]](https://sites.google.com/view/selfsupervisedlearningofmotion/)
+    -   Tung, Hsiao-Yu and Tung, Hsiao-Wei and Yumer, Ersin and Fragkiadaki, Katerina. *NIPS 2017*
 
--   Unsupervised Learning of Depth and Ego-Motion from
-    Video. [\[pdf\]](https://arxiv.org/pdf/1704.07813.pdf)
-    [\[code\]](https://github.com/tinghuiz/SfMLearner)
-    [\[web\]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
-    -   Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe,
-        David G. *CVPR 2017*
+-   Unsupervised Learning of Depth and Ego-Motion from Video. 
+    [[pdf]](https://arxiv.org/pdf/1704.07813.pdf)
+    [[code]](https://github.com/tinghuiz/SfMLearner)
+    [[web]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
+    -   Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe, David G. *CVPR 2017*
+        
+- Active Stereo Net: End-to-End Self-Supervised Learning for Active Stereo Systems.
+  [[project]](http://asn.cs.princeton.edu/)
+  - Yinda Zhang*, Sean Fanello, Sameh Khamis, Christoph Rhemann, Julien Valentin, Adarsh Kowdle, Vladimir Tankovich, Shahram Izadi, Thomas Funkhouser. *ECCV 2018*
+  
+- Self-Supervised Relative Depth Learning for Urban Scene Understanding.
+  [[pdf]](https://people.cs.umass.edu/~hzjiang/files/ssr_depth.pdf)
+  [[project]](https://people.cs.umass.edu/~hzjiang/projects/ssr_depth/)
+  - Huaizu Jiang*, Erik Learned-Miller, Gustav Larsson, Michael Maire, Greg Shakhnarovich. *ECCV 2018*
 
 ### Audio
 - Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
@@ -205,9 +258,11 @@ Markdown format:
 - Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
   - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
 
+- Self-supervised Tracking by Colorization (Tracking Emerges by Colorizing Videos).
+  [[pdf]](https://www.cs.columbia.edu/~vondrick//videocolor.pdf)
+  - Carl Vondrick*, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy. *ECCV 2018*
 
 ## Machine Learning
-
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
     -   Raina, Rajat and Battle, Alexis and Lee, Honglak and Packer,
@@ -227,14 +282,17 @@ Markdown format:
 - coming soon...
 
 ## Robotics
-- The Curious Robot: Learning Visual Representations via Physical Interactions. [[pdf]](https://arxiv.org/pdf/1604.01360v2)
+- The Curious Robot: Learning Visual Representations via Physical Interactions. 
+  [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
 
-- Time-Contrastive Networks: Self-Supervised Learning from Video. [[pdf]](https://arxiv.org/abs/1704.06888) [[Project]](https://sermanet.github.io/imitate/)
+- Time-Contrastive Networks: Self-Supervised Learning from Video. 
+  [[pdf]](https://arxiv.org/abs/1704.06888) 
+  [[Project]](https://sermanet.github.io/imitate/)
   - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
 
--   Learning to Poke by Poking: Experiential Learning of Intuitive
-    Physics. [\[pdf\]](https://arxiv.org/abs/1606.07419)
+-   Learning to Poke by Poking: Experiential Learning of Intuitive Physics.
+    [\[pdf\]](https://arxiv.org/abs/1606.07419)
     -   Agrawal, Pulkit and Nair, Ashvin V and Abbeel, Pieter and Malik,
         Jitendra and Levine, Sergey. *NIPS 2016*
 
