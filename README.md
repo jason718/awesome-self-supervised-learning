@@ -184,25 +184,35 @@ Markdown format:
 
 ### Video Representation Learning
 
--   Unsupervised Learning of Video Representations using LSTMs.
-    [\[pdf\]](https://arxiv.org/pdf/1502.04681.pdf)
-    [\[code\]](https://github.com/emansim/unsupervised-videos)
-    -   Srivastava, Nitish and Mansimov, Elman and Salakhudinov, Ruslan. *ICML 2015*
+- Unsupervised Learning of Video Representations using LSTMs.
+  [[pdf]](https://arxiv.org/pdf/1502.04681.pdf)
+  [[code]](https://github.com/emansim/unsupervised-videos)
+  - Srivastava, Nitish and Mansimov, Elman and Salakhudinov, Ruslan. *ICML 2015*
 
 - Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. 
   [[pdf]](http://arxiv.org/abs/1603.08561) 
   [[code]](https://github.com/imisra/shuffle-tuple)
   - Ishan Misra, C. Lawrence Zitnick and Martial Hebert. *ECCV 2016*
   
-- Self-Supervised Video Representation Learning With Odd-One-Out Networks. [[pdf]](https://arxiv.org/abs/1611.06646) 
+- LSTM Self-Supervision for Detailed Behavior Analysis
+  [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Brattoli_LSTM_Self-Supervision_for_CVPR_2017_paper.pdf)
+  - Biagio Brattoli*, Uta Büchler*, Anna-Sophia Wahl, Martin E. Schwab, and Björn Ommer. *CVPR 2017*
+  
+- Self-Supervised Video Representation Learning With Odd-One-Out Networks. 
+  [[pdf]](https://arxiv.org/abs/1611.06646) 
   - Basura Fernando and Hakan Bilen and Efstratios Gavves and Stephen Gould. *CVPR 2017*
 
--   Unsupervised Learning of Long-Term Motion Dynamics for Videos. [\[pdf\]](https://arxiv.org/pdf/1701.01821.pdf)
-    -   Luo, Zelun and Peng, Boya and Huang, De-An and Alahi, Alexandre
-        and Fei-Fei, Li. *CVPR 2017*
+- Unsupervised Learning of Long-Term Motion Dynamics for Videos. 
+  [[pdf]](https://arxiv.org/pdf/1701.01821.pdf)
+  - Luo, Zelun and Peng, Boya and Huang, De-An and Alahi, Alexandre and Fei-Fei, Li. *CVPR 2017*
 
-- Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.  [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
+- Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.
+  [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
   - Chuang Gan and Boqing Gong and Kun Liu and Hao Su and Leonidas J. Guibas. *CVPR 2018*
+    
+- Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
+  [[pdf]](https://arxiv.org/abs/1807.11293)
+  - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
 
 ### Geometry
 -   Self-supervised Learning of Motion Capture.
@@ -242,10 +252,6 @@ Markdown format:
   - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
   
 ### Others
-- LSTM Self-Supervision for Detailed Behavior Analysis
-  [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Brattoli_LSTM_Self-Supervision_for_CVPR_2017_paper.pdf)
-  - Biagio Brattoli*, Uta Büchler*, Anna-Sophia Wahl, Martin E. Schwab, and Björn Ommer. *CVPR 2017*
-  
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
@@ -254,9 +260,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
   [[code]](https://github.com/minyoungg/selfconsistency)
   - Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros. *ECCV 2018*
-
-- Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
-  - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
 
 - Self-supervised Tracking by Colorization (Tracking Emerges by Colorizing Videos).
   [[pdf]](https://www.cs.columbia.edu/~vondrick//videocolor.pdf)
