@@ -285,14 +285,10 @@ Markdown format:
 - coming soon...
 
 ## Robotics
+### 2016
 - The Curious Robot: Learning Visual Representations via Physical Interactions. 
   [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
-
-- Time-Contrastive Networks: Self-Supervised Learning from Video. 
-  [[pdf]](https://arxiv.org/abs/1704.06888) 
-  [[Project]](https://sermanet.github.io/imitate/)
-  - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
 
 -   Learning to Poke by Poking: Experiential Learning of Intuitive Physics.
     [\[pdf\]](https://arxiv.org/abs/1606.07419)
@@ -302,11 +298,27 @@ Markdown format:
 -   Supersizing Self-supervision: Learning to Grasp from 50K Tries and
     700 Robot Hours. [\[pdf\]](https://arxiv.org/pdf/1509.06825.pdf)
     -   Pinto, Lerrel and Gupta, Abhinav. *ICRA 2016*
-
+    
+### 2017
 -   Supervision via Competition: Robot Adversaries for Learning Tasks.
     [\[pdf\]](https://arxiv.org/pdf/1610.01685.pdf)
     -   Pinto, Lerrel and Davidson, James and Gupta, Abhinav. *ICRA 2017*
 
+- Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the Amazon Picking Challenge.
+  [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
+  [[Project]](http://apc.cs.princeton.edu/)
+  - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017* 
+
+### 2018
+- Time-Contrastive Networks: Self-Supervised Learning from Video. 
+  [[pdf]](https://arxiv.org/pdf/1609.09475.pdf) 
+  [[Project]](https://sermanet.github.io/imitate/)
+  - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
+  
+- Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
+  [[Project]](http://vpg.cs.princeton.edu/)
+  - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
 
 ## Talks
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
