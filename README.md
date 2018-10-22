@@ -182,6 +182,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1709.00505.pdf)
   - Dinesh Jayaraman*, UC Berkeley; Ruohan Gao, University of Texas at Austin; Kristen Grauman. *ECCV 2018*
 
+- Deep Clustering for Unsupervised Learning of Visual Features
+    [[pdf]](https://research.fb.com/wp-content/uploads/2018/09/Deep-Clustering-for-Unsupervised-Learning-of-Visual-Features.pdf)
+    - Mathilde Caron, Piotr Bojanowski, Armand Joulin, Matthijs Douze. *ECCV 2018*
+    
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
