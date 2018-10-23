@@ -20,7 +20,7 @@ Markdown format:
 - Paper Name. 
   [[pdf]](link) 
   [[code]](link)
-  - Author 1, Author 2, and Author 3. *Conference'Year*
+  - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 ## Change Log
 - July.29 ECCV'18 papers updated!
@@ -61,6 +61,17 @@ Markdown format:
   - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
 
 #### 2016
+- Joint Unsupervised Learning of Deep Representations and Image Clusters. 
+  [[pdf]](https://arxiv.org/pdf/1604.03628.pdf) 
+  [[code-torch]](https://github.com/jwyang/JULE.torch)
+  [[code-caffe]](https://github.com/jwyang/JULE-Caffe)
+  - Jianwei Yang, Devi Parikh, Dhruv Batra. *CVPR 2016*
+  
+- Unsupervised Deep Embedding for Clustering Analysis.
+  [[pdf]](https://arxiv.org/pdf/1511.06335.pdf) 
+  [[code]](https://github.com/piiswrong/dec)
+  - Junyuan Xie, Ross Girshick, and Ali Farhadi. *ICML 2016*
+  
 - Slow and steady feature analysis: higher order temporal coherence in video. 
   [[pdf]](http://vision.cs.utexas.edu/projects/slowsteady/cvpr16.pdf)
   - Jayaraman, Dinesh and Grauman, Kristen. *CVPR 2016*
