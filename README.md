@@ -196,7 +196,11 @@ Markdown format:
 - Deep Clustering for Unsupervised Learning of Visual Features
     [[pdf]](https://research.fb.com/wp-content/uploads/2018/09/Deep-Clustering-for-Unsupervised-Learning-of-Visual-Features.pdf)
     - Mathilde Caron, Piotr Bojanowski, Armand Joulin, Matthijs Douze. *ECCV 2018*
-    
+
+- Cross Pixel Optical-Flow Similarity for Self-Supervised Learning.
+  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
+  - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
@@ -250,10 +254,6 @@ Markdown format:
   [[pdf]](https://people.cs.umass.edu/~hzjiang/files/ssr_depth.pdf)
   [[project]](https://people.cs.umass.edu/~hzjiang/projects/ssr_depth/)
   - Huaizu Jiang*, Erik Learned-Miller, Gustav Larsson, Michael Maire, Greg Shakhnarovich. *ECCV 2018*
-
-- Cross Pixel Optical-Flow Similarity for Self-Supervised Learning
-  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
-  - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
 
 ### Audio
 - Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
