@@ -23,6 +23,7 @@ Markdown format:
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 ## Change Log
+- Call for PRs for NIPS'18 and Robotics.
 - July.29 ECCV'18 papers updated!
 
 ## Table of Contents
