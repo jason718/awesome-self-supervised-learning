@@ -166,7 +166,7 @@ Markdown format:
 #### 2018
 - Learning Image Representations by Completing Damaged Jigsaw Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1802.01880.pdf)
-  - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WAVC 2018*
+  - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WACV 2018*
         
 - Unsupervised Representation Learning by Predicting Image Rotations. 
   [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
@@ -232,6 +232,10 @@ Markdown format:
 - Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/abs/1807.11293)
   - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
+
+- Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles. 
+  [[pdf]](https://arxiv.org/pdf/1811.09795.pdf)
+  - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *AAAI 2019*
 
 ### Geometry
 -   Self-supervised Learning of Motion Capture.
