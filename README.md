@@ -23,8 +23,9 @@ Markdown format:
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 ## Change Log
-- Call for PRs for NIPS'18 and Robotics.
-- July.29 ECCV'18 papers updated!
+- Call for PRs for Robotic papers. 
+- Dec.1: NIPS'18 papers added!
+- Jul.29: ECCV'18 papers updated!
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
@@ -275,6 +276,14 @@ Markdown format:
   [[project]](http://vision.cs.utexas.edu/projects/separating_object_sounds/)
   - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
   
+- Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization. 
+  [[pdf]](http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization.pdf)
+  - Bruno Korbar,Dartmouth College, Du Tran, Lorenzo Torresani. *NIPS 2018*
+  
+- Self-Supervised Generation of Spatial Audio for 360° Video.
+  [[pdf]](http://papers.nips.cc/paper/7319-self-supervised-generation-of-spatial-audio-for-360-video.pdf)
+  - Pedro Morgado, Nuno Nvasconcelos, Timothy Langlois, Oliver Wang. *NIPS 2018*
+
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
