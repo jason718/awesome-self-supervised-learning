@@ -315,7 +315,14 @@ Markdown format:
   [[code]](https://pathak22.github.io/noreward-rl/index.html#sourceCode)
   - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. *ICML 2017*
 
-- coming soon...
+- Large-Scale Study of Curiosity-Driven Learning.
+  [[pdf]](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf) 
+  - Yuri Burda*, Harri Edwards*, Deepak Pathak*, Amos Storkey, Trevor Darrell and Alexei A. Efros
+
+- Playing hard exploration games by watching YouTube.
+  [[pdf]](https://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube.pdf) 
+  - Yusuf Aytar, Tobias Pfaff, David Budden, Tom Le Paine, Ziyu Wang, Nando de Freitas. *NIPS 2018*
+
 
 ## Robotics
 ### 2016
