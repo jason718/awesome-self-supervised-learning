@@ -289,6 +289,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
 
+- Free Supervision from Video Games.
+  [[pdf]](http://www.philkr.net/papers/2018-06-01-cvpr/2018-06-01-cvpr.pdf)
+  [[project+code]](http://www.philkr.net/fsv/)
+  - Philipp Krähenbühl. *CVPR 2018*
+
 - Fighting Fake News: Image Splice Detection via Learned Self-Consistency
   [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
   [[code]](https://github.com/minyoungg/selfconsistency)
