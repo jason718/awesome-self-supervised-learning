@@ -364,6 +364,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
   [[Project]](http://vpg.cs.princeton.edu/)
   - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
+  
+### 2019
+
+- Learning Long-Range Perception Using Self-Supervision from Short-Range Sensors and Odometry
+  [[pdf]](https://arxiv.org/abs/1809.07207)
+  - Mirko Nava, Jerome Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella, Alessandro Giusti
 
 ## Talks
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
