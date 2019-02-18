@@ -330,6 +330,12 @@ Markdown format:
 
 
 ## Robotics
+
+### 2015
+
+- Online self-supervised learning for dynamic object segmentation
+  [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.5829&rep=rep1&type=pdf)
+  - Vitor Guizilini and Fabio Ramos, The International Journal of Robotics Research
 ### 2016
 - The Curious Robot: Learning Visual Representations via Physical Interactions. 
   [[pdf]](https://arxiv.org/pdf/1604.01360v2)
