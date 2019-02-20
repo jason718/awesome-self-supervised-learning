@@ -22,10 +22,6 @@ Markdown format:
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
-## Change Log
-- Call for PRs for Robotic papers. 
-- Dec.1: NIPS'18 papers added!
-- Jul.29: ECCV'18 papers updated!
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
@@ -40,7 +36,9 @@ Markdown format:
 - [Talks](#talks)
 
 ## Computer Vision
+
 ### Image Representation Learning
+
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
   [[pdf]](https://arxiv.org/abs/1505.05192)
@@ -202,6 +200,12 @@ Markdown format:
 - Cross Pixel Optical-Flow Similarity for Self-Supervised Learning.
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
   - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
+  
+#### 2019
+
+- Revisiting Self-Supervised Visual Representation Learning
+  [[pdf]](https://arxiv.org/pdf/1901.09005.pdf)
+  - Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer
 
 ### Video Representation Learning
 
@@ -331,12 +335,50 @@ Markdown format:
 
 ## Robotics
 
+### 2006
+
+- Improving Robot Navigation Through Self-Supervised Online Learning
+  [[pdf]](http://www.roboticsproceedings.org/rss02/p04.pdf)
+  - Boris Sofman, Ellie Lin, J. Andrew Bagnell, Nicolas Vandapel, and Anthony Stentz
+  
+- Reverse Optical Flow for Self-Supervised Adaptive Autonomous Robot Navigation
+  [[pdf]](https://www.cs.ait.ac.th/~mdailey/cvreadings/Lookingbill-ReverseOptical.pdf)
+  - A. Lookingbill, D. Lieb, J. Rogers and J. Curry
+
+### 2009
+
+- Learning Long-Range Vision for Autonomous Off-Road Driving
+  [[pdf]](http://yann.lecun.com/exdb/publis/pdf/hadsell-jfr-09.pdf)
+  - Raia Hadsell, Pierre Sermanet, Jan Ben, Ayse Erkan, Marco Scoffier, Koray Kavukcuoglu, Urs Muller, Yann LeCun
+ 
+### 2012
+
+- Self-supervised terrain classification for planetary surface exploration rovers
+  [[pdf]](https://pdfs.semanticscholar.org/66b7/eef326d1db1fa2b19d5dc6b84d3d2a95b76c.pdf)
+  - Christopher A. Brooks, Karl Iagnemma 
+  
+### 2014
+
+- Terrain Traversability Analysis Using Multi-Sensor Data Correlation by a Mobile Robot
+  [[pdf]](http://sensor.eng.shizuoka.ac.jp/pdf/2014/SII.pdf)
+  - Mohammed Abdessamad Bekhti, Yuichi Kobayashi and Kazuki Matsumura
+  
 ### 2015
 
 - Online self-supervised learning for dynamic object segmentation
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.5829&rep=rep1&type=pdf)
   - Vitor Guizilini and Fabio Ramos, The International Journal of Robotics Research
+
+- Self-Supervised Online Learning of Basic Object Push Affordances
+  [[pdf]](http://abr.ijs.si/pdf/1429861734-RidgeIJARS2015.pdf)
+  - Barry Ridge, Ales Leonardis, Ales Ude, Miha Denisa, and Danijel Skocaj
+
 ### 2016
+
+- Persistent self-supervised learning principle: from stereo to monocular vision for obstacle avoidance
+  [[pdf]](https://arxiv.org/pdf/1603.08047.pdf)
+  - Kevin van Hecke, Guido de Croon, Laurens van der Maaten, Daniel Hennes, and Dario Izzo
+ 
 - The Curious Robot: Learning Visual Representations via Physical Interactions. 
   [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
