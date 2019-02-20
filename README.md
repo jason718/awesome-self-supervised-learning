@@ -40,6 +40,7 @@ Markdown format:
 - [Talks](#talks)
 
 ## Computer Vision
+
 ### Image Representation Learning
 
 #### 2009
@@ -343,6 +344,10 @@ Markdown format:
 - Online self-supervised learning for dynamic object segmentation
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.5829&rep=rep1&type=pdf)
   - Vitor Guizilini and Fabio Ramos, The International Journal of Robotics Research
+
+- Self-Supervised Online Learning of Basic Object Push Affordances
+  [[pdf]](http://abr.ijs.si/pdf/1429861734-RidgeIJARS2015.pdf)
+  - Barry Ridge, Ales Leonardis, Ales Ude, Miha Denisa, and Danijel Skocaj
 
 ### 2016
 
