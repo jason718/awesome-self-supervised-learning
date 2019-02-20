@@ -343,7 +343,13 @@ Markdown format:
 - Online self-supervised learning for dynamic object segmentation
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.5829&rep=rep1&type=pdf)
   - Vitor Guizilini and Fabio Ramos, The International Journal of Robotics Research
+
 ### 2016
+
+- Persistent self-supervised learning principle: from stereo to monocular vision for obstacle avoidance
+  [[pdf]](https://arxiv.org/pdf/1603.08047.pdf)
+  - Kevin van Hecke, Guido de Croon, Laurens van der Maaten, Daniel Hennes, and Dario Izzo
+ 
 - The Curious Robot: Learning Visual Representations via Physical Interactions. 
   [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
