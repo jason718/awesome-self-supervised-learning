@@ -351,6 +351,10 @@ Markdown format:
   [[pdf]](http://www.roboticsproceedings.org/rss02/p04.pdf)
   - Boris Sofman, Ellie Lin, J. Andrew Bagnell, Nicolas Vandapel, and Anthony Stentz
   
+- Reverse Optical Flow for Self-Supervised Adaptive Autonomous Robot Navigation
+  [[pdf]](https://www.cs.ait.ac.th/~mdailey/cvreadings/Lookingbill-ReverseOptical.pdf)
+  - A. Lookingbill, D. Lieb, J. Rogers and J. Curry
+  
 ### 2015
 
 - Online self-supervised learning for dynamic object segmentation
