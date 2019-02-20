@@ -210,6 +210,12 @@ Markdown format:
 - Cross Pixel Optical-Flow Similarity for Self-Supervised Learning.
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
   - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
+  
+#### 2019
+
+- Revisiting Self-Supervised Visual Representation Learning
+  [[pdf]](https://arxiv.org/pdf/1901.09005.pdf)
+  - Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer
 
 ### Video Representation Learning
 
