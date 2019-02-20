@@ -22,10 +22,6 @@ Markdown format:
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
-## Change Log
-- Call for PRs for Robotic papers. 
-- Dec.1: NIPS'18 papers added!
-- Jul.29: ECCV'18 papers updated!
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
