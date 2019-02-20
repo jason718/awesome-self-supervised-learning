@@ -39,12 +39,6 @@ Markdown format:
 
 ### Image Representation Learning
 
-#### 2009
-
-- Learning Long-Range Vision for Autonomous Off-Road Driving
-  [[pdf]](http://yann.lecun.com/exdb/publis/pdf/hadsell-jfr-09.pdf)
-  - Raia Hadsell, Pierre Sermanet, Jan Ben, Ayse Erkan, Marco Scoffier, Koray Kavukcuoglu, Urs Muller, Yann LeCun
-
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
   [[pdf]](https://arxiv.org/abs/1505.05192)
@@ -350,7 +344,13 @@ Markdown format:
 - Reverse Optical Flow for Self-Supervised Adaptive Autonomous Robot Navigation
   [[pdf]](https://www.cs.ait.ac.th/~mdailey/cvreadings/Lookingbill-ReverseOptical.pdf)
   - A. Lookingbill, D. Lieb, J. Rogers and J. Curry
-  
+
+### 2009
+
+- Learning Long-Range Vision for Autonomous Off-Road Driving
+  [[pdf]](http://yann.lecun.com/exdb/publis/pdf/hadsell-jfr-09.pdf)
+  - Raia Hadsell, Pierre Sermanet, Jan Ben, Ayse Erkan, Marco Scoffier, Koray Kavukcuoglu, Urs Muller, Yann LeCun
+ 
 ### 2012
 
 - Self-supervised terrain classification for planetary surface exploration rovers
