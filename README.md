@@ -351,6 +351,12 @@ Markdown format:
   [[pdf]](https://www.cs.ait.ac.th/~mdailey/cvreadings/Lookingbill-ReverseOptical.pdf)
   - A. Lookingbill, D. Lieb, J. Rogers and J. Curry
   
+### 2012
+
+- Self-supervised terrain classification for planetary surface exploration rovers
+  [[pdf]](https://pdfs.semanticscholar.org/66b7/eef326d1db1fa2b19d5dc6b84d3d2a95b76c.pdf)
+  - Christopher A. Brooks, Karl Iagnemma 
+  
 ### 2015
 
 - Online self-supervised learning for dynamic object segmentation
