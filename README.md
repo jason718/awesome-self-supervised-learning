@@ -357,6 +357,12 @@ Markdown format:
   [[pdf]](https://pdfs.semanticscholar.org/66b7/eef326d1db1fa2b19d5dc6b84d3d2a95b76c.pdf)
   - Christopher A. Brooks, Karl Iagnemma 
   
+### 2014
+
+- Terrain Traversability Analysis Using Multi-Sensor Data Correlation by a Mobile Robot
+  [[pdf]](http://sensor.eng.shizuoka.ac.jp/pdf/2014/SII.pdf)
+  - Mohammed Abdessamad Bekhti, Yuichi Kobayashi and Kazuki Matsumura
+  
 ### 2015
 
 - Online self-supervised learning for dynamic object segmentation
