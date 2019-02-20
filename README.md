@@ -339,6 +339,12 @@ Markdown format:
 
 ## Robotics
 
+### 2006
+
+- Improving Robot Navigation Through Self-Supervised Online Learning
+  [[pdf]](http://www.roboticsproceedings.org/rss02/p04.pdf)
+  - Boris Sofman, Ellie Lin, J. Andrew Bagnell, Nicolas Vandapel, and Anthony Stentz
+  
 ### 2015
 
 - Online self-supervised learning for dynamic object segmentation
