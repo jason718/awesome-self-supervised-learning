@@ -41,6 +41,13 @@ Markdown format:
 
 ## Computer Vision
 ### Image Representation Learning
+
+#### 2009
+
+- Learning Long-Range Vision for Autonomous Off-Road Driving
+  [[pdf]](http://yann.lecun.com/exdb/publis/pdf/hadsell-jfr-09.pdf)
+  - Raia Hadsell, Pierre Sermanet, Jan Ben, Ayse Erkan, Marco Scoffier, Koray Kavukcuoglu, Urs Muller, Yann LeCun
+
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
   [[pdf]](https://arxiv.org/abs/1505.05192)
