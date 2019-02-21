@@ -405,6 +405,10 @@ Markdown format:
 - Learning to Fly by Crashing
   [[pdf]](https://arxiv.org/abs/1704.05588)
   - Dhiraj Gandhi, Lerrel Pinto, Abhinav Gupta
+  
+- Self-supervised learning as an enabling technology for future space exploration robots: ISS experiments on monocular distance learning
+  [[pdf]](http://www.esa.int/gsp/ACT/doc/AI/pub/ACT-RPR-AI-2017-ACTA-SSL.pdf)
+  - K. van Hecke, G. C. de Croon, D. Hennes, T. P. Setterfield, A. Saenz- Otero, and D. Izzo
 
 ### 2018
 - Time-Contrastive Networks: Self-Supervised Learning from Video. 
