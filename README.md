@@ -401,6 +401,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
   [[Project]](http://apc.cs.princeton.edu/)
   - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017* 
+  
+- Learning to Fly by Crashing
+  [[pdf]](https://arxiv.org/abs/1704.05588)
+  - Dhiraj Gandhi, Lerrel Pinto, Abhinav Gupta
 
 ### 2018
 - Time-Contrastive Networks: Self-Supervised Learning from Video. 
