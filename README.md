@@ -372,6 +372,10 @@ Markdown format:
 - Self-Supervised Online Learning of Basic Object Push Affordances
   [[pdf]](http://abr.ijs.si/pdf/1429861734-RidgeIJARS2015.pdf)
   - Barry Ridge, Ales Leonardis, Ales Ude, Miha Denisa, and Danijel Skocaj
+  
+- Self-supervised learning of grasp dependent tool affordances on the iCub Humanoid robot
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139640)
+  - Tanis Mar, Vadim Tikhanoff, Giorgio Metta, and Lorenzo Natale
 
 ### 2016
 
