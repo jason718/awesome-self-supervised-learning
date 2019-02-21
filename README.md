@@ -372,6 +372,10 @@ Markdown format:
 - Self-Supervised Online Learning of Basic Object Push Affordances
   [[pdf]](http://abr.ijs.si/pdf/1429861734-RidgeIJARS2015.pdf)
   - Barry Ridge, Ales Leonardis, Ales Ude, Miha Denisa, and Danijel Skocaj
+  
+- Self-supervised learning of grasp dependent tool affordances on the iCub Humanoid robot
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139640)
+  - Tanis Mar, Vadim Tikhanoff, Giorgio Metta, and Lorenzo Natale
 
 ### 2016
 
@@ -401,6 +405,14 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
   [[Project]](http://apc.cs.princeton.edu/)
   - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017* 
+  
+- Learning to Fly by Crashing
+  [[pdf]](https://arxiv.org/abs/1704.05588)
+  - Dhiraj Gandhi, Lerrel Pinto, Abhinav Gupta
+  
+- Self-supervised learning as an enabling technology for future space exploration robots: ISS experiments on monocular distance learning
+  [[pdf]](http://www.esa.int/gsp/ACT/doc/AI/pub/ACT-RPR-AI-2017-ACTA-SSL.pdf)
+  - K. van Hecke, G. C. de Croon, D. Hennes, T. P. Setterfield, A. Saenz- Otero, and D. Izzo
 
 ### 2018
 - Time-Contrastive Networks: Self-Supervised Learning from Video. 
