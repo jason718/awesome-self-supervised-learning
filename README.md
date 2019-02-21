@@ -25,6 +25,7 @@ Markdown format:
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
+  - [Survey](#survery)
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
   - [Geometry](#geometry)
@@ -34,8 +35,13 @@ Markdown format:
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
 - [Talks](#talks)
+- [Thesis](#thesis)
 
 ## Computer Vision
+### Survery
+- Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.
+  [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
+  - Longlong Jing and Yingli Tian.
 
 ### Image Representation Learning
 
