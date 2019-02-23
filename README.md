@@ -425,6 +425,10 @@ Markdown format:
   [[Project]](http://vpg.cs.princeton.edu/)
   - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
   
+- Digging Into Self-Supervised Monocular Depth Estimation
+  [[pdf]](https://arxiv.org/pdf/1806.01260.pdf)
+  - Clement Godard, Oisin Mac Aodha, Gabriel J. Brostow
+  
 ### 2019
 
 - Learning Long-Range Perception Using Self-Supervision from Short-Range Sensors and Odometry
