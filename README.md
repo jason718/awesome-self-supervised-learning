@@ -265,7 +265,7 @@ Markdown format:
 - Active Stereo Net: End-to-End Self-Supervised Learning for Active Stereo Systems.
   [[project]](http://asn.cs.princeton.edu/)
   - Yinda Zhang*, Sean Fanello, Sameh Khamis, Christoph Rhemann, Julien Valentin, Adarsh Kowdle, Vladimir Tankovich, Shahram Izadi, Thomas Funkhouser. *ECCV 2018*
-  
+ 
 - Self-Supervised Relative Depth Learning for Urban Scene Understanding.
   [[pdf]](https://people.cs.umass.edu/~hzjiang/files/ssr_depth.pdf)
   [[project]](https://people.cs.umass.edu/~hzjiang/projects/ssr_depth/)
@@ -431,9 +431,6 @@ Markdown format:
   [[Project]](http://vpg.cs.princeton.edu/)
   - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
   
-- Digging Into Self-Supervised Monocular Depth Estimation
-  [[pdf]](https://arxiv.org/pdf/1806.01260.pdf)
-  - Clement Godard, Oisin Mac Aodha, Gabriel J. Brostow
   
 ### 2019
 
@@ -445,14 +442,7 @@ Markdown format:
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
 - Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) [[link]](https://business.facebook.com/academics/videos/1632981350086599)
 - Unsupervised Visual Learning Tutorial. *CVPR 2018* [[part 1]](https://www.youtube.com/watch?v=gSqmUOAMwcc) [[part 2]](https://www.youtube.com/watch?v=BijK_US6A0w)
-
-## Slides
-
-### 2018
-
-- Self-Supervised Learning 
-  [[pdf]](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
-  - Andrew Zisserman
+- Self-Supervised Learning. Andrew Zisserman (Oxford & Deepmind). [[pdf]](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
 
 ## Thesis
 - Supervision Beyond Manual Annotations for Learning Visual Representations. Carl Doersch. [[pdf]](http://www.carldoersch.com/docs/thesis.pdf).
