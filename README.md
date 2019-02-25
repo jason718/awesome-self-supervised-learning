@@ -431,6 +431,10 @@ Markdown format:
   [[Project]](http://vpg.cs.princeton.edu/)
   - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
   
+- Digging Into Self-Supervised Monocular Depth Estimation
+  [[pdf]](https://arxiv.org/pdf/1806.01260.pdf)
+  - Clement Godard, Oisin Mac Aodha, Gabriel J. Brostow
+  
 ### 2019
 
 - Learning Long-Range Perception Using Self-Supervision from Short-Range Sensors and Odometry
@@ -441,6 +445,14 @@ Markdown format:
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
 - Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) [[link]](https://business.facebook.com/academics/videos/1632981350086599)
 - Unsupervised Visual Learning Tutorial. *CVPR 2018* [[part 1]](https://www.youtube.com/watch?v=gSqmUOAMwcc) [[part 2]](https://www.youtube.com/watch?v=BijK_US6A0w)
+
+## Slides
+
+### 2018
+
+- Self-Supervised Learning 
+  [[pdf]](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
+  - Andrew Zisserman
 
 ## Thesis
 - Supervision Beyond Manual Annotations for Learning Visual Representations. Carl Doersch. [[pdf]](http://www.carldoersch.com/docs/thesis.pdf).
