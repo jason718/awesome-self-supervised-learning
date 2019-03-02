@@ -170,6 +170,12 @@ Markdown format:
   - Hsin-Ying Lee, Jia-Bin Huang, Maneesh Kumar Singh, and Ming-Hsuan Yang. *ICCV 2017*
 
 #### 2018
+
+- Unsupervised Feature Learning via Non-parameteric Instance Discrimination
+  [[pdf]](https://arxiv.org/pdf/1805.01978.pdf) 
+  [[code]](https://github.com/zhirongw/lemniscate.pytorch)
+  - Zhirong Wu, Yuanjun Xiong and X Yu Stella and Dahua Lin. *CVPR 2018*
+
 - Learning Image Representations by Completing Damaged Jigsaw Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1802.01880.pdf)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WACV 2018*
