@@ -322,6 +322,10 @@ Markdown format:
 - High-Fidelity Image Generation With Fewer Labels.
   [[pdf]](https://arxiv.org/pdf/1903.02271.pdf)
   - Mario Lucic*, Michael Tschannen*, Marvin Ritter*, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly.
+
+- Self-supervised Fitting of Articulated Meshes to Point Clouds.
+  - Chun-Liang Li, Tomas Simon, Jason Saragih, Barnabás Póczos and Yaser Sheikh. *CVPR 2019*
+  
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
