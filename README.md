@@ -215,9 +215,9 @@ Markdown format:
   
 #### 2019
 
-- Revisiting Self-Supervised Visual Representation Learning
+- Revisiting Self-Supervised Visual Representation Learning.
   [[pdf]](https://arxiv.org/pdf/1901.09005.pdf)
-  - Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer
+  - Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer. *CVPR 2019*
 
 ### Video Representation Learning
 
@@ -319,6 +319,9 @@ Markdown format:
   [[pdf]](https://www.cs.columbia.edu/~vondrick//videocolor.pdf)
   - Carl Vondrick*, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy. *ECCV 2018*
 
+- High-Fidelity Image Generation With Fewer Labels.
+  [[pdf]](https://arxiv.org/pdf/1903.02271.pdf)
+  - Mario Lucic*, Michael Tschannen*, Marvin Ritter*, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly.
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
@@ -348,7 +351,6 @@ Markdown format:
 ## Robotics
 
 ### 2006
-
 - Improving Robot Navigation Through Self-Supervised Online Learning
   [[pdf]](http://www.roboticsproceedings.org/rss02/p04.pdf)
   - Boris Sofman, Ellie Lin, J. Andrew Bagnell, Nicolas Vandapel, and Anthony Stentz
@@ -358,25 +360,21 @@ Markdown format:
   - A. Lookingbill, D. Lieb, J. Rogers and J. Curry
 
 ### 2009
-
 - Learning Long-Range Vision for Autonomous Off-Road Driving
   [[pdf]](http://yann.lecun.com/exdb/publis/pdf/hadsell-jfr-09.pdf)
   - Raia Hadsell, Pierre Sermanet, Jan Ben, Ayse Erkan, Marco Scoffier, Koray Kavukcuoglu, Urs Muller, Yann LeCun
  
 ### 2012
-
 - Self-supervised terrain classification for planetary surface exploration rovers
   [[pdf]](https://pdfs.semanticscholar.org/66b7/eef326d1db1fa2b19d5dc6b84d3d2a95b76c.pdf)
   - Christopher A. Brooks, Karl Iagnemma 
   
 ### 2014
-
 - Terrain Traversability Analysis Using Multi-Sensor Data Correlation by a Mobile Robot
   [[pdf]](http://sensor.eng.shizuoka.ac.jp/pdf/2014/SII.pdf)
   - Mohammed Abdessamad Bekhti, Yuichi Kobayashi and Kazuki Matsumura
   
 ### 2015
-
 - Online self-supervised learning for dynamic object segmentation
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.5829&rep=rep1&type=pdf)
   - Vitor Guizilini and Fabio Ramos, The International Journal of Robotics Research
@@ -390,7 +388,6 @@ Markdown format:
   - Tanis Mar, Vadim Tikhanoff, Giorgio Metta, and Lorenzo Natale
 
 ### 2016
-
 - Persistent self-supervised learning principle: from stereo to monocular vision for obstacle avoidance
   [[pdf]](https://arxiv.org/pdf/1603.08047.pdf)
   - Kevin van Hecke, Guido de Croon, Laurens van der Maaten, Daniel Hennes, and Dario Izzo
@@ -401,54 +398,106 @@ Markdown format:
 
 -   Learning to Poke by Poking: Experiential Learning of Intuitive Physics.
     [\[pdf\]](https://arxiv.org/abs/1606.07419)
-    -   Agrawal, Pulkit and Nair, Ashvin V and Abbeel, Pieter and Malik,
-        Jitendra and Levine, Sergey. *NIPS 2016*
+    -   Agrawal, Pulkit and Nair, Ashvin V and Abbeel, Pieter and Malik, Jitendra and Levine, Sergey. *NIPS 2016*
 
 -   Supersizing Self-supervision: Learning to Grasp from 50K Tries and
     700 Robot Hours. [\[pdf\]](https://arxiv.org/pdf/1509.06825.pdf)
     -   Pinto, Lerrel and Gupta, Abhinav. *ICRA 2016*
     
 ### 2017
--   Supervision via Competition: Robot Adversaries for Learning Tasks.
-    [\[pdf\]](https://arxiv.org/pdf/1610.01685.pdf)
-    -   Pinto, Lerrel and Davidson, James and Gupta, Abhinav. *ICRA 2017*
+-  Supervision via Competition: Robot Adversaries for Learning Tasks.
+   [[pdf]](https://arxiv.org/pdf/1610.01685.pdf)
+   - Pinto, Lerrel and Davidson, James and Gupta, Abhinav. *ICRA 2017*
 
 - Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the Amazon Picking Challenge.
   [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
   [[Project]](http://apc.cs.princeton.edu/)
   - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017* 
-  
+ 
+- Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation.
+  [[pdf]](https://arxiv.org/abs/1703.02018) 
+  [[Project]](https://ropemanipulation.github.io/)
+  - Ashvin Nair*, Dian Chen*, Pulkit Agrawal*, Phillip Isola, Pieter Abbeel, Jitendra Malik, Sergey Levine. *ICRA 2017*
+
 - Learning to Fly by Crashing
   [[pdf]](https://arxiv.org/abs/1704.05588)
-  - Dhiraj Gandhi, Lerrel Pinto, Abhinav Gupta
+  - Dhiraj Gandhi, Lerrel Pinto, Abhinav Gupta *IROS 2017*
   
 - Self-supervised learning as an enabling technology for future space exploration robots: ISS experiments on monocular distance learning
   [[pdf]](http://www.esa.int/gsp/ACT/doc/AI/pub/ACT-RPR-AI-2017-ACTA-SSL.pdf)
   - K. van Hecke, G. C. de Croon, D. Hennes, T. P. Setterfield, A. Saenz- Otero, and D. Izzo
 
+- Unsupervised Perceptual Rewards for Imitation Learning.
+  [[pdf]](https://arxiv.org/abs/1612.06699)
+  [[project]](https://sermanet.github.io/rewards/)
+  - Sermanet, Pierre and Xu, Kelvin and Levine, Sergey. *RSS 2017*
+
+- Self-Supervised Visual Planning with Temporal Skip Connections.
+  [[pdf]](http://arxiv.org/pdf/1710.05268)
+  - Frederik Ebert, Chelsea Finn, Alex X. Lee, Sergey Levine. *CoRL2017*
+
 ### 2018
+- CASSL: Curriculum Accelerated Self-Supervised Learning. 
+  [[pdf]](https://arxiv.org/pdf/1708.01354.pdf) 
+  - Adithyavairavan Murali, Lerrel Pinto, Dhiraj Gandhi, Abhinav Gupta. *ICRA 2018*
+
 - Time-Contrastive Networks: Self-Supervised Learning from Video. 
   [[pdf]](https://arxiv.org/pdf/1609.09475.pdf) 
   [[Project]](https://sermanet.github.io/imitate/)
   - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
+ 
+- Self-Supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation. 
+  [[pdf]](http://arxiv.org/pdf/1709.10489) 
+  - Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, Sergey Levine. *ICRA 2018*
+
+- Learning Actionable Representations from Visual Observations. 
+  [[pdf]](https://arxiv.org/pdf/1609.09475.pdf) 
+  [[Project]](https://sermanet.github.io/imitate/)
+  - Dwibedi, Debidatta and Tompson, Jonathan and Lynch, Corey and Sermanet, Pierre. *IROS 2018* 
   
 - Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning.
-  [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
-  [[Project]](http://vpg.cs.princeton.edu/)
+  [[pdf]](https://arxiv.org/abs/1808.00928) 
+  [[Project]](https://sites.google.com/view/actionablerepresentations/)
   - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
   
-  
-### 2019
+- Visual Reinforcement Learning with Imagined Goals.
+  [[pdf]](https://arxiv.org/abs/1807.04742) 
+  [[Project]](https://sites.google.com/site/visualrlwithimaginedgoals/)
+  - Ashvin Nair*, Vitchyr Pong*, Murtaza Dalal, Shikhar Bahl, Steven Lin, Sergey Levine.*NeurIPS 2018*
+ 
+- Grasp2Vec: Learning Object Representations from Self-Supervised Grasping.
+  [[pdf]](https://arxiv.org/pdf/1811.06964.pdf) 
+  [[Project]](https://sites.google.com/site/grasp2vec/home)
+  - Eric Jang*, Coline Devin*, Vincent Vanhoucke, Sergey Levine. *CoRL 2018*
 
-- Learning Long-Range Perception Using Self-Supervision from Short-Range Sensors and Odometry
+- Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/1810.03043.pdf) 
+  [[Project]](https://sites.google.com/view/robustness-via-retrying)
+  - Frederik Ebert, Sudeep Dasari, Alex X. Lee, Sergey Levine, Chelsea Finn. *CoRL 2018*
+
+### 2019
+- Learning Long-Range Perception Using Self-Supervision from Short-Range Sensors and Odometry.
   [[pdf]](https://arxiv.org/abs/1809.07207)
-  - Mirko Nava, Jerome Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella, Alessandro Giusti
+  - Mirko Nava, Jerome Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella, Alessandro Giusti. *Robotics and Automation Letters*
+
+- Learning Latent Plans from Play. 
+  [[pdf]](https://arxiv.org/pdf/1903.01973.pdf) 
+  [[Project]](https://learning-from-play.github.io/)
+  - COREY LYNCH, MOHI KHANSARI, TED XIAO, VIKASH KUMAR, JONATHAN TOMPSON, SERGEY LEVINE, PIERRE SERMANET
 
 ## Talks
-- Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU) [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
-- Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) [[link]](https://business.facebook.com/academics/videos/1632981350086599)
-- Unsupervised Visual Learning Tutorial. *CVPR 2018* [[part 1]](https://www.youtube.com/watch?v=gSqmUOAMwcc) [[part 2]](https://www.youtube.com/watch?v=BijK_US6A0w)
-- Self-Supervised Learning. Andrew Zisserman (Oxford & Deepmind). [[pdf]](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
+- Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU).
+  [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
+- Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) 
+  [[link]](https://business.facebook.com/academics/videos/1632981350086599)
+- Unsupervised Visual Learning Tutorial. *CVPR 2018* 
+  [[part 1]](https://www.youtube.com/watch?v=gSqmUOAMwcc) 
+  [[part 2]](https://www.youtube.com/watch?v=BijK_US6A0w)
+- Self-Supervised Learning. Andrew Zisserman (Oxford & Deepmind). 
+  [[pdf]](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
+- Graph Embeddings, Content Understanding, & Self-Supervised Learning. Yann LeCun. (NYU & FAIR)
+  [[pdf]](https://drive.google.com/file/d/12pDCno02FJPDEBk4iGuuaj8b2rr48Hh0/view)
+  [[video]](https://www.youtube.com/watch?v=UGPT64wo7lU)
 
 ## Thesis
 - Supervision Beyond Manual Annotations for Learning Visual Representations. Carl Doersch. [[pdf]](http://www.carldoersch.com/docs/thesis.pdf).
