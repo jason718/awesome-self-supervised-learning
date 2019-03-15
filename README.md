@@ -25,7 +25,7 @@ Markdown format:
 
 ## Table of Contents
 - [Computer Vision](#computer-vision)
-  - [Survey](#survery)
+  - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
   - [Geometry](#geometry)
@@ -38,7 +38,7 @@ Markdown format:
 - [Thesis](#thesis)
 
 ## Computer Vision
-### Survery
+### Survey
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.
   [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
   - Longlong Jing and Yingli Tian.
@@ -505,6 +505,8 @@ Markdown format:
 - Graph Embeddings, Content Understanding, & Self-Supervised Learning. Yann LeCun. (NYU & FAIR)
   [[pdf]](https://drive.google.com/file/d/12pDCno02FJPDEBk4iGuuaj8b2rr48Hh0/view)
   [[video]](https://www.youtube.com/watch?v=UGPT64wo7lU)
+- Self-supervised learning: could machines learn like humans? Yann LeCun @EPFL. 
+  [[video]](https://www.youtube.com/watch?v=7I0Qt7GALVk)
 
 ## Thesis
 - Supervision Beyond Manual Annotations for Learning Visual Representations. Carl Doersch. [[pdf]](http://www.carldoersch.com/docs/thesis.pdf).
