@@ -251,6 +251,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1807.11293)
   - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
 
+- Self-supervised learning of a facial attribute embedding from video.
+  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Wiles18a/wiles18a.pdf)
+  - Wiles, O.*, Koepke, A.S.*, Zisserman, A. *BMVC 2018*
+
 - Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1811.09795.pdf)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *AAAI 2019*
