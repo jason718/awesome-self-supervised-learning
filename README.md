@@ -511,6 +511,8 @@ Markdown format:
   [[video]](https://www.youtube.com/watch?v=UGPT64wo7lU)
 - Self-supervised learning: could machines learn like humans? Yann LeCun @EPFL. 
   [[video]](https://www.youtube.com/watch?v=7I0Qt7GALVk)
+- Week 9 (b): CS294-158 Deep Unsupervised Learning(Spring 2019). Alyosha Efros @UC Berkeley. 
+  [[video]](https://www.youtube.com/watch?v=PX11C5Vfo9U)
 
 ## Thesis
 - Supervision Beyond Manual Annotations for Learning Visual Representations. Carl Doersch. [[pdf]](http://www.carldoersch.com/docs/thesis.pdf).
