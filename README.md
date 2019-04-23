@@ -281,6 +281,11 @@ Markdown format:
   [[project]](https://people.cs.umass.edu/~hzjiang/projects/ssr_depth/)
   - Huaizu Jiang*, Erik Learned-Miller, Gustav Larsson, Michael Maire, Greg Shakhnarovich. *ECCV 2018*
 
+- Geometry-Aware Learning of Maps for Camera Localization.
+  [[pdf]](https://arxiv.org/abs/1712.03342)
+  [[code]](https://github.com/NVlabs/geomapnet)
+  - Samarth Brahmbhatt, Jinwei Gu, Kihwan Kim, James Hays, and Jan Kautz. CVPR 2018
+
 ### Audio
 - Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
   [[pdf]](https://arxiv.org/pdf/1804.03641.pdf)
