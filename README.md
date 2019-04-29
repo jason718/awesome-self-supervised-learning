@@ -219,6 +219,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1901.09005.pdf)
   - Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer. *CVPR 2019*
 
+- Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval.
+  [[pdf]](https://arxiv.org/abs/1603.09095)
+  [[code]](https://github.com/nenadmarkus/wlrn)
+  - Nenad Markuš, Igor S. Pandžić, Jörgen Ahlberg. *IEEE Transactions on Image Processing 2019*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
