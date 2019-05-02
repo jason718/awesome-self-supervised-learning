@@ -153,7 +153,7 @@ Markdown format:
   - Doersch, Carl and Zisserman, Andrew. *ICCV 2017*
 
 - Representation Learning by Learning to Count.
-  [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
+  [[pdf]](https://arxiv.org/abs/1708.06734)
   - Noroozi, Mehdi and Pirsiavash, Hamed and Favaro, Paolo. *ICCV 2017*
 
 - Transitive Invariance for Self-supervised Visual Representation Learning.
