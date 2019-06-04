@@ -212,13 +212,22 @@ Markdown format:
 - Cross Pixel Optical-Flow Similarity for Self-Supervised Learning.
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
   - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
-  
+ 
 #### 2019
 
+- Self-Supervised Learning via Conditional Motion Propagation.
+  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
+  - Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, and Chen Change Loy. *CVPR 2019*
+ 
+- Self-Supervised Representation Learning by Rotation Feature Decoupling.
+  [[pdf]]()
+  - Zeyu Feng; Chang Xu; Dacheng Tao. *CVPR 2019*
+ 
 - Revisiting Self-Supervised Visual Representation Learning.
-  [[pdf]](https://arxiv.org/pdf/1901.09005.pdf)
-  - Alexander Kolesnikov, Xiaohua Zhai, Lucas Beyer. *CVPR 2019*
-
+  [[pdf]](https://arxiv.org/abs/1901.09005)
+  [[code]](https://github.com/google/revisiting-self-supervised)
+  - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. CVPR 2019
+ 
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
@@ -258,7 +267,11 @@ Markdown format:
 - Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1811.09795.pdf)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *AAAI 2019*
-
+ 
+- Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics.
+  [[pdf]](https://arxiv.org/abs/1904.03597)
+  - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
+ 
 ### Geometry
 -   Self-supervised Learning of Motion Capture.
     [[pdf]](https://arxiv.org/pdf/1712.01337.pdf)
@@ -285,6 +298,15 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1712.03342)
   [[code]](https://github.com/NVlabs/geomapnet)
   - Samarth Brahmbhatt, Jinwei Gu, Kihwan Kim, James Hays, and Jan Kautz. CVPR 2018
+
+- Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry.
+  [[pdf]](https://arxiv.org/abs/1903.02330)
+  - Muhammed Kocabas; Salih Karagoz; Emre Akbas. CVPR 2019
+
+- SelFlow: Self-Supervised Learning of Optical Flow.
+  [[pdf]](https://arxiv.org/abs/1904.03597)
+  - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
+ 
 
 ### Audio
 - Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
@@ -338,6 +360,24 @@ Markdown format:
 - SCOPS: Self-Supervised Co-Part Segmentation. 
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
 
+- Self-Supervised GANs via Auxiliary Rotation Loss. 
+  - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
+
+- Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking.
+  - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
+  
+- Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
+  - Wonhee Lee; Joonil Na; Gunhee Kim. *CVPR 2019*
+  
+- Self-Supervised Convolutional Subspace Clustering Network.
+  - Junjian Zhang; Chun-Guang Li; Chong You; Xianbiao Qi; Honggang Zhang; Jun Guo; Zhouchen Lin. *CVPR 2019*
+  
+- Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation.
+  - Xin Wang; Qiuyuan Huang; Asli Celikyilmaz; Jianfeng Gao; Dinghan Shen; Yuan-Fang Wang; William Yang Wang; Lei Zhang. *CVPR 2019*
+  
+- Unsupervised 3D Pose Estimation With Geometric Self-Supervision.
+  - Ching-Hang Chen; Ambrish Tyagi; Amit Agrawal; Dylan Drover; Rohith MV; Stefan Stojanov; James M. Rehg. *CVPR 2019*
+
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
@@ -347,7 +387,6 @@ Markdown format:
 -   Representation Learning: A Review and New Perspectives.
     [[pdf]](https://arxiv.org/pdf/1206.5538.pdf)
     -   Bengio, Yoshua and Courville, Aaron and Vincent, Pascal. *TPAMI 2013*.
-
 
 ### Reinforcement Learning
 - Curiosity-driven Exploration by Self-supervised Prediction. 
@@ -500,6 +539,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1903.01973.pdf) 
   [[Project]](https://learning-from-play.github.io/)
   - COREY LYNCH, MOHI KHANSARI, TED XIAO, VIKASH KUMAR, JONATHAN TOMPSON, SERGEY LEVINE, PIERRE SERMANET
+
 
 ## Talks
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU).
