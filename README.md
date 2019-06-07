@@ -378,6 +378,9 @@ Markdown format:
 - Unsupervised 3D Pose Estimation With Geometric Self-Supervision.
   - Ching-Hang Chen; Ambrish Tyagi; Amit Agrawal; Dylan Drover; Rohith MV; Stefan Stojanov; James M. Rehg. *CVPR 2019*
 
+- Learning to Generate Grounded Image Captions without Localization Supervision. [[pdf]](https://arxiv.org/pdf/1906.00283.pdf)
+  - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
+
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
