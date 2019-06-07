@@ -43,7 +43,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
   - Longlong Jing and Yingli Tian.
 
+
 ### Image Representation Learning
+
+#### Benchmark code
+FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fair_self_supervision_benchmark): various benchmark (and legacy) tasks for evaluating quality of visual representations learned by various self-supervision approaches. 
 
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
