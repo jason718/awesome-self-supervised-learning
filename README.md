@@ -409,6 +409,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube.pdf) 
   - Yusuf Aytar, Tobias Pfaff, David Budden, Tom Le Paine, Ziyu Wang, Nando de Freitas. *NIPS 2018*
 
+### Adversarial Learning
+- Self-Supervised GANs via Auxiliary Rotation Loss. 
+  [[pdf]](https://arxiv.org/pdf/1811.11212.pdf) 
+  [[code]](https://github.com/zhangqianhui/Self-Supervised-GANs)
+  - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. *CVPR 2019*
+
+- GazeCorrection: Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks.
+  [[pdf]](https://arxiv.org/abs/1906.00805) 
+  [[code]](https://github.com/zhangqianhui/GazeCorrection)
+  - Jichao Zhang, Meng Sun, Jingjing Chen, Hao Tang, Yan Yan, Xueying Qin, Nicu Sebe.
 
 ## Robotics
 
