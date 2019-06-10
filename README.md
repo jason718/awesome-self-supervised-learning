@@ -413,12 +413,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-Supervised GANs via Auxiliary Rotation Loss. 
   [[pdf]](https://arxiv.org/pdf/1811.11212.pdf) 
   [[code]](https://github.com/zhangqianhui/Self-Supervised-GANs)
-  - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. *CVPR 2019*
+  - Ting Chen, Xiaohua Zhai, Marvin Ritter, Mario Lucic, Neil Houlsby. *CVPR 2019*
 
 - GazeCorrection: Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/abs/1906.00805) 
   [[code]](https://github.com/zhangqianhui/GazeCorrection)
-  - Jichao Zhang, Meng Sun, Jingjing Chen, Hao Tang, Yan Yan, Xueying Qin, Nicu Sebe.
+  - Jichao Zhang, Meng Sun, Jingjing Chen, Hao Tang, Yan Yan, Xueying Qin, Nicu Sebe
+  
+ - An Improved Self-Supervised GAN via Adversarial Training.
+  [[pdf]](https://arxiv.org/abs/1905.05469) 
+  - Ngoc-Trung Tran, Viet-Hung Tran, Ngoc-Bao Nguyen, Ngai-Man Cheung
 
 ## Robotics
 
