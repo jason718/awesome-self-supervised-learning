@@ -221,17 +221,29 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - Self-Supervised Learning via Conditional Motion Propagation.
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
+  [[code]](https://github.com/XiaohangZhan/conditional-motion-propagation)
   - Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, and Chen Change Loy. *CVPR 2019*
  
 - Self-Supervised Representation Learning by Rotation Feature Decoupling.
-  [[pdf]]()
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/html/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.html)
+  [[code]](https://github.com/philiptheother/FeatureDecoupling)
   - Zeyu Feng; Chang Xu; Dacheng Tao. *CVPR 2019*
  
 - Revisiting Self-Supervised Visual Representation Learning.
   [[pdf]](https://arxiv.org/abs/1901.09005)
   [[code]](https://github.com/google/revisiting-self-supervised)
   - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. CVPR 2019
- 
+
+- AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_AET_vs._AED_Unsupervised_Representation_Learning_by_Auto-Encoding_Transformations_Rather_CVPR_2019_paper.pdf)
+  [[code]](https://github.com/maple-research-lab/AET)
+  - Liheng Zhang, Guo-Jun Qi, Liqiang Wang, Jiebo Luo. *CVPR 2019*
+
+- Unsupervised Deep Learning by Neighbourhood Discovery.
+  [[pdf]](http://proceedings.mlr.press/v97/huang19b.html)
+  [[code]](https://github.com/Raymond-sci/AND)
+  - Jiabo Huang, Qi Dong, Shaogang Gong, Xiatian Zhu. *ICML 2019*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
