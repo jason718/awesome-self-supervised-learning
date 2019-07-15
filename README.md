@@ -244,10 +244,23 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Liheng Zhang, Guo-Jun Qi, Liqiang Wang, Jiebo Luo. *CVPR 2019*
 
 - Unsupervised Deep Learning by Neighbourhood Discovery.
-  [[pdf]](http://proceedings.mlr.press/v97/huang19b.html)
-  [[code]](https://github.com/Raymond-sci/AND)
+  [[pdf]](http://proceedings.mlr.press/v97/huang19b.html).
+  [[code]](https://github.com/Raymond-sci/AND).
   - Jiabo Huang, Qi Dong, Shaogang Gong, Xiatian Zhu. *ICML 2019*
-
+  
+- Contrastive Multiview Coding.
+  [[pdf]](https://arxiv.org/abs/1906.05849)
+  [[code]](https://github.com/HobbitLong/CMC/)
+  - Yonglong Tian and Dilip Krishnan and Phillip Isola.
+ 
+- Large Scale Adversarial Representation Learning.
+  [[pdf]](https://arxiv.org/abs/1907.02544)
+  - Jeff Donahue, Karen Simonyan.
+ 
+- Learning Representations by Maximizing Mutual Information Across Views.
+  [[pdf]](https://arxiv.org/pdf/1906.00910)
+  - Philip Bachman, R Devon Hjelm, William Buchwalter
+ 
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
