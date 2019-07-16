@@ -264,12 +264,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Selfie: Self-supervised Pretraining for Image Embedding. 
     [[pdf]](https://arxiv.org/abs/1906.02940) 
     - Trieu H. Trinh, Minh-Thang Luong, Quoc V. Le
- 
-  - SCOPS: Self-Supervised Co-Part Segmentation. 
-    [[pdf]](https://arxiv.org/abs/1905.01298) 
-    [[code]](https://github.com/NVlabs/SCOPS)
-    - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, Jan Kautz
-  
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
