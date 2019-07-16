@@ -263,7 +263,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  
  - Selfie: Self-supervised Pretraining for Image Embedding. 
     [[pdf]](https://arxiv.org/abs/1906.02940) 
-    [[code]](link)
     - Trieu H. Trinh, Minh-Thang Luong, Quoc V. Le
  
   - SCOPS: Self-Supervised Co-Part Segmentation. 
