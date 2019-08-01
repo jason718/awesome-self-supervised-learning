@@ -28,7 +28,7 @@ Markdown format:
 ```
 
 ## Table of Contents
-- [Computer Vision](#computer-vision)
+- [Computer Vision (CV)](#computer-vision)
   - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
@@ -38,6 +38,7 @@ Markdown format:
 - [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
+- [Natural Language Processing (NLP)](#nlp)  
 - [Talks](#talks)
 - [Thesis](#thesis)
 
@@ -583,7 +584,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - COREY LYNCH, MOHI KHANSARI, TED XIAO, VIKASH KUMAR, JONATHAN TOMPSON, SERGEY LEVINE, PIERRE SERMANET
 
 
+## NLP
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
+  [[pdf]](https://arxiv.org/abs/1810.04805)
+  [[link]](https://github.com/google-research/bert)
+  - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. *NAACL 2019 Best Long Paper*
+  
 ## Talks
+- The power of Self-Learning Systems. Demis Hassabis (DeepMind).
+  [[link]](https://youtu.be/wxis9FrCHbw)
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU).
   [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
 - Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) 
