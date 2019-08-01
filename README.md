@@ -198,6 +198,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Terrell Mundhenk and Daniel Ho and Barry Chen. *CVPR 2018*
   
 - Self-Supervised Feature Learning by Learning to Spot Artifacts.
+  [[pdf]](https://arxiv.org/pdf/1806.05024.pdf)
+  [[code]](https://github.com/sjenni/LearningToSpotArtifacts)
   - Simon Jenni and Universität Bern and Paolo Favaro. *CVPR 2018*
   
 - Boosting Self-Supervised Learning via Knowledge Transfer. 
