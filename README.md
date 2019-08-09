@@ -311,7 +311,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics.
   [[pdf]](https://arxiv.org/abs/1904.03597)
   - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
- 
+
+- DynamoNet: Dynamic Action and Motion Network.
+  [[pdf]](https://arxiv.org/pdf/1904.11407.pdf)
+  - Ali Diba; Vivek Sharma, Luc Van Gool, Rainer Stiefelhagen. *ICCV 2019*
+
 ### Geometry
 -   Self-supervised Learning of Motion Capture.
     [[pdf]](https://arxiv.org/pdf/1712.01337.pdf)
@@ -420,6 +424,9 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - Learning to Generate Grounded Image Captions without Localization Supervision. [[pdf]](https://arxiv.org/pdf/1906.00283.pdf)
   - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
+
+- VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
+  - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
 
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
