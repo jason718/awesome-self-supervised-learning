@@ -367,6 +367,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[project]](http://vision.cs.utexas.edu/projects/separating_object_sounds/)
   - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
   
+- The Sound of Pixels.
+  [[pdf]]( https://arxiv.org/pdf/1907.11879.pdf )
+  [[project]](https://github.com/hangzhaomit/Sound-of-Pixels)
+  - Zhao, Hang and Gan, Chuang and Rouditchenko, Andrew and Vondrick, Carl and McDermott, Josh and Torralba, Antonio. *ECCV 2018*
+ 
 - Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization. 
   [[pdf]](http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization.pdf)
   - Bruno Korbar,Dartmouth College, Du Tran, Lorenzo Torresani. *NIPS 2018*
