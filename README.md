@@ -272,9 +272,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/1905.09272)
     - Olivier J. He ́naff, Ali Razavi, Carl Doersch, S. M. Ali Eslami, Aaron van den Oord
     
- - S4L: Self-Supervised Semi-Supervised Learning
-   [[pdf]](https://arxiv.org/pdf/1905.03670.pdf)
-   - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer
 
 ### Video Representation Learning
 
@@ -441,9 +438,9 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
   
-   - Self-supervised visual feature learning with deep neural networks: A survey. 
-   [[pdf]](https://arxiv.org/abs/1902.06162)
-   - Longlong Jing, Yingli Tian
+- S4L: Self-Supervised Semi-Supervised Learning
+  [[pdf]](https://arxiv.org/pdf/1905.03670.pdf)
+  - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer
 
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
