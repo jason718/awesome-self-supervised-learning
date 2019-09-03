@@ -271,7 +271,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Data-Efficient Image Recognition with Contrastive Predictive Coding
     [[pdf]](https://arxiv.org/abs/1905.09272)
     - Olivier J. He ́naff, Ali Razavi, Carl Doersch, S. M. Ali Eslami, Aaron van den Oord
-    
+
+ - Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty
+    [[pdf]](https://arxiv.org/abs/1906.12340)
+    - Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
 
 ### Video Representation Learning
 
