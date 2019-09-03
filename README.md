@@ -273,7 +273,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     - Olivier J. He ́naff, Ali Razavi, Carl Doersch, S. M. Ali Eslami, Aaron van den Oord
 
  - Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty
-    [[pdf]](https://arxiv.org/abs/1906.12340)
+    [[pdf]](https://arxiv.org/pdf/1906.12340)
+    [[code]](https://github.com/hendrycks/ss-ood)
     - Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
 
 ### Video Representation Learning
