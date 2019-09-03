@@ -226,6 +226,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  
 #### 2019
 
+- Representation Learning with Contrastive Predictive Coding.
+  [[pdf]](https://arxiv.org/abs/1807.03748)
+  - Aaron van den Oord, Yazhe Li, Oriol Vinyals.
+
 - Self-Supervised Learning via Conditional Motion Propagation.
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
   [[code]](https://github.com/XiaohangZhan/conditional-motion-propagation)
