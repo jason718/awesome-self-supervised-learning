@@ -618,6 +618,14 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/abs/1810.04805)
   [[link]](https://github.com/google-research/bert)
   - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. *NAACL 2019 Best Long Paper*
+
+- Self-Supervised Dialogue Learning
+  [[pdf]](https://arxiv.org/pdf/1907.00448.pdf)
+  - Jiawei Wu, Xin Wang, William Yang Wang. *ACL 2019*
+
+- Self-Supervised Learning for Contextualized Extractive Summarization
+  [[pdf]](https://arxiv.org/pdf/1906.04466.pdf)
+  - Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang. *ACL 2019*
   
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
