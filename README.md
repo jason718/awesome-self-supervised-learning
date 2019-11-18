@@ -477,6 +477,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Playing hard exploration games by watching YouTube.
   [[pdf]](https://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube.pdf) 
   - Yusuf Aytar, Tobias Pfaff, David Budden, Tom Le Paine, Ziyu Wang, Nando de Freitas. *NIPS 2018*
+  
+- Unsupervised State Representation Learning in Atari.
+  [[pdf]](https://arxiv.org/pdf/1906.08226.pdf)
+  [[code]](https://github.com/mila-iqia/atari-representation-learning)
+  - Ankesh Anand, Evan Racah, Sherjil Ozair, Yoshua Bengio, Marc-Alexandre Côté, R Devon Hjelm. *NeurIPS 2019*
 
 
 ## Robotics
