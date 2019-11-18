@@ -281,6 +281,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/hendrycks/ss-ood)
     - Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
 
+ - Momentum Contrast for Unsupervised Visual Representation Learning
+    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
+    - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
