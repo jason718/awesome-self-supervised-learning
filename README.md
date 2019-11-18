@@ -396,6 +396,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-Supervised Generation of Spatial Audio for 360° Video.
   [[pdf]](http://papers.nips.cc/paper/7319-self-supervised-generation-of-spatial-audio-for-360-video.pdf)
   - Pedro Morgado, Nuno Nvasconcelos, Timothy Langlois, Oliver Wang. *NIPS 2018*
+  
+- TriCycle: Audio Representation Learning from Sensor Network Data Using Self-Supervision
+  [[pdf]](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cartwright_tricycle_waspaa2019.pdf)
+  - Mark Cartwright, Jason Cramer, Justin Salamon, Juan Pablo Bello. *WASPAA 2019*
 
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
