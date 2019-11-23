@@ -360,6 +360,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/NVlabs/geomapnet)
   - Samarth Brahmbhatt, Jinwei Gu, Kihwan Kim, James Hays, and Jan Kautz. CVPR 2018
 
+- Self-supervised Learning of Geometrically Stable Features Through Probabilistic Introspection.
+  [[pdf]](https://arxiv.org/abs/1804.01552)
+  [[web]](http://www.robots.ox.ac.uk/~vgg/research/probabilistic_introspection/)
+  - David Novotny, Samuel Albanie, Diane Larlus, Andrea Vedaldi. CVPR 2018
+
 - Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry.
   [[pdf]](https://arxiv.org/abs/1903.02330)
   - Muhammed Kocabas; Salih Karagoz; Emre Akbas. CVPR 2019
@@ -367,6 +372,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - SelFlow: Self-Supervised Learning of Optical Flow.
   [[pdf]](https://arxiv.org/abs/1904.03597)
   - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
+
+- Unsupervised Learning of Landmarks by Descriptor Vector Exchange.
+  [[pdf]](https://arxiv.org/abs/1908.06427)
+  [[code]](https://github.com/jamt9000/DVE)
+  [[web]](http://www.robots.ox.ac.uk/~vgg/research/DVE/)
+  - James Thewlis, Samuel Albanie, Hakan Bilen, Andrea Vedaldi. ICCV 2019
+
  
 
 ### Audio
@@ -388,6 +400,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]]( https://arxiv.org/pdf/1907.11879.pdf )
   [[project]](https://github.com/hangzhaomit/Sound-of-Pixels)
   - Zhao, Hang and Gan, Chuang and Rouditchenko, Andrew and Vondrick, Carl and McDermott, Josh and Torralba, Antonio. *ECCV 2018*
+
+- Learnable PINs: Cross-Modal Embeddings for Person Identity.
+  [[pdf]](https://arxiv.org/abs/1805.00833)
+  [[web]](http://www.robots.ox.ac.uk/~vgg/research/LearnablePins/)
+  - Arsha Nagrani, Samuel Albanie, Andrew Zisserman. ECCV 2018
+
  
 - Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization. 
   [[pdf]](http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization.pdf)
