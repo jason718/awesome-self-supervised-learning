@@ -292,6 +292,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/emansim/unsupervised-videos)
   - Srivastava, Nitish and Mansimov, Elman and Salakhudinov, Ruslan. *ICML 2015*
 
+- Unsupervised Learning of Visual Representations using Videos.
+  [[pdf]](https://arxiv.org/abs/1505.00687)
+  [[code]](https://github.com/xiaolonw/caffe-video_triplet)
+  - Xiaolong Wang and Abhinav Gupta. *ICCV 2015*
+
 - Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. 
   [[pdf]](http://arxiv.org/abs/1603.08561) 
   [[code]](https://github.com/imisra/shuffle-tuple)
@@ -308,6 +313,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. 
   [[pdf]](https://arxiv.org/pdf/1701.01821.pdf)
   - Luo, Zelun and Peng, Boya and Huang, De-An and Alahi, Alexandre and Fei-Fei, Li. *CVPR 2017*
+
+- Transitive Invariance for Self-supervised Visual Representation Learning.
+  [[pdf]](https://arxiv.org/abs/1708.02901)
+  - Xiaolong Wang, Kaiming He, and Abhinav Gupta. *ICCV 2017*
 
 - Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.
   [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
@@ -332,6 +341,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - DynamoNet: Dynamic Action and Motion Network.
   [[pdf]](https://arxiv.org/pdf/1904.11407.pdf)
   - Ali Diba; Vivek Sharma, Luc Van Gool, Rainer Stiefelhagen. *ICCV 2019*
+
+- Learning Correspondence from the Cycle-consistency of Time.
+  [[pdf]](https://arxiv.org/abs/1903.07593) 
+  [[code]](https://github.com/xiaolonw/TimeCycle)
+  - Xiaolong Wang*, Allan Jabri* and Alexei A. Efros. *CVPR 2019*
+
+- Joint-task Self-supervised Learning for Temporal Correspondence.
+  [[pdf]](https://arxiv.org/abs/1909.11895) 
+  [[code]](https://github.com/Liusifei/UVC)
+  - Xueting Li*, Sifei Liu*, Shalini De Mello, Xiaolong Wang, Jan Kautz, and Ming-Hsuan Yang. *NIPS 2019*
 
 ### Geometry
 -   Self-supervised Learning of Motion Capture.
