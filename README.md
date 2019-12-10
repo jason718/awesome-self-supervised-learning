@@ -292,11 +292,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/emansim/unsupervised-videos)
   - Srivastava, Nitish and Mansimov, Elman and Salakhudinov, Ruslan. *ICML 2015*
 
-- Unsupervised Learning of Visual Representations using Videos.
-  [[pdf]](https://arxiv.org/abs/1505.00687)
-  [[code]](https://github.com/xiaolonw/caffe-video_triplet)
-  - Xiaolong Wang and Abhinav Gupta. *ICCV 2015*
-
 - Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. 
   [[pdf]](http://arxiv.org/abs/1603.08561) 
   [[code]](https://github.com/imisra/shuffle-tuple)
@@ -313,10 +308,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Unsupervised Learning of Long-Term Motion Dynamics for Videos. 
   [[pdf]](https://arxiv.org/pdf/1701.01821.pdf)
   - Luo, Zelun and Peng, Boya and Huang, De-An and Alahi, Alexandre and Fei-Fei, Li. *CVPR 2017*
-
-- Transitive Invariance for Self-supervised Visual Representation Learning.
-  [[pdf]](https://arxiv.org/abs/1708.02901)
-  - Xiaolong Wang, Kaiming He, and Abhinav Gupta. *ICCV 2017*
 
 - Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.
   [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
