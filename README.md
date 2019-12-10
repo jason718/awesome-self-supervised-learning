@@ -188,7 +188,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Learning Image Representations by Completing Damaged Jigsaw Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1802.01880.pdf)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WACV 2018*
-        
+  
 - Unsupervised Representation Learning by Predicting Image Rotations. 
   [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   [[code]](https://github.com/gidariss/FeatureLearningRotNet)
@@ -223,7 +223,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Cross Pixel Optical-Flow Similarity for Self-Supervised Learning.
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
   - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
- 
+
 #### 2019
 
 - Representation Learning with Contrastive Predictive Coding.
@@ -234,12 +234,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
   [[code]](https://github.com/XiaohangZhan/conditional-motion-propagation)
   - Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, and Chen Change Loy. *CVPR 2019*
- 
+
 - Self-Supervised Representation Learning by Rotation Feature Decoupling.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/html/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.html)
   [[code]](https://github.com/philiptheother/FeatureDecoupling)
   - Zeyu Feng; Chang Xu; Dacheng Tao. *CVPR 2019*
- 
+
 - Revisiting Self-Supervised Visual Representation Learning.
   [[pdf]](https://arxiv.org/abs/1901.09005)
   [[code]](https://github.com/google/revisiting-self-supervised)
@@ -259,15 +259,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/abs/1906.05849)
   [[code]](https://github.com/HobbitLong/CMC/)
   - Yonglong Tian and Dilip Krishnan and Phillip Isola.
- 
+
 - Large Scale Adversarial Representation Learning.
   [[pdf]](https://arxiv.org/abs/1907.02544)
   - Jeff Donahue, Karen Simonyan.
- 
+
 - Learning Representations by Maximizing Mutual Information Across Views.
   [[pdf]](https://arxiv.org/pdf/1906.00910)
   - Philip Bachman, R Devon Hjelm, William Buchwalter
- 
+
  - Selfie: Self-supervised Pretraining for Image Embedding. 
     [[pdf]](https://arxiv.org/abs/1906.02940) 
     - Trieu H. Trinh, Minh-Thang Luong, Quoc V. Le
@@ -312,7 +312,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.
   [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
   - Chuang Gan and Boqing Gong and Kun Liu and Hao Su and Leonidas J. Guibas. *CVPR 2018*
-    
+  
 - Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/abs/1807.11293)
   - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
@@ -324,7 +324,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1811.09795.pdf)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *AAAI 2019*
- 
+
 - Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics.
   [[pdf]](https://arxiv.org/abs/1904.03597)
   - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
@@ -355,11 +355,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/tinghuiz/SfMLearner)
     [[web]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
     -   Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe, David G. *CVPR 2017*
-        
+    
 - Active Stereo Net: End-to-End Self-Supervised Learning for Active Stereo Systems.
   [[project]](http://asn.cs.princeton.edu/)
   - Yinda Zhang*, Sean Fanello, Sameh Khamis, Christoph Rhemann, Julien Valentin, Adarsh Kowdle, Vladimir Tankovich, Shahram Izadi, Thomas Funkhouser. *ECCV 2018*
- 
+
 - Self-Supervised Relative Depth Learning for Urban Scene Understanding.
   [[pdf]](https://people.cs.umass.edu/~hzjiang/files/ssr_depth.pdf)
   [[project]](https://people.cs.umass.edu/~hzjiang/projects/ssr_depth/)
@@ -416,7 +416,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[web]](http://www.robots.ox.ac.uk/~vgg/research/LearnablePins/)
   - Arsha Nagrani, Samuel Albanie, Andrew Zisserman. ECCV 2018
 
- 
+
 - Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization. 
   [[pdf]](http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization.pdf)
   - Bruno Korbar,Dartmouth College, Du Tran, Lorenzo Torresani. *NIPS 2018*
@@ -433,58 +433,45 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
-
 - Free Supervision from Video Games.
   [[pdf]](http://www.philkr.net/papers/2018-06-01-cvpr/2018-06-01-cvpr.pdf)
   [[project+code]](http://www.philkr.net/fsv/)
   - Philipp Krähenbühl. *CVPR 2018*
-
 - Fighting Fake News: Image Splice Detection via Learned Self-Consistency
   [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
   [[code]](https://github.com/minyoungg/selfconsistency)
   - Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros. *ECCV 2018*
-
 - Self-supervised Tracking by Colorization (Tracking Emerges by Colorizing Videos).
   [[pdf]](https://www.cs.columbia.edu/~vondrick//videocolor.pdf)
   - Carl Vondrick*, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy. *ECCV 2018*
-
 - High-Fidelity Image Generation With Fewer Labels.
   [[pdf]](https://arxiv.org/pdf/1903.02271.pdf)
   - Mario Lucic*, Michael Tschannen*, Marvin Ritter*, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly.
-
 - Self-supervised Fitting of Articulated Meshes to Point Clouds.
   - Chun-Liang Li, Tomas Simon, Jason Saragih, Barnabás Póczos and Yaser Sheikh. *CVPR 2019*
-
 - SCOPS: Self-Supervised Co-Part Segmentation. 
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
-
 - Self-Supervised GANs via Auxiliary Rotation Loss. 
   - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
-
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking.
   - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
-  
 - Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
   - Wonhee Lee; Joonil Na; Gunhee Kim. *CVPR 2019*
-  
 - Self-Supervised Convolutional Subspace Clustering Network.
   - Junjian Zhang; Chun-Guang Li; Chong You; Xianbiao Qi; Honggang Zhang; Jun Guo; Zhouchen Lin. *CVPR 2019*
-  
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation.
   - Xin Wang; Qiuyuan Huang; Asli Celikyilmaz; Jianfeng Gao; Dinghan Shen; Yuan-Fang Wang; William Yang Wang; Lei Zhang. *CVPR 2019*
-  
 - Unsupervised 3D Pose Estimation With Geometric Self-Supervision.
   - Ching-Hang Chen; Ambrish Tyagi; Amit Agrawal; Dylan Drover; Rohith MV; Stefan Stojanov; James M. Rehg. *CVPR 2019*
-
 - Learning to Generate Grounded Image Captions without Localization Supervision. [[pdf]](https://arxiv.org/pdf/1906.00283.pdf)
   - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
-
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
-  
 - S4L: Self-Supervised Semi-Supervised Learning
   [[pdf]](https://arxiv.org/pdf/1905.03670.pdf)
   - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer
+- Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
+  - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
 
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
@@ -531,7 +518,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Learning Long-Range Vision for Autonomous Off-Road Driving
   [[pdf]](http://yann.lecun.com/exdb/publis/pdf/hadsell-jfr-09.pdf)
   - Raia Hadsell, Pierre Sermanet, Jan Ben, Ayse Erkan, Marco Scoffier, Koray Kavukcuoglu, Urs Muller, Yann LeCun
- 
+
 ### 2012
 - Self-supervised terrain classification for planetary surface exploration rovers
   [[pdf]](https://pdfs.semanticscholar.org/66b7/eef326d1db1fa2b19d5dc6b84d3d2a95b76c.pdf)
@@ -559,7 +546,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Persistent self-supervised learning principle: from stereo to monocular vision for obstacle avoidance
   [[pdf]](https://arxiv.org/pdf/1603.08047.pdf)
   - Kevin van Hecke, Guido de Croon, Laurens van der Maaten, Daniel Hennes, and Dario Izzo
- 
+
 - The Curious Robot: Learning Visual Representations via Physical Interactions. 
   [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
@@ -581,7 +568,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
   [[Project]](http://apc.cs.princeton.edu/)
   - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017* 
- 
+
 - Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation.
   [[pdf]](https://arxiv.org/abs/1703.02018) 
   [[Project]](https://ropemanipulation.github.io/)
@@ -613,7 +600,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/1609.09475.pdf) 
   [[Project]](https://sermanet.github.io/imitate/)
   - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
- 
+
 - Self-Supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation. 
   [[pdf]](http://arxiv.org/pdf/1709.10489) 
   - Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, Sergey Levine. *ICRA 2018*
@@ -632,7 +619,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/abs/1807.04742) 
   [[Project]](https://sites.google.com/site/visualrlwithimaginedgoals/)
   - Ashvin Nair*, Vitchyr Pong*, Murtaza Dalal, Shikhar Bahl, Steven Lin, Sergey Levine.*NeurIPS 2018*
- 
+
 - Grasp2Vec: Learning Object Representations from Self-Supervised Grasping.
   [[pdf]](https://arxiv.org/pdf/1811.06964.pdf) 
   [[Project]](https://sites.google.com/site/grasp2vec/home)
