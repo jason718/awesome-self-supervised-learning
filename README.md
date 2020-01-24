@@ -285,6 +285,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
 
+#### 2020
+ - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
+    [[pdf]](https://arxiv.org/pdf/2001.07685.pdf)
+    [[code]](https://github.com/google-research/fixmatch)
+    - Kihyuk Sohn, David Berthelot, Chun-Liang Li, Zizhao Zhang, Nicholas Carlini, Ekin D. Cubuk, Alex Kurakin, Han Zhang, Colin Raffel
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
