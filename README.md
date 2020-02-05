@@ -266,6 +266,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - Learning Representations by Maximizing Mutual Information Across Views.
   [[pdf]](https://arxiv.org/pdf/1906.00910)
+  [[code]](https://github.com/Philip-Bachman/amdim-public)
   - Philip Bachman, R Devon Hjelm, William Buchwalter
 
  - Selfie: Self-supervised Pretraining for Image Embedding. 
