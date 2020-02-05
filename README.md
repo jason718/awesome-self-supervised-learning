@@ -380,7 +380,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Muhammed Kocabas; Salih Karagoz; Emre Akbas. CVPR 2019
 
 - SelFlow: Self-Supervised Learning of Optical Flow.
-  [[pdf]](https://arxiv.org/abs/1904.03597)
+  [[pdf]](https://arxiv.org/abs/1904.09117)
   - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
 
 - Unsupervised Learning of Landmarks by Descriptor Vector Exchange.
