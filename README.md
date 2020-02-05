@@ -34,6 +34,7 @@ Markdown format:
   - [Video Representation Learning](#video-representation-learning)
   - [Geometry](#geometry)
   - [Audio](#audio)
+  - [Sketch and Handwritten Data](#sketch-handwritten)
   - [Others](#others)
 - [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
@@ -284,6 +285,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Momentum Contrast for Unsupervised Visual Representation Learning
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
+ 
+#### 2020
+- Deep Self-Supervised Representation Learning for Free-Hand Sketch. 
+  [[pdf]](https://arxiv.org/abs/2002.00867) 
+  [[code]](https://github.com/zzz1515151/self-supervised_learning_sketch)
+  - Peng Xu, Zeyu Song, Qiyue Yin, Yi-Zhe Song, Liang Wang. *ArXiv 2020*
 
 ### Video Representation Learning
 
@@ -428,6 +435,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - TriCycle: Audio Representation Learning from Sensor Network Data Using Self-Supervision
   [[pdf]](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cartwright_tricycle_waspaa2019.pdf)
   - Mark Cartwright, Jason Cramer, Justin Salamon, Juan Pablo Bello. *WASPAA 2019*
+  
+### Sketch and Handwritten Data
+#### 2020
+- Deep Self-Supervised Representation Learning for Free-Hand Sketch. 
+  [[pdf]](https://arxiv.org/abs/2002.00867) 
+  [[code]](https://github.com/zzz1515151/self-supervised_learning_sketch)
+  - Peng Xu, Zeyu Song, Qiyue Yin, Yi-Zhe Song, Liang Wang. *ArXiv 2020*
 
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
