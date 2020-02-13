@@ -408,7 +408,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
   
 - The Sound of Pixels.
-  [[pdf]]( https://arxiv.org/pdf/1907.11879.pdf )
+  [[pdf]]( https://arxiv.org/pdf/1804.03160.pdf )
   [[project]](https://github.com/hangzhaomit/Sound-of-Pixels)
   - Zhao, Hang and Gan, Chuang and Rouditchenko, Andrew and Vondrick, Carl and McDermott, Josh and Torralba, Antonio. *ECCV 2018*
 
