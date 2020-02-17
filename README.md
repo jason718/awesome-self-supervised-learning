@@ -194,6 +194,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/gidariss/FeatureLearningRotNet)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
   
+- Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. 
+  [[pdf]](https://openreview.net/pdf?id=HkMvEOlAb) 
+  [[code]](https://github.com/ozcell/LALNets)
+  - Ozsel Kilinc and Ismail Uysal. *ICLR 2018*
+  
 - Improvements to context based self-supervised learning. 
   [[pdf]](https://arxiv.org/abs/1711.06379)
   - Terrell Mundhenk and Daniel Ho and Barry Chen. *CVPR 2018*
