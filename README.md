@@ -291,6 +291,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
 
+#### 2020
+
+- A Simple Framework for Contrastive Learning of Visual Representations
+    [[pdf]](https://arxiv.org/abs/2002.05709)
+    - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
