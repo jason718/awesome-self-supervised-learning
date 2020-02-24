@@ -38,7 +38,8 @@ Markdown format:
 - [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
-- [Natural Language Processing (NLP)](#nlp)  
+- [Natural Language Processing (NLP)](#nlp)
+- [Automatic Speech Recognition](#asr)
 - [Talks](#talks)
 - [Thesis](#thesis)
 
@@ -667,6 +668,33 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/1906.04466.pdf)
   - Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang. *ACL 2019*
   
+## ASR
+ - Learning Robust and Multilingual Speech Representations
+   [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
+   - Kazuya Kawakami, Luyu Wang, Chris Dyer, Phil Blunsom, Aaron van den Oord
+  
+ - Unsupervised pretraining transfers well across languages
+   [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
+   [[link]](https://github.com/facebookresearch/CPC_audio)
+   - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux
+
+ - wav2vec: Unsupervised Pre-Training for Speech Recognition
+   [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
+   [[link]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+   - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
+
+ -  vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+   [[pdf]](https://arxiv.org/pdf/1910.05453)
+   - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
+  
+ - Effectiveness of self-supervised pre-training for speech recognition
+   [[pdf]](https://arxiv.org/pdf/1911.03912.pdf)
+   - Alexei Baevski, Michael Auli, Abdelrahman Mohamed
+  
+ - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
+   [[pdf]](https://arxiv.org/pdf/1910.12729)
+   - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee
+
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
   [[link]](https://youtu.be/wxis9FrCHbw)
