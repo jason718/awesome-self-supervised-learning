@@ -704,6 +704,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1910.12729)
    - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee
 
+ - Self-Training for End-to-End Speech Recognition
+   [[pdf]](https://arxiv.org/pdf/1909.09116)
+   - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
+
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
   [[link]](https://youtu.be/wxis9FrCHbw)
