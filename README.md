@@ -301,7 +301,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/lorenmt/maxl)
     - Shikun Liu, Andrew J. Davison, Edward Johns. *NeurIPS 2019*
 
-
+#### 2019
+- A critical analysis of self-supervision, or what we can learn from a single image
+  [[pdf]](https://arxiv.org/pdf/1904.13132)
+  [[code]](https://github.com/yukimasano/linear-probes)
+  - Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
+  
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
