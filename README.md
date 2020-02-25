@@ -291,6 +291,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Momentum Contrast for Unsupervised Visual Representation Learning
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
+    
+ - Boosting Few-Shot Visual Learning with Self-Supervision
+    [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
+    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord, *ICCV 2019*
 
 ### Video Representation Learning
 
@@ -669,15 +673,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   
  - Unsupervised pretraining transfers well across languages
    [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
-   [[link]](https://github.com/facebookresearch/CPC_audio)
+   [[code]](https://github.com/facebookresearch/CPC_audio)
    - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux
 
  - wav2vec: Unsupervised Pre-Training for Speech Recognition
    [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
-   [[link]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+   [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
    - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
 
- -  vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+ - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
    [[pdf]](https://arxiv.org/pdf/1910.05453)
    - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
   
