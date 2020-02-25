@@ -39,7 +39,7 @@ Markdown format:
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
 - [Natural Language Processing (NLP)](#nlp)
-- [Automatic Speech Recognition](#asr)
+- [Automatic Speech Recognition (ASR)](#asr)
 - [Talks](#talks)
 - [Thesis](#thesis)
 
@@ -294,7 +294,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     
  - Boosting Few-Shot Visual Learning with Self-Supervision
     [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
-    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord, *ICCV 2019*
+    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
+
+ - Self-Supervised Generalisation with Meta Auxiliary Learning
+    [[pdf]](https://arxiv.org/pdf/1901.08933.pdf)
+    [[code]](https://github.com/lorenmt/maxl)
+    - Shikun Liu, Andrew J. Davison, Edward Johns. *NeurIPS 2019*
+
 
 ### Video Representation Learning
 
