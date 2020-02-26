@@ -677,6 +677,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/1906.04466.pdf)
   - Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang. *ACL 2019*
   
+- A Mutual Information Maximization Perspective of Language Representation Learning 
+  [[pdf]](https://openreview.net/pdf?id=Syx79eBKwr)
+  - Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama. *ICLR 2020*
+
+  
 ## ASR
  - Learning Robust and Multilingual Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
