@@ -708,6 +708,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1909.09116)
    - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
 
+ - Generative Pre-Training for Speech with Autoregressive Predictive Coding
+   [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
+   [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
+   - Yu-An Chung, James Glass. *ICASSP 2020*
+   
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
   [[link]](https://youtu.be/wxis9FrCHbw)
