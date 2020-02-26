@@ -310,7 +310,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - On Mutual Information Maximization for Representation Learning
    [[pdf]](https://arxiv.org/pdf/1907.13625.pdf)
    - Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
-  
+
+ - Understanding the Limitations of Variational Mutual Information Estimators
+   [[pdf]](https://arxiv.org/pdf/1910.06222)
+   [[code]](https://github.com/ermongroup/smile-mi-estimator)
+   - Jiaming Song, Stefano Ermon
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
