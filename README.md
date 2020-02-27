@@ -301,6 +301,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/lorenmt/maxl)
     - Shikun Liu, Andrew J. Davison, Edward Johns. *NeurIPS 2019*
 
+ - Wasserstein Dependency Measure for Representation Learning
+    [[pdf]](https://arxiv.org/pdf/1903.11780.pdf)
+    [[code]](https://github.com/SeongokRyu/mutual_information_and_self-supervised_learning/tree/master/predictive_coding)
+    - Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet. *NeurIPS 2019*
+
 #### 2020
  - A critical analysis of self-supervision, or what we can learn from a single image
    [[pdf]](https://arxiv.org/pdf/1904.13132)
