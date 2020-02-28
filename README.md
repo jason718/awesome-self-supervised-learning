@@ -326,6 +326,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
+#### 2020
+
+- A Simple Framework for Contrastive Learning of Visual Representations
+    [[pdf]](https://arxiv.org/abs/2002.05709)
+    - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
@@ -740,7 +746,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
    [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
    - Yu-An Chung, James Glass. *ICASSP 2020*
-   
+
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
   [[link]](https://youtu.be/wxis9FrCHbw)
