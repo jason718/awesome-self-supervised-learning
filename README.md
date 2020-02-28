@@ -321,7 +321,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1910.06222)
    [[code]](https://github.com/ermongroup/smile-mi-estimator)
    - Jiaming Song, Stefano Ermon. *ICLR 2020*
-   
+
+ - Automatic Shortcut Removal for Self-Supervised Representation Learning
+   [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
+   - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
@@ -696,7 +700,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://openreview.net/pdf?id=Syx79eBKwr)
   - Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama. *ICLR 2020*
 
-  
+- VL-BERT: Pre-training of Generic Visual-Linguistic Representations
+  [[pdf]](https://arxiv.org/pdf/1908.08530.pdf)
+  [[code]](https://github.com/jackroos/VL-BERT)
+  - Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai. *ICLR 2020*
+
 ## ASR
  - Learning Robust and Multilingual Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
