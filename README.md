@@ -39,7 +39,7 @@ Markdown format:
   - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
 - [Natural Language Processing (NLP)](#nlp)
-- [Automatic Speech Recognition](#asr)
+- [Automatic Speech Recognition (ASR)](#asr)
 - [Talks](#talks)
 - [Thesis](#thesis)
 
@@ -291,6 +291,40 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Momentum Contrast for Unsupervised Visual Representation Learning
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
+    
+ - Boosting Few-Shot Visual Learning with Self-Supervision
+    [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
+    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
+
+ - Self-Supervised Generalisation with Meta Auxiliary Learning
+    [[pdf]](https://arxiv.org/pdf/1901.08933.pdf)
+    [[code]](https://github.com/lorenmt/maxl)
+    - Shikun Liu, Andrew J. Davison, Edward Johns. *NeurIPS 2019*
+
+ - Wasserstein Dependency Measure for Representation Learning
+    [[pdf]](https://arxiv.org/pdf/1903.11780.pdf)
+    [[code]](https://github.com/SeongokRyu/mutual_information_and_self-supervised_learning/tree/master/predictive_coding)
+    - Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet. *NeurIPS 2019*
+
+#### 2020
+ - A critical analysis of self-supervision, or what we can learn from a single image
+   [[pdf]](https://arxiv.org/pdf/1904.13132)
+   [[code]](https://github.com/yukimasano/linear-probes)
+   - Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
+ 
+ - On Mutual Information Maximization for Representation Learning
+   [[pdf]](https://arxiv.org/pdf/1907.13625.pdf)
+   [[code]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
+   - Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
+
+ - Understanding the Limitations of Variational Mutual Information Estimators
+   [[pdf]](https://arxiv.org/pdf/1910.06222)
+   [[code]](https://github.com/ermongroup/smile-mi-estimator)
+   - Jiaming Song, Stefano Ermon. *ICLR 2020*
+
+ - Automatic Shortcut Removal for Self-Supervised Representation Learning
+   [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
+   - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
 #### 2020
 
@@ -668,6 +702,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/1906.04466.pdf)
   - Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang. *ACL 2019*
   
+- A Mutual Information Maximization Perspective of Language Representation Learning 
+  [[pdf]](https://openreview.net/pdf?id=Syx79eBKwr)
+  - Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama. *ICLR 2020*
+
+- VL-BERT: Pre-training of Generic Visual-Linguistic Representations
+  [[pdf]](https://arxiv.org/pdf/1908.08530.pdf)
+  [[code]](https://github.com/jackroos/VL-BERT)
+  - Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai. *ICLR 2020*
+
 ## ASR
  - Learning Robust and Multilingual Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
@@ -675,15 +718,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   
  - Unsupervised pretraining transfers well across languages
    [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
-   [[link]](https://github.com/facebookresearch/CPC_audio)
+   [[code]](https://github.com/facebookresearch/CPC_audio)
    - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux
 
  - wav2vec: Unsupervised Pre-Training for Speech Recognition
    [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
-   [[link]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+   [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
    - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
 
- -  vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+ - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
    [[pdf]](https://arxiv.org/pdf/1910.05453)
    - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
   
@@ -694,6 +737,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
    [[pdf]](https://arxiv.org/pdf/1910.12729)
    - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee
+
+ - Self-Training for End-to-End Speech Recognition
+   [[pdf]](https://arxiv.org/pdf/1909.09116)
+   - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
+
+ - Generative Pre-Training for Speech with Autoregressive Predictive Coding
+   [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
+   [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
+   - Yu-An Chung, James Glass. *ICASSP 2020*
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
