@@ -42,6 +42,7 @@ Markdown format:
 - [Automatic Speech Recognition (ASR)](#asr)
 - [Talks](#talks)
 - [Thesis](#thesis)
+- [Blog](#blog)
 
 ## Computer Vision
 ### Survey
