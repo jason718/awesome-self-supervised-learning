@@ -732,7 +732,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   
  - Effectiveness of self-supervised pre-training for speech recognition
    [[pdf]](https://arxiv.org/pdf/1911.03912.pdf)
-   - Alexei Baevski, Michael Auli, Abdelrahman Mohamed
+   - Alexei Baevski, Michael Auli, Abdelrahman Mohamed, *ICASSP 2020*
   
  - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
    [[pdf]](https://arxiv.org/pdf/1910.12729)
@@ -746,6 +746,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
    [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
    - Yu-An Chung, James Glass. *ICASSP 2020*
+
+ - Disentangled Speech Embeddings using Cross-modal Self-supervision
+   [[pdf]](https://arxiv.org/pdf/2002.08742v1.pdf)
+   - Arsha Nagrani, Joon Son Chung, Samuel Albanie, Andrew Zisserman. *ICASSP 2020*
+
+ - Multi-task self-supervised learning for robust speech recognition
+   [[pdf]](https://arxiv.org/pdf/2001.09239.pdf)
+   - Mirco Ravanelli, Jianyuan Zhong, Santiago Pascual, Pawel Swietojanski, Joao Monteiro, Jan Trmal, Yoshua Bengio
+
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
