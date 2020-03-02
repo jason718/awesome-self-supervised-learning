@@ -476,6 +476,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cartwright_tricycle_waspaa2019.pdf)
   - Mark Cartwright, Jason Cramer, Justin Salamon, Juan Pablo Bello. *WASPAA 2019*
 
+- Self-supervised audio-visual co-segmentation
+  [[pdf]](https://arxiv.org/pdf/1904.09013.pdf)
+  - Andrew Rouditchenko, Hang Zhao, Chuang Gan, Josh McDermott, and Antonio Torralb. *ICASSP 2019*
+  
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
