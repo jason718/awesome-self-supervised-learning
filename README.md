@@ -288,10 +288,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/pdf/1906.12340)
     [[code]](https://github.com/hendrycks/ss-ood)
     - Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
-
- - Momentum Contrast for Unsupervised Visual Representation Learning
-    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
-    - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
     
  - Boosting Few-Shot Visual Learning with Self-Supervision
     [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
@@ -306,6 +302,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/pdf/1903.11780.pdf)
     [[code]](https://github.com/SeongokRyu/mutual_information_and_self-supervised_learning/tree/master/predictive_coding)
     - Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet. *NeurIPS 2019*
+
+- Scaling and Benchmarking Self-Supervised Visual Representation Learning
+    [[pdf]](https://arxiv.org/abs/1905.01235)
+    [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
+    - Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra. *ICCV 2019*
 
 #### 2020
  - A critical analysis of self-supervision, or what we can learn from a single image
@@ -327,11 +328,21 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
-#### 2020
+ - Momentum Contrast for Unsupervised Visual Representation Learning
+    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
+    - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
 
 - A Simple Framework for Contrastive Learning of Visual Representations
     [[pdf]](https://arxiv.org/abs/2002.05709)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+    
+- ClusterFit: Improving Generalization of Visual Representations
+   [[pdf]](https://arxiv.org/abs/1912.03330)
+   - Xueting Yan*, Ishan Misra*, Abhinav Gupta, Deepti Ghadiyaram**, Dhruv Mahajan**. *CVPR 2020*
+
+- Self-Supervised Learning of Pretext-Invariant Representations
+   [[pdf]](https://arxiv.org/abs/1912.01991)
+   - Ishan Misra, Laurens van der Maaten. *CVPR 2020*
 
 ### Video Representation Learning
 
