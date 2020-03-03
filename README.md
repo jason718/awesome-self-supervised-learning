@@ -697,8 +697,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Learning Latent Plans from Play. 
   [[pdf]](https://arxiv.org/pdf/1903.01973.pdf) 
   [[Project]](https://learning-from-play.github.io/)
-  - COREY LYNCH, MOHI KHANSARI, TED XIAO, VIKASH KUMAR, JONATHAN TOMPSON, SERGEY LEVINE, PIERRE SERMANET
+  - Corey Lynch, Mohi Khansari, Ted Xiao, Vikash Kumar, Jonathan Tompson, Sergey Levine, Pierre Sermanet
 
+### 2020
+- Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video.
+[[pdf]](https://arxiv.org/pdf/1910.09430.pdf) 
+  [[Project]](http://robotskills.cs.uni-freiburg.de/)
+  - Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard *ICRA 2020*
 
 ## NLP
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
