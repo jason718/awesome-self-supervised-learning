@@ -759,6 +759,9 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2001.09239.pdf)
    - Mirco Ravanelli, Jianyuan Zhong, Santiago Pascual, Pawel Swietojanski, Joao Monteiro, Jan Trmal, Yoshua Bengio
 
+ - Visually Guided Self Supervised Learning of Speech Representations
+   [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
+   - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
