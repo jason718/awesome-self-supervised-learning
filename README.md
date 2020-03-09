@@ -42,6 +42,7 @@ Markdown format:
 - [Automatic Speech Recognition (ASR)](#asr)
 - [Talks](#talks)
 - [Thesis](#thesis)
+- [Blog](#blog)
 
 ## Computer Vision
 ### Survey
@@ -287,6 +288,45 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/pdf/1906.12340)
     [[code]](https://github.com/hendrycks/ss-ood)
     - Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
+    
+ - Boosting Few-Shot Visual Learning with Self-Supervision
+    [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
+    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
+
+ - Self-Supervised Generalisation with Meta Auxiliary Learning
+    [[pdf]](https://arxiv.org/pdf/1901.08933.pdf)
+    [[code]](https://github.com/lorenmt/maxl)
+    - Shikun Liu, Andrew J. Davison, Edward Johns. *NeurIPS 2019*
+
+ - Wasserstein Dependency Measure for Representation Learning
+    [[pdf]](https://arxiv.org/pdf/1903.11780.pdf)
+    [[code]](https://github.com/SeongokRyu/mutual_information_and_self-supervised_learning/tree/master/predictive_coding)
+    - Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet. *NeurIPS 2019*
+
+- Scaling and Benchmarking Self-Supervised Visual Representation Learning
+    [[pdf]](https://arxiv.org/abs/1905.01235)
+    [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
+    - Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra. *ICCV 2019*
+
+#### 2020
+ - A critical analysis of self-supervision, or what we can learn from a single image
+   [[pdf]](https://arxiv.org/pdf/1904.13132)
+   [[code]](https://github.com/yukimasano/linear-probes)
+   - Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
+ 
+ - On Mutual Information Maximization for Representation Learning
+   [[pdf]](https://arxiv.org/pdf/1907.13625.pdf)
+   [[code]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
+   - Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
+
+ - Understanding the Limitations of Variational Mutual Information Estimators
+   [[pdf]](https://arxiv.org/pdf/1910.06222)
+   [[code]](https://github.com/ermongroup/smile-mi-estimator)
+   - Jiaming Song, Stefano Ermon. *ICLR 2020*
+
+ - Automatic Shortcut Removal for Self-Supervised Representation Learning
+   [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
+   - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
  - Momentum Contrast for Unsupervised Visual Representation Learning
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
@@ -326,11 +366,17 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
-#### 2020
-
 - A Simple Framework for Contrastive Learning of Visual Representations
     [[pdf]](https://arxiv.org/abs/2002.05709)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+    
+- ClusterFit: Improving Generalization of Visual Representations
+   [[pdf]](https://arxiv.org/abs/1912.03330)
+   - Xueting Yan*, Ishan Misra*, Abhinav Gupta, Deepti Ghadiyaram**, Dhruv Mahajan**. *CVPR 2020*
+
+- Self-Supervised Learning of Pretext-Invariant Representations
+   [[pdf]](https://arxiv.org/abs/1912.01991)
+   - Ishan Misra, Laurens van der Maaten. *CVPR 2020*
 
 ### Video Representation Learning
 
@@ -689,8 +735,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Learning Latent Plans from Play. 
   [[pdf]](https://arxiv.org/pdf/1903.01973.pdf) 
   [[Project]](https://learning-from-play.github.io/)
-  - COREY LYNCH, MOHI KHANSARI, TED XIAO, VIKASH KUMAR, JONATHAN TOMPSON, SERGEY LEVINE, PIERRE SERMANET
+  - Corey Lynch, Mohi Khansari, Ted Xiao, Vikash Kumar, Jonathan Tompson, Sergey Levine, Pierre Sermanet
 
+### 2020
+- Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video.
+[[pdf]](https://arxiv.org/pdf/1910.09430.pdf) 
+  [[Project]](http://robotskills.cs.uni-freiburg.de/)
+  - Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard *ICRA 2020*
 
 ## NLP
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
@@ -791,6 +842,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 ## Blog
 - Self-Supervised Representation Learning. Lilian Weng. [[link]](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html).
+- The Illustrated Self-Supervised Learning. Amit Chaudhary. [[link]](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
