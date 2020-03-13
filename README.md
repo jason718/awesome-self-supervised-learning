@@ -699,6 +699,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[Project]](https://learning-from-play.github.io/)
   - Corey Lynch, Mohi Khansari, Ted Xiao, Vikash Kumar, Jonathan Tompson, Sergey Levine, Pierre Sermanet
 
+- Self-Supervised Visual Terrain Classification from Unsupervised Acoustic Feature Learning. 
+  [[pdf]](https://arxiv.org/pdf/1912.03227.pdf) 
+  - Jannik Zuern, Wolfram Burgard, Abhinav Valada
+
+
 ### 2020
 - Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video.
 [[pdf]](https://arxiv.org/pdf/1910.09430.pdf) 
