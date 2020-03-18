@@ -793,6 +793,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 ## Blog
 - Self-Supervised Representation Learning. Lilian Weng. [[link]](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html).
 - The Illustrated Self-Supervised Learning. Amit Chaudhary. [[link]](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
+- The Illustrated SimCLR Framework. Amit Chaudhary. [[link]](https://amitness.com/2020/03/illustrated-simclr/)
+- The Illustrated PIRL: Pretext-Invariant Representation Learning. Amit Chaudhary. [[link]](https://amitness.com/2020/03/illustrated-pirl/)
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
