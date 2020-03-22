@@ -324,6 +324,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[code]](https://github.com/ermongroup/smile-mi-estimator)
    - Jiaming Song, Stefano Ermon. *ICLR 2020*
 
+ - Rethinking Data Augmentation: Self-Supervision and Self-Distillation
+   [[pdf]](https://arxiv.org/abs/1910.05872)
+   - Hankook Lee, Sung Ju Hwang, Jinwoo Shin. *ICLR 2020*
+
  - Automatic Shortcut Removal for Self-Supervised Representation Learning
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
