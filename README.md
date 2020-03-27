@@ -291,7 +291,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     
  - Boosting Few-Shot Visual Learning with Self-Supervision
     [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
-    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
+    - Pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
 
  - Self-Supervised Generalisation with Meta Auxiliary Learning
     [[pdf]](https://arxiv.org/pdf/1901.08933.pdf)
@@ -332,48 +332,14 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
- - Momentum Contrast for Unsupervised Visual Representation Learning
-    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
-    - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *FAIR*
-    
- - Boosting Few-Shot Visual Learning with Self-Supervision
-    [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
-    - pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
-
- - Self-Supervised Generalisation with Meta Auxiliary Learning
-    [[pdf]](https://arxiv.org/pdf/1901.08933.pdf)
-    [[code]](https://github.com/lorenmt/maxl)
-    - Shikun Liu, Andrew J. Davison, Edward Johns. *NeurIPS 2019*
-
- - Wasserstein Dependency Measure for Representation Learning
-    [[pdf]](https://arxiv.org/pdf/1903.11780.pdf)
-    [[code]](https://github.com/SeongokRyu/mutual_information_and_self-supervised_learning/tree/master/predictive_coding)
-    - Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet. *NeurIPS 2019*
-
-#### 2020
- - A critical analysis of self-supervision, or what we can learn from a single image
-   [[pdf]](https://arxiv.org/pdf/1904.13132)
-   [[code]](https://github.com/yukimasano/linear-probes)
-   - Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
- 
- - On Mutual Information Maximization for Representation Learning
-   [[pdf]](https://arxiv.org/pdf/1907.13625.pdf)
-   [[code]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
-   - Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
-
- - Understanding the Limitations of Variational Mutual Information Estimators
-   [[pdf]](https://arxiv.org/pdf/1910.06222)
-   [[code]](https://github.com/ermongroup/smile-mi-estimator)
-   - Jiaming Song, Stefano Ermon. *ICLR 2020*
-
- - Automatic Shortcut Removal for Self-Supervised Representation Learning
-   [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
-   - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
-
 - A Simple Framework for Contrastive Learning of Visual Representations
     [[pdf]](https://arxiv.org/abs/2002.05709)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
-    
+
+ - Momentum Contrast for Unsupervised Visual Representation Learning
+    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
+    - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
+
 - ClusterFit: Improving Generalization of Visual Representations
    [[pdf]](https://arxiv.org/abs/1912.03330)
    - Xueting Yan*, Ishan Misra*, Abhinav Gupta, Deepti Ghadiyaram**, Dhruv Mahajan**. *CVPR 2020*
