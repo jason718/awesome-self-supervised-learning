@@ -335,6 +335,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - A Simple Framework for Contrastive Learning of Visual Representations
     [[pdf]](https://arxiv.org/abs/2002.05709)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+   
+ - How Useful is Self-Supervised Pretraining for Visual Tasks?
+    [[pdf]](https://arxiv.org/abs/2003.14323)
+    [[code]](https://github.com/princeton-vl/selfstudy-render)
+    - Alejandro Newell, Jia Deng. *CVPR 2020*
 
  - Momentum Contrast for Unsupervised Visual Representation Learning
     [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
