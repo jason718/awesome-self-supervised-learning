@@ -307,6 +307,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/1905.01235)
     [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
     - Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra. *ICCV 2019*
+    
+- Self-supervised model adaptation for multimodal semantic segmentation. 
+  [[pdf]](https://arxiv.org/abs/1808.03833) 
+  [[code]](https://github.com/DeepSceneSeg/SSMA)
+  - Abhinav Valada, Rohit Mohan, and Wolfram Burgard. *IJCV 2019*
+    
 
 #### 2020
  - A critical analysis of self-supervision, or what we can learn from a single image
