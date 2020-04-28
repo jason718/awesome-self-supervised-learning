@@ -511,43 +511,58 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
+  
 - Free Supervision from Video Games.
   [[pdf]](http://www.philkr.net/papers/2018-06-01-cvpr/2018-06-01-cvpr.pdf)
   [[project+code]](http://www.philkr.net/fsv/)
   - Philipp Krähenbühl. *CVPR 2018*
+  
 - Fighting Fake News: Image Splice Detection via Learned Self-Consistency
   [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
   [[code]](https://github.com/minyoungg/selfconsistency)
   - Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros. *ECCV 2018*
+  
 - Self-supervised Tracking by Colorization (Tracking Emerges by Colorizing Videos).
   [[pdf]](https://www.cs.columbia.edu/~vondrick//videocolor.pdf)
   - Carl Vondrick*, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy. *ECCV 2018*
+  
 - High-Fidelity Image Generation With Fewer Labels.
   [[pdf]](https://arxiv.org/pdf/1903.02271.pdf)
   - Mario Lucic*, Michael Tschannen*, Marvin Ritter*, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly.
+  
 - Self-supervised Fitting of Articulated Meshes to Point Clouds.
   - Chun-Liang Li, Tomas Simon, Jason Saragih, Barnabás Póczos and Yaser Sheikh. *CVPR 2019*
+  
 - SCOPS: Self-Supervised Co-Part Segmentation. 
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
+  
 - Self-Supervised GANs via Auxiliary Rotation Loss. 
   - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
+  
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking.
   - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
+  
 - Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
   - Wonhee Lee; Joonil Na; Gunhee Kim. *CVPR 2019*
+  
 - Self-Supervised Convolutional Subspace Clustering Network.
   - Junjian Zhang; Chun-Guang Li; Chong You; Xianbiao Qi; Honggang Zhang; Jun Guo; Zhouchen Lin. *CVPR 2019*
+  
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation.
   - Xin Wang; Qiuyuan Huang; Asli Celikyilmaz; Jianfeng Gao; Dinghan Shen; Yuan-Fang Wang; William Yang Wang; Lei Zhang. *CVPR 2019*
+  
 - Unsupervised 3D Pose Estimation With Geometric Self-Supervision.
   - Ching-Hang Chen; Ambrish Tyagi; Amit Agrawal; Dylan Drover; Rohith MV; Stefan Stojanov; James M. Rehg. *CVPR 2019*
+  
 - Learning to Generate Grounded Image Captions without Localization Supervision. [[pdf]](https://arxiv.org/pdf/1906.00283.pdf)
   - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
+  
 - S4L: Self-Supervised Semi-Supervised Learning
   [[pdf]](https://arxiv.org/pdf/1905.03670.pdf)
   - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer
+  
 - Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
   - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
 
