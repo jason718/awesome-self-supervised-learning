@@ -505,7 +505,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - Self-supervised audio-visual co-segmentation
   [[pdf]](https://arxiv.org/pdf/1904.09013.pdf)
-  - Andrew Rouditchenko, Hang Zhao, Chuang Gan, Josh McDermott, and Antonio Torralb. *ICASSP 2019*
+  - Andrew Rouditchenko, Hang Zhao, Chuang Gan, Josh McDermott, and Antonio Torralba. *ICASSP 2019*
+  
+- Does Visual Self-Supervision Improve Learning of Speech Representations?
+   [[pdf]](https://arxiv.org/pdf/2005.01400.pdf)
+   - Abhinav Shukla, Stavros Petridis, Maja Pantic
   
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
@@ -814,6 +818,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Visually Guided Self Supervised Learning of Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
    - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
+ 
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
