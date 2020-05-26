@@ -848,6 +848,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 ## Blog
 - Self-Supervised Representation Learning. Lilian Weng. [[link]](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html).
+- Self Supervised Representation Learning in NLP. Amit Chaudhary. [[link]](https://amitness.com/2020/05/self-supervised-learning-nlp/).
 - The Illustrated [[Self-Supervised Learning]](https://amitness.com/2020/02/illustrated-self-supervised-learning/), [[SimCLR]](https://amitness.com/2020/03/illustrated-simclr/), [[PIRL]](https://amitness.com/2020/03/illustrated-pirl/), [[Self-Labelling]](https://amitness.com/2020/04/illustrated-self-labelling/), [[FixMatch]](https://amitness.com/2020/03/fixmatch-semi-supervised/), [[DeepCluster]](https://amitness.com/2020/04/deepcluster/). Amit Chaudhary. 
 - Contrastive Self-Supervised Learning. Ankesh Anand. [[link]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html).
 
