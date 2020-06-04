@@ -238,7 +238,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Aaron van den Oord, Yazhe Li, Oriol Vinyals.
 
 - Self-Supervised Learning via Conditional Motion Propagation.
-  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
+  [[pdf]](<https://arxiv.org/abs/1903.11412>)
   [[code]](https://github.com/XiaohangZhan/conditional-motion-propagation)
   - Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, and Chen Change Loy. *CVPR 2019*
 
@@ -319,7 +319,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1904.13132)
    [[code]](https://github.com/yukimasano/linear-probes)
    - Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
- 
+
  - On Mutual Information Maximization for Representation Learning
    [[pdf]](https://arxiv.org/pdf/1907.13625.pdf)
    [[code]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
@@ -510,7 +510,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Does Visual Self-Supervision Improve Learning of Speech Representations?
    [[pdf]](https://arxiv.org/pdf/2005.01400.pdf)
    - Abhinav Shukla, Stavros Petridis, Maja Pantic
-  
+
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
@@ -818,7 +818,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Visually Guided Self Supervised Learning of Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
    - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
- 
+
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
