@@ -338,8 +338,9 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
-- A Simple Framework for Contrastive Learning of Visual Representations
+ - A Simple Framework for Contrastive Learning of Visual Representations
     [[pdf]](https://arxiv.org/abs/2002.05709)
+    [[code]](https://github.com/google-research/simclr)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
    
  - How Useful is Self-Supervised Pretraining for Visual Tasks?
@@ -348,7 +349,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     - Alejandro Newell, Jia Deng. *CVPR 2020*
 
  - Momentum Contrast for Unsupervised Visual Representation Learning
-    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
+    [[pdf]](https://arxiv.org/abs/1911.05722)
+    [[code]](https://github.com/facebookresearch/moco)
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 - ClusterFit: Improving Generalization of Visual Representations
@@ -358,6 +360,20 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-Supervised Learning of Pretext-Invariant Representations
    [[pdf]](https://arxiv.org/abs/1912.01991)
    - Ishan Misra, Laurens van der Maaten. *CVPR 2020*
+   
+- Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
+    [[pdf]](https://arxiv.org/abs/2006.07733)
+    [[unofficial-code]](https://github.com/lucidrains/byol-pytorch)
+    - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko.
+    
+ - Big Self-Supervised Models are Strong Semi-Supervised Learners
+    [[pdf]](https://arxiv.org/abs/2006.10029)
+    [[code]](https://github.com/google-research/simclr)
+    - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton
+
+ - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
+    [[pdf]](https://arxiv.org/abs/2006.09882)
+    - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin
 
 ### Video Representation Learning
 
