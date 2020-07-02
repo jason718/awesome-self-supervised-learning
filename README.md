@@ -189,6 +189,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - Learning Image Representations by Completing Damaged Jigsaw Puzzles. 
   [[pdf]](https://arxiv.org/pdf/1802.01880.pdf)
+  [[code]](https://github.com/MehdiNoroozi/JigsawPuzzleSolver)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WACV 2018*
   
 - Unsupervised Representation Learning by Predicting Image Rotations. 
@@ -349,8 +350,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     - Alejandro Newell, Jia Deng. *CVPR 2020*
 
  - Momentum Contrast for Unsupervised Visual Representation Learning
-    [[pdf]](https://arxiv.org/abs/1911.05722)
-    [[code]](https://github.com/facebookresearch/moco)
+    [[pdf]](https://arxiv.org/pdf/1911.05722.pdf)
+    [[code](https://github.com/facebookresearch/moco)]
     - Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 - ClusterFit: Improving Generalization of Visual Representations
