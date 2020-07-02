@@ -48,7 +48,7 @@ Markdown format:
 ### Survey
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.
   [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
-  - Longlong Jing and Yingli Tian.
+  - Longlong Jing and Yingli Tian. *T-PAMI 2020*
 
 
 ### Image Representation Learning
