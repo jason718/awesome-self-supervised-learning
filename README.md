@@ -239,7 +239,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Aaron van den Oord, Yazhe Li, Oriol Vinyals.
 
 - Self-Supervised Learning via Conditional Motion Propagation.
-  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Mahendran18/mahendran18.pdf)
+  [[pdf]](<https://arxiv.org/abs/1903.11412>)
   [[code]](https://github.com/XiaohangZhan/conditional-motion-propagation)
   - Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, and Chen Change Loy. *CVPR 2019*
 
@@ -320,7 +320,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/1904.13132)
    [[code]](https://github.com/yukimasano/linear-probes)
    - Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
- 
+
  - On Mutual Information Maximization for Representation Learning
    [[pdf]](https://arxiv.org/pdf/1907.13625.pdf)
    [[code]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning)
@@ -339,8 +339,9 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
    - Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen
 
-- A Simple Framework for Contrastive Learning of Visual Representations
+ - A Simple Framework for Contrastive Learning of Visual Representations
     [[pdf]](https://arxiv.org/abs/2002.05709)
+    [[code]](https://github.com/google-research/simclr)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
    
  - How Useful is Self-Supervised Pretraining for Visual Tasks?
@@ -360,6 +361,20 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-Supervised Learning of Pretext-Invariant Representations
    [[pdf]](https://arxiv.org/abs/1912.01991)
    - Ishan Misra, Laurens van der Maaten. *CVPR 2020*
+   
+- Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
+    [[pdf]](https://arxiv.org/abs/2006.07733)
+    [[unofficial-code]](https://github.com/lucidrains/byol-pytorch)
+    - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko.
+    
+ - Big Self-Supervised Models are Strong Semi-Supervised Learners
+    [[pdf]](https://arxiv.org/abs/2006.10029)
+    [[code]](https://github.com/google-research/simclr)
+    - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton
+
+ - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
+    [[pdf]](https://arxiv.org/abs/2006.09882)
+    - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin
 
 ### Video Representation Learning
 
@@ -512,7 +527,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Does Visual Self-Supervision Improve Learning of Speech Representations?
    [[pdf]](https://arxiv.org/pdf/2005.01400.pdf)
    - Abhinav Shukla, Stavros Petridis, Maja Pantic
-  
+
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
@@ -820,7 +835,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Visually Guided Self Supervised Learning of Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
    - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
- 
+
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
