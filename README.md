@@ -371,6 +371,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
     [[pdf]](https://arxiv.org/abs/2006.09882)
     - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin
+    
+ - Self-Supervised Prototypical Transfer Learning for Few-Shot Classification
+    [[pdf]](https://arxiv.org/pdf/2006.11325.pdf)
+    [[code]](https://github.com/indy-lab/ProtoTransfer)
+    - Carlos Medina, Arnout Devos, Matthias Grossglauser
 
 ### Video Representation Learning
 
