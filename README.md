@@ -564,6 +564,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
   
 - Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
+ [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Multi-Task_Self-Supervised_Object_Detection_via_Recycling_of_Bounding_Box_Annotations_CVPR_2019_paper.pdf) 
+ [[code]](https://github.com/wonheeML/mtl-ssl)
   - Wonhee Lee; Joonil Na; Gunhee Kim. *CVPR 2019*
   
 - Self-Supervised Convolutional Subspace Clustering Network.
