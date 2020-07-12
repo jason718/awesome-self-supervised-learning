@@ -46,6 +46,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
   - Longlong Jing and Yingli Tian. *T-PAMI 2020*
 
+- Self-supervised Learning: Generative or Contrastive
+  [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
+  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang.
+
 
 ### Image Representation Learning
 
