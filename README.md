@@ -381,6 +381,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/indy-lab/ProtoTransfer)
     - Carlos Medina, Arnout Devos, Matthias Grossglauser
 
+ - SCAN: Learning to Classify Images without Labels
+    [[pdf]](https://arxiv.org/abs/2005.12320)
+    [[code]](https://github.com/wvangansbeke/Unsupervised-Classification)
+    - Wouter Van Gansbeke, Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Luc Van Gool. *ECCV 2020*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
