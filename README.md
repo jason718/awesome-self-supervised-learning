@@ -308,7 +308,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/1905.01235)
     [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
     - Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra. *ICCV 2019*
-    
+
+- S4L: Self-Supervised Semi-Supervised Learning
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf)
+  [[code]](https://github.com/google-research/s4l)
+  - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer. *ICCV 2019*
+
 - Self-supervised model adaptation for multimodal semantic segmentation. 
   [[pdf]](https://arxiv.org/abs/1808.03833) 
   [[code]](https://github.com/DeepSceneSeg/SSMA)
@@ -592,10 +597,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
-  
-- S4L: Self-Supervised Semi-Supervised Learning
-  [[pdf]](https://arxiv.org/pdf/1905.03670.pdf)
-  - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer
   
 - Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
   - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
