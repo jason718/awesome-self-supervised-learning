@@ -33,6 +33,7 @@ Markdown format:
   - [Others](#others)
 - [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
+  - [Recommendation Systems](#recommendation-systems)
 - [Robotics](#robotics)  
 - [Natural Language Processing (NLP)](#nlp)
 - [Automatic Speech Recognition (ASR)](#asr)
@@ -627,6 +628,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/1906.08226.pdf)
   [[code]](https://github.com/mila-iqia/atari-representation-learning)
   - Ankesh Anand, Evan Racah, Sherjil Ozair, Yoshua Bengio, Marc-Alexandre Côté, R Devon Hjelm. *NeurIPS 2019*
+
+### Recommendation Systems
+- Self-supervised Learning for Deep Models in Recommendations.
+  [[pdf](https://arxiv.org/pdf/2007.12865.pdf)]
+  - Tiansheng Yao, Xinyang Yi, Derek Zhiyuan Cheng, Felix Yu, Aditya Menon, Lichan Hong, Ed H. Chi, Steve Tjoa, Jieqi (Jay)Kang, Evan Ettinger *Preprint 2020*
 
 
 ## Robotics
