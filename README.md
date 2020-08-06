@@ -227,6 +227,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - Deep Clustering for Unsupervised Learning of Visual Features
     [[pdf]](https://research.fb.com/wp-content/uploads/2018/09/Deep-Clustering-for-Unsupervised-Learning-of-Visual-Features.pdf)
+    [[code]](https://github.com/facebookresearch/deepcluster)
     - Mathilde Caron, Piotr Bojanowski, Armand Joulin, Matthijs Douze. *ECCV 2018*
 
 - Cross Pixel Optical-Flow Similarity for Self-Supervised Learning.
@@ -383,10 +384,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/2006.10029)
     [[code]](https://github.com/google-research/simclr)
     - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton
-
- - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
-    [[pdf]](https://arxiv.org/abs/2006.09882)
-    - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin
     
  - Self-Supervised Prototypical Transfer Learning for Few-Shot Classification
     [[pdf]](https://arxiv.org/pdf/2006.11325.pdf)
@@ -397,6 +394,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/2005.12320)
     [[code]](https://github.com/wvangansbeke/Unsupervised-Classification)
     - Wouter Van Gansbeke, Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Luc Van Gool. *ECCV 2020*
+  
+ - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
+    [[pdf]](https://arxiv.org/abs/2006.09882)
+    [[code]](https://github.com/facebookresearch/swav)
+    - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin
 
 ### Video Representation Learning
 
