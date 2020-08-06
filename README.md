@@ -252,7 +252,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Revisiting Self-Supervised Visual Representation Learning.
   [[pdf]](https://arxiv.org/abs/1901.09005)
   [[code]](https://github.com/google/revisiting-self-supervised)
-  - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. CVPR 2019
+  - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. *CVPR 2019*
+  
+- Self-Supervised GANs via Auxiliary Rotation Loss. 
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Self-Supervised_GANs_via_Auxiliary_Rotation_Loss_CVPR_2019_paper.pdf)
+  [[code]](https://github.com/vandit15/Self-Supervised-Gans-Pytorch)
+  - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
 
 - AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_AET_vs._AED_Unsupervised_Representation_Learning_by_Auto-Encoding_Transformations_Rather_CVPR_2019_paper.pdf)
@@ -309,7 +314,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/1905.01235)
     [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
     - Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra. *ICCV 2019*
-    
+
+- S4L: Self-Supervised Semi-Supervised Learning
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf)
+  [[code]](https://github.com/google-research/s4l)
+  - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer. *ICCV 2019*
+
 - Self-supervised model adaptation for multimodal semantic segmentation. 
   [[pdf]](https://arxiv.org/abs/1808.03833) 
   [[code]](https://github.com/DeepSceneSeg/SSMA)
@@ -332,9 +342,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[code]](https://github.com/ermongroup/smile-mi-estimator)
    - Jiaming Song, Stefano Ermon. *ICLR 2020*
 
- - Rethinking Data Augmentation: Self-Supervision and Self-Distillation
+ - Self-supervised Label Augmentation via Input Transformations
    [[pdf]](https://arxiv.org/abs/1910.05872)
-   - Hankook Lee, Sung Ju Hwang, Jinwoo Shin. *ICLR 2020*
+   [[code]](https://github.com/hankook/SLA)
+   - Hankook Lee, Sung Ju Hwang, Jinwoo Shin. *ICML 2020*
 
  - Automatic Shortcut Removal for Self-Supervised Representation Learning
    [[pdf]](https://arxiv.org/pdf/2002.08822.pdf)
@@ -568,9 +579,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - SCOPS: Self-Supervised Co-Part Segmentation. 
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
   
-- Self-Supervised GANs via Auxiliary Rotation Loss. 
-  - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
-  
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking.
   - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
   
@@ -592,10 +600,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
-  
-- S4L: Self-Supervised Semi-Supervised Learning
-  [[pdf]](https://arxiv.org/pdf/1905.03670.pdf)
-  - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer
   
 - Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
   - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
