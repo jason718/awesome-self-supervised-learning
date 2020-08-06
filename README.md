@@ -470,6 +470,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[web]](https://sites.google.com/view/selfsupervisedlearningofmotion/)
     -   Tung, Hsiao-Yu and Tung, Hsiao-Wei and Yumer, Ersin and Fragkiadaki, Katerina. *NIPS 2017*
 
+- Unsupervised learning of object frames by dense equivariant image labelling.
+  [[pdf]](http://papers.neurips.cc/paper/6686-unsupervised-learning-of-object-frames-by-dense-equivariant-image-labelling.pdf)
+  - James Thewlis, Hakan Bilen, Andrea Vedaldi. *NeurIPS 2017*
+
 -   Unsupervised Learning of Depth and Ego-Motion from Video. 
     [[pdf]](https://arxiv.org/pdf/1704.07813.pdf)
     [[code]](https://github.com/tinghuiz/SfMLearner)
