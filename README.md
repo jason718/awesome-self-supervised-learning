@@ -251,7 +251,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Revisiting Self-Supervised Visual Representation Learning.
   [[pdf]](https://arxiv.org/abs/1901.09005)
   [[code]](https://github.com/google/revisiting-self-supervised)
-  - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. CVPR 2019
+  - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. *CVPR 2019*
+  
+- Self-Supervised GANs via Auxiliary Rotation Loss. 
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Self-Supervised_GANs_via_Auxiliary_Rotation_Loss_CVPR_2019_paper.pdf)
+  [[code]](https://github.com/vandit15/Self-Supervised-Gans-Pytorch)
+  - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
 
 - AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_AET_vs._AED_Unsupervised_Representation_Learning_by_Auto-Encoding_Transformations_Rather_CVPR_2019_paper.pdf)
@@ -572,9 +577,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   
 - SCOPS: Self-Supervised Co-Part Segmentation. 
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
-  
-- Self-Supervised GANs via Auxiliary Rotation Loss. 
-  - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
   
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking.
   - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
