@@ -343,6 +343,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[code]](https://github.com/ermongroup/smile-mi-estimator)
    - Jiaming Song, Stefano Ermon. *ICLR 2020*
 
+ - Self-labelling via simultaneous clustering and representation learning
+   [[pdf]](https://openreview.net/pdf?id=Hyx-jyBFPr)
+   [[blogpost]](http://www.robots.ox.ac.uk/~vgg/blog/self-labelling-via-simultaneous-clustering-and-representation-learning.html)
+   [[code]](https://github.com/yukimasano/self-label)
+   - Yuki Markus Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020 (Spotlight)*
+
  - Self-supervised Label Augmentation via Input Transformations
    [[pdf]](https://arxiv.org/abs/1910.05872)
    [[code]](https://github.com/hankook/SLA)
