@@ -459,6 +459,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Xueting Li*, Sifei Liu*, Shalini De Mello, Xiaolong Wang, Jan Kautz, and Ming-Hsuan Yang. *NIPS 2019*
 
 ### Geometry
+- Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
+  [[pdf]](https://arxiv.org/pdf/1603.04992.pdf)
+  [[code]](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation)
+  -  Ravi Garg, Vijay Kumar BG, Gustavo Carneiro, Ian Reid. *ECCV 2016*
+
 -   Self-supervised Learning of Motion Capture.
     [[pdf]](https://arxiv.org/pdf/1712.01337.pdf)
     [[code]](https://github.com/htung0101/3d_smpl)
