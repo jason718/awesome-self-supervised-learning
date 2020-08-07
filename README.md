@@ -343,6 +343,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[code]](https://github.com/ermongroup/smile-mi-estimator)
    - Jiaming Song, Stefano Ermon. *ICLR 2020*
 
+ - Self-labelling via simultaneous clustering and representation learning
+   [[pdf]](https://openreview.net/pdf?id=Hyx-jyBFPr)
+   [[blogpost]](http://www.robots.ox.ac.uk/~vgg/blog/self-labelling-via-simultaneous-clustering-and-representation-learning.html)
+   [[code]](https://github.com/yukimasano/self-label)
+   - Yuki Markus Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020 (Spotlight)*
+
  - Self-supervised Label Augmentation via Input Transformations
    [[pdf]](https://arxiv.org/abs/1910.05872)
    [[code]](https://github.com/hankook/SLA)
@@ -459,11 +465,20 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   - Xueting Li*, Sifei Liu*, Shalini De Mello, Xiaolong Wang, Jan Kautz, and Ming-Hsuan Yang. *NIPS 2019*
 
 ### Geometry
+- Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
+  [[pdf]](https://arxiv.org/pdf/1603.04992.pdf)
+  [[code]](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation)
+  -  Ravi Garg, Vijay Kumar BG, Gustavo Carneiro, Ian Reid. *ECCV 2016*
+
 -   Self-supervised Learning of Motion Capture.
     [[pdf]](https://arxiv.org/pdf/1712.01337.pdf)
     [[code]](https://github.com/htung0101/3d_smpl)
     [[web]](https://sites.google.com/view/selfsupervisedlearningofmotion/)
     -   Tung, Hsiao-Yu and Tung, Hsiao-Wei and Yumer, Ersin and Fragkiadaki, Katerina. *NIPS 2017*
+
+- Unsupervised learning of object frames by dense equivariant image labelling.
+  [[pdf]](http://papers.neurips.cc/paper/6686-unsupervised-learning-of-object-frames-by-dense-equivariant-image-labelling.pdf)
+  - James Thewlis, Hakan Bilen, Andrea Vedaldi. *NeurIPS 2017*
 
 -   Unsupervised Learning of Depth and Ego-Motion from Video. 
     [[pdf]](https://arxiv.org/pdf/1704.07813.pdf)
