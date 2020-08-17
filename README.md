@@ -316,6 +316,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/facebookresearch/fair_self_supervision_benchmark)
     - Priya Goyal, Dhruv Mahajan, Abhinav Gupta, Ishan Misra. *ICCV 2019*
 
+- Unsupervised Pre-Training of Image Features on Non-Curated Data
+    [[pdf]](https://arxiv.org/pdf/1905.01278.pdf)
+    [[code]](https://github.com/facebookresearch/DeeperCluster)
+    - Mathilde Caron, Piotr Bojanowski, Julien Mairal, Armand Joulin. *ICCV 2019 Oral*
+
 - S4L: Self-Supervised Semi-Supervised Learning
   [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf)
   [[code]](https://github.com/google-research/s4l)
