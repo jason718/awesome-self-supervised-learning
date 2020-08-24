@@ -37,6 +37,7 @@ Markdown format:
 - [Robotics](#robotics)  
 - [Natural Language Processing (NLP)](#nlp)
 - [Automatic Speech Recognition (ASR)](#asr)
+- [Graph](#graph)
 - [Talks](#talks)
 - [Thesis](#thesis)
 - [Blog](#blog)
@@ -880,6 +881,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
    - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
 
+## Graph
+ - When Does Self-Supervision Help Graph Convolutional Networks
+   [[pdf]](https://arxiv.org/pdf/2006.09136.pdf)
+   - Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen. *ICML 2020*
+ - Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels
+    [[pdf]](https://arxiv.org/pdf/1902.11038v2.pdf)
+   - Ke Sun, Zhouchen Lin, Zhanxing Zhu. *AAAI 2020*
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
