@@ -888,6 +888,25 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels
     [[pdf]](https://arxiv.org/pdf/1902.11038v2.pdf)
    - Ke Sun, Zhouchen Lin, Zhanxing Zhu. *AAAI 2020*
+ - Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks
+    [[pdf]](https://arxiv.org/pdf/2006.12971v1.pdf)
+   - Arijit Sehanobish, Neal G. Ravindra, David van Dijk. *ICML 2020 Workshop*
+ - Contrastive Multi-View Representation Learning on Graphs
+    [[pdf]](https://arxiv.org/pdf/2006.05582)
+   - Kaveh Hassani, Amir Hosein Khasahmadi. *ICML 2020*
+ - GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training
+    [[pdf]](https://arxiv.org/pdf/2006.09963.pdf)
+   - Jiezhong Qiu, Qibin Chen, Yuxiao Dong. *KDD 2020*
+  - GPT-GNN: Generative Pre-Training of Graph Neural Networks
+    [[pdf]](https://arxiv.org/pdf/2006.15437.pdf)
+    [[code]](https://github.com/acbull/GPT-GNN)
+   - Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
+ - Self-supervised Learning on Graphs: Deep Insights and New Direction
+    [[pdf]](https://arxiv.org/pdf/2006.10141.pdf)
+   - Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.
+
+
+ 
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
