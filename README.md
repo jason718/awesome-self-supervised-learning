@@ -912,8 +912,6 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    - Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.
 
 
- 
-
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
   [[link]](https://youtu.be/wxis9FrCHbw)
