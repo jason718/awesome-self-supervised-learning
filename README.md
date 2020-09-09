@@ -882,6 +882,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
 
 ## Graph
+ - Deep Graph Infomax
+   [[pdf]](https://openreview.net/forum?id=rklz9iAcKQ)
+   [[code]](https://github.com/PetarV-/DGI)
+   - Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm. *ICLR 2019*
+ 
  - When Does Self-Supervision Help Graph Convolutional Networks
    [[pdf]](https://arxiv.org/pdf/2006.09136.pdf)
    - Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen. *ICML 2020*
@@ -893,6 +898,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
  - Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks
     [[pdf]](https://arxiv.org/pdf/2006.12971v1.pdf)
    - Arijit Sehanobish, Neal G. Ravindra, David van Dijk. *ICML 2020 Workshop*
+   
+ - Deep Graph Contrastive Representation Learning
+    [[pdf]](http://arxiv.org/abs/2006.04131)
+    [[code]](https://github.com/CRIPAC-DIG/GRACE)
+   - Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang. *ICML 2020 Workshop*
    
  - Contrastive Multi-View Representation Learning on Graphs
     [[pdf]](https://arxiv.org/pdf/2006.05582)
