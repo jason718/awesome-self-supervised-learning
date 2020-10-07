@@ -470,6 +470,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/Liusifei/UVC)
   - Xueting Li*, Sifei Liu*, Shalini De Mello, Xiaolong Wang, Jan Kautz, and Ming-Hsuan Yang. *NIPS 2019*
 
+- Self-Supervised Video Representation Learning Using Inter-Intra Contrstive Framework
+  [[pdf]](https://arxiv.org/pdf/2008.02531.pdf)
+  [[code]](https://github.com/BestJuly/IIC)
+  - Li Tao, Xueting Wang*, Toshihiko Yamasaki. *ACMMM 2020*
+  
+
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
   [[pdf]](https://arxiv.org/pdf/1603.04992.pdf)
