@@ -485,6 +485,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/laura-wang/video-pace)
   - Jiangliu Wang, Jianbo Jiao, Yun-Hui Liu. *ECCV 2020*
   
+- Video Representation Learning by Recognizing Temporal Transformations
+  [[pdf]](https://arxiv.org/pdf/2007.10730.pdf)
+  [[code]](https://github.com/sjenni/temporal-ssl)
+  - Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
+  
 
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
