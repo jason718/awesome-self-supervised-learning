@@ -470,6 +470,27 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/Liusifei/UVC)
   - Xueting Li*, Sifei Liu*, Shalini De Mello, Xiaolong Wang, Jan Kautz, and Ming-Hsuan Yang. *NIPS 2019*
 
+- Self-Supervised Video Representation Learning Using Inter-Intra Contrstive Framework
+  [[pdf]](https://arxiv.org/pdf/2008.02531.pdf)
+  [[code]](https://github.com/BestJuly/IIC)
+  - Li Tao, Xueting Wang*, Toshihiko Yamasaki. *ACMMM 2020*
+  
+- Video Playback Rate Perception for Self-Supervised Spatio-Temporal Representation Learning
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_Video_Playback_Rate_Perception_for_Self-Supervised_Spatio-Temporal_Representation_Learning_CVPR_2020_paper.pdf)
+  [[Code]](https://github.com/yuanyao366/PRP)
+  - Yuan Yao*, Chang Liu*, Dezhao Luo, Yu Zhou, Qixiang Ye. *CVPR 2020*
+  
+- Self-Supervised Video Representation Learning by Pace Prediction
+  [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2020/Wang20/wang20.pdf)
+  [[code]](https://github.com/laura-wang/video-pace)
+  - Jiangliu Wang, Jianbo Jiao, Yun-Hui Liu. *ECCV 2020*
+  
+- Video Representation Learning by Recognizing Temporal Transformations
+  [[pdf]](https://arxiv.org/pdf/2007.10730.pdf)
+  [[code]](https://github.com/sjenni/temporal-ssl)
+  - Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
+  
+
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
   [[pdf]](https://arxiv.org/pdf/1603.04992.pdf)
