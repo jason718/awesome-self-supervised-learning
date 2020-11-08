@@ -44,6 +44,10 @@ Markdown format:
 
 ## Computer Vision
 ### Survey
+- A Survey on Contrastive Self-supervised Learning
+  [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
+  - Ashish Jaiswal, Ashwin R Babu, Mohammad Z Zadeh, Debapriya Banerjee, Fillia Makedon
+
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.
   [[pdf]](https://arxiv.org/pdf/1902.06162.pdf)
   - Longlong Jing and Yingli Tian. *T-PAMI 2020*
