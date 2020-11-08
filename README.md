@@ -573,6 +573,9 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[web]](http://www.robots.ox.ac.uk/~vgg/research/LearnablePins/)
   - Arsha Nagrani, Samuel Albanie, Andrew Zisserman. ECCV 2018
 
+- Contrastive Learning of General-Purpose Audio Representations
+[[pdf]](https://arxiv.org/pdf/2010.10915.pdf)
+  - Aaqib Saeed, David Grangier, Neil Zeghidour
 
 - Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization. 
   [[pdf]](http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization.pdf)
@@ -682,6 +685,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf](https://arxiv.org/pdf/2007.12865.pdf)]
   - Tiansheng Yao, Xinyang Yi, Derek Zhiyuan Cheng, Felix Yu, Aditya Menon, Lichan Hong, Ed H. Chi, Steve Tjoa, Jieqi (Jay)Kang, Evan Ettinger *Preprint 2020*
 
+### Sensors (Time-series)
+- Multi-task Self-Supervised Learning for Human Activity Detection. *ACM/IMWUT - Ubicomp 2019*
+  [[pdf]](https://arxiv.org/pdf/1907.11879.pdf)
+  - Aaqib Saeed, Tanir Ozcelebi, Johan Lukkien
+- Federated Self-Supervised Learning of Multi-Sensor Representations for Embedded Intelligence. *IEEE IOTJ 2020*
+  [[pdf]](https://arxiv.org/pdf/2007.13018.pdf)
+  - Aaqib Saeed, Flora D. Salim, Tanir Ozcelebi, Johan Lukkien
+- Sense and Learn: Self-Supervision for Omnipresent Sensors.
+  [[pdf]](https://arxiv.org/pdf/2009.13233.pdf)
+  - Aaqib Saeed, Victor Ungureanu, Beat Gfeller
 
 ## Robotics
 
