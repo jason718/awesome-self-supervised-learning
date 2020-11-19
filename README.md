@@ -415,6 +415,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/abs/2006.09882)
     [[code]](https://github.com/facebookresearch/swav)
     - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin
+    
+ - Self-Supervised Relational Reasoning for Representation Learning
+    [[pdf]](https://arxiv.org/pdf/2006.05849.pdf)
+    [[code]](https://github.com/mpatacchiola/self-supervised-relational-reasoning)
+    - Massimiliano Patacchiola, Amos Storkey. *NeurIPS 2020, Spotlight*
 
 ### Video Representation Learning
 
