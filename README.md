@@ -421,6 +421,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/mpatacchiola/self-supervised-relational-reasoning)
     - Massimiliano Patacchiola, Amos Storkey. *NeurIPS 2020, Spotlight*
 
+ - Exploring Simple Siamese Representation Learning
+    [[pdf]](https://arxiv.org/pdf/2011.10566)
+    [[unofficial-code]](https://github.com/PatrickHua/SimSiam)
+    - Xinlei Chen, Kaiming He
+
+ - Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning
+    [[pdf]](https://arxiv.org/pdf/2012.11552)
+    [[code]](https://github.com/valeoai/obow)
+    - Spyros Gidaris, Andrei Bursuc, Gilles Puy, Nikos Komodakis, Matthieu Cord, Patrick Pérez
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
