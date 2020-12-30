@@ -509,6 +509,52 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/sjenni/temporal-ssl)
   - Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
   
+- Self-supervised Co-training for Video Representation Learning
+  [[pdf]](https://arxiv.org/pdf/2010.09709)
+  [[code]](https://github.com/TengdaHan/CoCLR)
+  - Tengda Han, Weidi Xie, and Andrew Zisserman. *NeurIPS 2020*
+
+- Cycle-Contrast for Self-Supervised Video Representation Learning
+  [[pdf]](https://arxiv.org/pdf/2010.14810)
+  - Quan Kong, Wenpeng Wei, Ziwei Deng, Tomoaki Yoshinaga, and Tomokazu Murakami. *NeurIPS 2020*
+
+- Video Representation Learning with Visual Tempo Consistency
+  [[pdf]](https://arxiv.org/pdf/2006.15489)
+  [[code]](https://github.com/decisionforce/VTHCL)
+  - Ceyuan Yang, Yinghao Xu, Bo Dai, and Bolei Zhou
+
+- Self-supervised Video Representation Learning by Uncovering Spatio-temporal Statistics
+  [[pdf]](https://arxiv.org/pdf/2008.13426)
+  - Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Wei Liu, and Yun-hui Liu
+
+- Spatiotemporal Contrastive Video Representation Learning
+  [[pdf]](https://arxiv.org/pdf/2008.03800)
+  - Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, and Yin Cui
+
+- Self-Supervised Video Representation Using Pretext-Contrastive Learning
+  [[pdf]](https://arxiv.org/pdf/2010.15464)
+  - Li Tao, Xueting Wang, and Toshihiko Yamasaki
+
+- Unsupervised Video Representation Learning by Bidirectional Feature Prediction
+  [[pdf]](https://arxiv.org/pdf/2011.06037)
+  - Nadine Behrmann, Juergen Gall, and Mehdi Noroozi
+
+- RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning
+  [[pdf]](https://arxiv.org/pdf/2011.07949)
+  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan
+
+- Hierarchically Decoupled Spatial-Temporal Contrast for Self-supervised Video Representation Learning
+  [[pdf]](https://arxiv.org/pdf/2011.11261)
+  - Zehua Zhang and David Crandall
+
+- Can Temporal Information Help with Contrastive Self-Supervised Learning?
+  [[pdf]](https://arxiv.org/pdf/2011.13046)
+  - Yutong Bai, Haoqi Fan, Ishan Misra, Ganesh Venkatesh, Yongyi Lu, Yuyin Zhou, Qihang Yu, Vikas Chandra, and Alan Yuille
+
+- Enhancing Unsupervised Video Representation Learning by Decoupling the Scene and the Motion
+  [[pdf]](https://arxiv.org/pdf/2009.05757)
+  [[code]](https://github.com/FingerRec/DSM-decoupling-scene-motion)
+  - Jinpeng Wang, Yuting Gao, Ke Li, Jianguo Hu, Xinyang Jiang, Xiaowei Guo, Rongrong Ji, and Xing Sun. *AAAI 2021*
 
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
