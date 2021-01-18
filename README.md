@@ -685,6 +685,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Self-supervised Fitting of Articulated Meshes to Point Clouds.
   - Chun-Liang Li, Tomas Simon, Jason Saragih, Barnabás Póczos and Yaser Sheikh. *CVPR 2019*
   
+- Just Go with the Flow: Self-Supervised Scene Flow Estimation
+  [[pdf]](https://arxiv.org/pdf/1912.00497.pdf)
+  [[code]](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)
+  - Himangi Mittal, Brian Okorn, David Held. *CVPR 2020*
+  
 - SCOPS: Self-Supervised Co-Part Segmentation. 
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
   
