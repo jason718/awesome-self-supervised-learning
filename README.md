@@ -556,6 +556,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/FingerRec/DSM-decoupling-scene-motion)
   - Jinpeng Wang, Yuting Gao, Ke Li, Jianguo Hu, Xinyang Jiang, Xiaowei Guo, Rongrong Ji, and Xing Sun. *AAAI 2021*
 
+- Space-Time Correspondence as a Contrastive Random Walk
+  [[pdf]](https://arxiv.org/abs/2006.14613)
+  [[code]](https://github.com/ajabri/videowalk/)
+  [[project]](http://ajabri.github.io/videowalk)
+  - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
+
+
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
   [[pdf]](https://arxiv.org/pdf/1603.04992.pdf)
