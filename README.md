@@ -431,6 +431,12 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/valeoai/obow)
     - Spyros Gidaris, Andrei Bursuc, Gilles Puy, Nikos Komodakis, Matthieu Cord, Patrick Pérez
 
+#### 2021
+ - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
+   [[pdf]](https://arxiv.org/pdf/2011.10043)
+   [[code]](https://github.com/zdaxie/PixPro)
+   - Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, and Han Hu. *CVPR 2021*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
