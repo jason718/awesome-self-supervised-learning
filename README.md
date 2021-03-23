@@ -396,6 +396,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[unofficial-code]](https://github.com/lucidrains/byol-pytorch)
     - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
     
+ - Contrastive learning of global and local features for medical image segmentation with limited annotations
+    [[pdf]](https://arxiv.org/pdf/2006.10511.pdf)
+    [[code]](https://github.com/krishnabits001/domain_specific_cl)
+    - Krishna Chaitanya, Ertunc Erdil, Neerav Karani, Ender Konukoglu. *NeurIPS 2020, Oral*
+
  - Big Self-Supervised Models are Strong Semi-Supervised Learners
     [[pdf]](https://arxiv.org/abs/2006.10029)
     [[code]](https://github.com/google-research/simclr)
