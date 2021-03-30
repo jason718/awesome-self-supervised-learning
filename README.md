@@ -442,7 +442,7 @@ Markdown format:
  - How Well Do Self-Supervised Models Transfer?
    [[pdf]](https://arxiv.org/abs/2011.13377)
    [[code]](https://github.com/linusericsson/ssl-transfer)
-   - Linus Ericsson, Henry Gouk, Timothy M. Hospedales *CVPR 2021*
+   - Linus Ericsson, Henry Gouk, Timothy M. Hospedales. *CVPR 2021*
 
 ### Video Representation Learning
 
