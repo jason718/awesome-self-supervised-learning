@@ -62,7 +62,7 @@ Markdown format:
 #### Benchmark code
 - FAIR Self-Supervision Benchmark [[pdf]](https://arxiv.org/abs/1905.01235) [[repo]](https://github.com/facebookresearch/fair_self_supervision_benchmark): various benchmark (and legacy) tasks for evaluating quality of visual representations learned by various self-supervision approaches.
 
-- How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/abs/2011.13377) [[repo]](https://github.com/linusericsson/ssl-transfer): A benchmark for evaluating self-supervision consisting of many-shot/few-shot recognition, obeject detection, surface normal estimation and semantic segmentation.
+- How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/abs/2011.13377) [[repo]](https://github.com/linusericsson/ssl-transfer): A benchmark for evaluating self-supervision consisting of many-shot/few-shot recognition, object detection, surface normal estimation and semantic segmentation.
 
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
