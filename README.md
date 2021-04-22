@@ -575,7 +575,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2011.07949)
-  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan
+  [[code]](https://github.com/PeihaoChen/RSPNet)
+  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan. *AAAI 2021*
 
 - Hierarchically Decoupled Spatial-Temporal Contrast for Self-supervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2011.11261)
