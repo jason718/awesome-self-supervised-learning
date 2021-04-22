@@ -24,6 +24,7 @@ Markdown format:
 ```
 
 ## Table of Contents
+- [Theory](#theory)
 - [Computer Vision (CV)](#computer-vision)
   - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
@@ -42,8 +43,39 @@ Markdown format:
 - [Thesis](#thesis)
 - [Blog](#blog)
 
+
+## Theory    
+-   A Theoretical Analysis of Contrastive Unsupervised Representation Learning.
+    [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
+    -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
+    
+-   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
+    [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
+    -   Jason D. Lee, Qi Lei, Nikunj Saunshi, and Jiacheng Zhuo.
+
+-   Contrastive learning , multi-view redundancy , and linear models.
+    [[pdf]](https://arxiv.org/pdf/2008.10150.pdf)
+    -   Christopher Tosh, Akshay Krishnamurthy, and Daniel Hsu.
+   
+-   Understanding Self-supervised Learning with Dual Deep Networks.
+    [[pdf]](https://arxiv.org/pdf/2010.00578.pdf)
+    -   Yuandong Tian, Lantao Yu, Xinlei Chen, and Surya Ganguli.
+    
+-   For self-supervised learning, Rationality implies generalization, provably.
+    [[pdf]](https://arxiv.org/pdf/2010.08508.pdf)
+    -   Yamini Bansal, Gal Kaplun, and Boaz Barak.
+   
+-   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
+    [[pdf]](https://arxiv.org/pdf/2103.03568.pdf)
+    -   Jiaye Teng and Weiran Huang.
+       
+       
 ## Computer Vision
 ### Survey
+- Contrastive Representation Learning: A Framework and Review
+  [[pdf]](https://arxiv.org/abs/2010.05113)
+  - Phuc H. Le-Khac, Graham Healy, Alan F. Smeaton. *IEEE Access 2020*
+
 - A Survey on Contrastive Self-supervised Learning
   [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
   - Ashish Jaiswal, Ashwin R Babu, Mohammad Z Zadeh, Debapriya Banerjee, Fillia Makedon
@@ -398,6 +430,11 @@ Markdown format:
     [[unofficial-code]](https://github.com/lucidrains/byol-pytorch)
     - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
     
+ - Contrastive learning of global and local features for medical image segmentation with limited annotations
+    [[pdf]](https://arxiv.org/pdf/2006.10511.pdf)
+    [[code]](https://github.com/krishnabits001/domain_specific_cl)
+    - Krishna Chaitanya, Ertunc Erdil, Neerav Karani, Ender Konukoglu. *NeurIPS 2020, Oral*
+
  - Big Self-Supervised Models are Strong Semi-Supervised Learners
     [[pdf]](https://arxiv.org/abs/2006.10029)
     [[code]](https://github.com/google-research/simclr)
@@ -443,6 +480,10 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2011.13377)
    [[code]](https://github.com/linusericsson/ssl-transfer)
    - Linus Ericsson, Henry Gouk, Timothy M. Hospedales. *CVPR 2021*
+
+- Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.  
+  [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
+  - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
 
 ### Video Representation Learning
 
@@ -554,7 +595,8 @@ Markdown format:
 
 - RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2011.07949)
-  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan
+  [[code]](https://github.com/PeihaoChen/RSPNet)
+  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan. *AAAI 2021*
 
 - Hierarchically Decoupled Spatial-Temporal Contrast for Self-supervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2011.11261)
