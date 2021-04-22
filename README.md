@@ -469,6 +469,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[code]](https://github.com/zdaxie/PixPro)
    - Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, and Han Hu. *CVPR 2021*
 
+- Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.  
+  [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
+  - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
