@@ -92,7 +92,9 @@ Markdown format:
 ### Image Representation Learning
 
 #### Benchmark code
-FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fair_self_supervision_benchmark): various benchmark (and legacy) tasks for evaluating quality of visual representations learned by various self-supervision approaches. 
+- FAIR Self-Supervision Benchmark [[pdf]](https://arxiv.org/abs/1905.01235) [[repo]](https://github.com/facebookresearch/fair_self_supervision_benchmark): various benchmark (and legacy) tasks for evaluating quality of visual representations learned by various self-supervision approaches.
+
+- How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/abs/2011.13377) [[repo]](https://github.com/linusericsson/ssl-transfer): A benchmark for evaluating self-supervision consisting of many-shot/few-shot recognition, object detection, surface normal estimation and semantic segmentation.
 
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
@@ -473,6 +475,11 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
    [[pdf]](https://arxiv.org/pdf/2011.10043)
    [[code]](https://github.com/zdaxie/PixPro)
    - Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, and Han Hu. *CVPR 2021*
+
+ - How Well Do Self-Supervised Models Transfer?
+   [[pdf]](https://arxiv.org/abs/2011.13377)
+   [[code]](https://github.com/linusericsson/ssl-transfer)
+   - Linus Ericsson, Henry Gouk, Timothy M. Hospedales. *CVPR 2021*
 
 - Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.  
   [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
