@@ -72,6 +72,10 @@ Markdown format:
        
 ## Computer Vision
 ### Survey
+- Contrastive Representation Learning: A Framework and Review
+  [[pdf]](https://arxiv.org/abs/2010.05113)
+  - Phuc H. Le-Khac, Graham Healy, Alan F. Smeaton. *IEEE Access 2020*
+
 - A Survey on Contrastive Self-supervised Learning
   [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
   - Ashish Jaiswal, Ashwin R Babu, Mohammad Z Zadeh, Debapriya Banerjee, Fillia Makedon
