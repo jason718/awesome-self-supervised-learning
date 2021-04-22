@@ -24,6 +24,7 @@ Markdown format:
 ```
 
 ## Table of Contents
+- [Theory](#theory)
 - [Computer Vision (CV)](#computer-vision)
   - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
@@ -42,6 +43,33 @@ Markdown format:
 - [Thesis](#thesis)
 - [Blog](#blog)
 
+
+## Theory    
+-   A Theoretical Analysis of Contrastive Unsupervised Representation Learning.
+    [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
+    -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
+    
+-   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
+    [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
+    -   Jason D. Lee, Qi Lei, Nikunj Saunshi, and Jiacheng Zhuo.
+
+-   Contrastive learning , multi-view redundancy , and linear models.
+    [[pdf]](https://arxiv.org/pdf/2008.10150.pdf)
+    -   Christopher Tosh, Akshay Krishnamurthy, and Daniel Hsu.
+   
+-   Understanding Self-supervised Learning with Dual Deep Networks.
+    [[pdf]](https://arxiv.org/pdf/2010.00578.pdf)
+    -   Yuandong Tian, Lantao Yu, Xinlei Chen, and Surya Ganguli.
+    
+-   For self-supervised learning, Rationality implies generalization, provably.
+    [[pdf]](https://arxiv.org/pdf/2010.08508.pdf)
+    -   Yamini Bansal, Gal Kaplun, and Boaz Barak.
+   
+-   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
+    [[pdf]](https://arxiv.org/pdf/2103.03568.pdf)
+    -   Jiaye Teng and Weiran Huang.
+       
+       
 ## Computer Vision
 ### Survey
 - A Survey on Contrastive Self-supervised Learning
