@@ -470,6 +470,11 @@ Markdown format:
     [[code]](https://github.com/valeoai/obow)
     - Spyros Gidaris, Andrei Bursuc, Gilles Puy, Nikos Komodakis, Matthieu Cord, Patrick Pérez
 
+ - Rethinking the Value of Labels for Improving Class-Imbalanced Learning
+    [[pdf]](https://arxiv.org/abs/2006.07529)
+    [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
+    - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
+
 #### 2021
  - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
    [[pdf]](https://arxiv.org/pdf/2011.10043)
