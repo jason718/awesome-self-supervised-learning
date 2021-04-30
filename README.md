@@ -490,6 +490,11 @@ Markdown format:
   [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
   - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
 
+ - SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning
+   [[pdf]](https://arxiv.org/abs/2009.07724)
+   [[code]](https://github.com/cjrd/selfaugment)
+   - Colorado Reed, Sean Metzger, Aravind Srinivas, Trevor Darrell, Kurt Keutzer. *CVPR 2021*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
