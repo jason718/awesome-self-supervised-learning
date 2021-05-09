@@ -51,7 +51,7 @@ Markdown format:
 
 -   Understanding the Behaviour of Contrastive Loss.
     [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
-    -   Feng Wang, Huaping Liu. *CVPR 2021*
+    -   Feng Wang and Huaping Liu. *CVPR 2021*
     
 -   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
     [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
