@@ -48,6 +48,10 @@ Markdown format:
 -   A Theoretical Analysis of Contrastive Unsupervised Representation Learning.
     [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
     -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
+
+-   Understanding the Behaviour of Contrastive Loss.
+    [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
+    -   Feng Wang and Huaping Liu. *CVPR 2021*
     
 -   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
     [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
@@ -434,6 +438,11 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2006.10511.pdf)
     [[code]](https://github.com/krishnabits001/domain_specific_cl)
     - Krishna Chaitanya, Ertunc Erdil, Neerav Karani, Ender Konukoglu. *NeurIPS 2020, Oral*
+
+ - Unsupervised Representation Learning by InvariancePropagation
+    [[pdf]](https://arxiv.org/pdf/2010.11694.pdf)
+    [[code]](https://github.com/WangFeng18/InvariancePropagation)
+    - Feng Wang, Huaping Liu, Di Guo, Fuchun Sun. *NeurIPS 2020, Spotlight*
 
  - Big Self-Supervised Models are Strong Semi-Supervised Learners
     [[pdf]](https://arxiv.org/abs/2006.10029)
