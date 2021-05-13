@@ -1005,6 +1005,11 @@ Markdown format:
   [[code]](https://github.com/jackroos/VL-BERT)
   - Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai. *ICLR 2020*
 
+- A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection
+  [[pdf]](https://people.cs.vt.edu/~reddy/papers/AAAI21.pdf)
+  [[code]](https://github.com/tshi04/AspDecSSCL)
+  - Tian Shi, Liuqing Li, Ping Wang, and Chandan K. Reddy. *AAAI 2021*
+
 ## ASR
  - Learning Robust and Multilingual Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
@@ -1093,6 +1098,15 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2006.10141.pdf)
    - Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.
 
+- Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
+  [[pdf]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
+  [[code]](https://github.com/pnnl/SLICE)
+  - Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
+
+- Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs
+  [[pdf]](https://people.cs.vt.edu/~reddy/papers/WWW21a.pdf)
+  [[code]](https://github.com/amazon-research/hyperbolic-embeddings)
+  - Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, and Chandan K. Reddy. *WWW 2021*
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
