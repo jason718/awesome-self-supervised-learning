@@ -487,7 +487,7 @@ Markdown format:
 #### 2021
  - Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation
    [[pdf]](https://arxiv.org/abs/2106.06801)
-   - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam
+   - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam. *MICCAI 2021*
    
  - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
    [[pdf]](https://arxiv.org/pdf/2011.10043)
