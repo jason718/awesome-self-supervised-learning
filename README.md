@@ -507,6 +507,11 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2009.07724)
    [[code]](https://github.com/cjrd/selfaugment)
    - Colorado Reed, Sean Metzger, Aravind Srinivas, Trevor Darrell, Kurt Keutzer. *CVPR 2021*
+ 
+ - Jigsaw Clustering for Unsupervised Visual Representation Learning
+   [[pdf]](https://arxiv.org/abs/2104.00323)
+   [[code]](https://github.com/dvlab-research/JigsawClustering)
+   - Pengguang Chen, Shu Liu, Jiaya Jia. *CVPR 2021*
 
 ### Video Representation Learning
 
