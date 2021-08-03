@@ -1019,6 +1019,11 @@ Markdown format:
   [[code]](https://github.com/tshi04/AspDecSSCL)
   - Tian Shi, Liuqing Li, Ping Wang, and Chandan K. Reddy. *AAAI 2021*
 
+- Self-Guided Contrastive Learning for BERT Sentence Representations
+  [[pdf]](https://arxiv.org/abs/2106.07345)
+  [[code]](https://github.com/galsang/SG-BERT)
+  - Taeuk Kim, Kang Min Yoo, and Sang-goo Lee. *ACL 2021*
+
 ## ASR
  - Learning Robust and Multilingual Speech Representations
    [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
