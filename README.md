@@ -513,6 +513,11 @@ Markdown format:
    [[code]](https://github.com/dvlab-research/JigsawClustering)
    - Pengguang Chen, Shu Liu, Jiaya Jia. *CVPR 2021*
 
+ - Improving Contrastive Learning by Visualizing Feature Transformation
+   [[pdf]](https://arxiv.org/abs/2108.02982)
+   [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
+   - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
