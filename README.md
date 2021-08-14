@@ -1030,52 +1030,92 @@ Markdown format:
   - Taeuk Kim, Kang Min Yoo, and Sang-goo Lee. *ACL 2021*
 
 ## ASR
- - Learning Robust and Multilingual Speech Representations
-   [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
-   - Kazuya Kawakami, Luyu Wang, Chris Dyer, Phil Blunsom, Aaron van den Oord
-  
- - Unsupervised pretraining transfers well across languages
-   [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
-   [[code]](https://github.com/facebookresearch/CPC_audio)
-   - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux
+- wav2vec: Unsupervised Pre-Training for Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+  - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
 
- - wav2vec: Unsupervised Pre-Training for Speech Recognition
-   [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
-   [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
-   - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
+- Learning Robust and Multilingual Speech Representations
+  [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
+  - Kazuya Kawakami, Luyu Wang, Chris Dyer, Phil Blunsom, Aaron van den Oord. *Findings of EMNLP 2020*
 
- - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
-   [[pdf]](https://arxiv.org/pdf/1910.05453)
-   - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
-  
- - Effectiveness of self-supervised pre-training for speech recognition
-   [[pdf]](https://arxiv.org/pdf/1911.03912.pdf)
-   - Alexei Baevski, Michael Auli, Abdelrahman Mohamed, *ICASSP 2020*
-  
- - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
-   [[pdf]](https://arxiv.org/pdf/1910.12729)
-   - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee
+- Unsupervised Pretraining Transfers Well Across Languages
+  [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
+  [[code]](https://github.com/facebookresearch/CPC_audio)
+  - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux. *ICASSP 2020*
 
- - Self-Training for End-to-End Speech Recognition
-   [[pdf]](https://arxiv.org/pdf/1909.09116)
-   - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
+- vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+  [[pdf]](https://arxiv.org/pdf/1910.05453)
+  - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
 
- - Generative Pre-Training for Speech with Autoregressive Predictive Coding
-   [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
-   [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
-   - Yu-An Chung, James Glass. *ICASSP 2020*
+- Effectiveness of Self-supervised Pre-training for Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/1911.03912.pdf)
+  - Alexei Baevski, Michael Auli, Abdelrahman Mohamed. *ICASSP 2020*
 
- - Disentangled Speech Embeddings using Cross-modal Self-supervision
-   [[pdf]](https://arxiv.org/pdf/2002.08742v1.pdf)
-   - Arsha Nagrani, Joon Son Chung, Samuel Albanie, Andrew Zisserman. *ICASSP 2020*
+- Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
+  [[pdf]](https://arxiv.org/pdf/1910.12729)
+  - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee. *ICASSP 2020*
 
- - Multi-task self-supervised learning for robust speech recognition
-   [[pdf]](https://arxiv.org/pdf/2001.09239.pdf)
-   - Mirco Ravanelli, Jianyuan Zhong, Santiago Pascual, Pawel Swietojanski, Joao Monteiro, Jan Trmal, Yoshua Bengio
+- Self-Training for End-to-End Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/1909.09116)
+  - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
 
- - Visually Guided Self Supervised Learning of Speech Representations
-   [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
-   - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
+- Generative Pre-Training for Speech with Autoregressive Predictive Coding
+  [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
+  [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
+  - Yu-An Chung, James Glass. *ICASSP 2020*
+
+- Disentangled Speech Embeddings using Cross-modal Self-supervision
+  [[pdf]](https://arxiv.org/pdf/2002.08742v1.pdf)
+  - Arsha Nagrani, Joon Son Chung, Samuel Albanie, Andrew Zisserman. *ICASSP 2020*
+
+- Multi-task Self-supervised Learning for Robust Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/2001.09239.pdf)
+  - Mirco Ravanelli, Jianyuan Zhong, Santiago Pascual, Pawel Swietojanski, Joao Monteiro, Jan Trmal, Yoshua Bengio. *ICASSP 2020*
+
+- Visually Guided Self Supervised Learning of Speech Representations
+  [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
+  - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic. *ICASSP 2020*
+
+- Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders
+  [[pdf]](https://arxiv.org/abs/1910.12638)
+  [[code]](https://github.com/s3prl/s3prl)
+  - Andy T. Liu, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee. *ICASSP 2020*
+
+- Vector-Quantized Autoregressive Predictive Coding
+  [[pdf]](https://arxiv.org/abs/2005.08392)
+  [[code]](https://github.com/Alexander-H-Liu/NPC)
+  - Yu-An Chung, Hao Tang, James Glass. *Interspeech 2020*
+
+- wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
+  [[pdf]](https://arxiv.org/abs/2006.11477)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+  - Alexei Baevski, Yuhao Zhou, Abdelrahman Mohamed, Michael Auli. *NeurIPS 2020*
+
+- Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training
+  [[pdf]](https://arxiv.org/abs/2104.01027)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+  - Wei-Ning Hsu, Anuroop Sriram, Alexei Baevski, Tatiana Likhomanenko, Qiantong Xu, Vineel Pratap, Jacob Kahn, Ann Lee, Ronan Collobert, Gabriel Synnaeve, Michael Auli
+
+- HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+  [[pdf]](https://arxiv.org/abs/2106.07447)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/hubert)
+  - Wei-Ning Hsu, Benjamin Bolte, Yao-Hung Hubert Tsai, Kushal Lakhotia, Ruslan Salakhutdinov, Abdelrahman Mohamed. *ICASSP 2021*
+
+- Unsupervised Speech Recognition
+  [[pdf]](https://arxiv.org/abs/2105.11084)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec/unsupervised)
+  - Alexei Baevski, Wei-Ning Hsu, Alexis Conneau, Michael Auli
+
+- TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech
+  [[pdf]](https://arxiv.org/abs/2007.06028)
+  [[code]](https://github.com/s3prl/s3prl)
+  - Andy T. Liu, Shang-Wen Li, Hung-yi Lee. *IEEE/ACM TASLP 2021*
+
+- Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies
+  [[pdf]](https://arxiv.org/abs/2011.00406)
+  [[code]](https://github.com/Alexander-H-Liu/NPC)
+  - Alexander H. Liu, Yu-An Chung, James Glass. *Interspeech 2021*
 
 ## Graph
  - Deep Graph Infomax
