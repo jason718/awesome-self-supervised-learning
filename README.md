@@ -753,6 +753,10 @@ Markdown format:
 - Does Visual Self-Supervision Improve Learning of Speech Representations?
    [[pdf]](https://arxiv.org/pdf/2005.01400.pdf)
    - Abhinav Shukla, Stavros Petridis, Maja Pantic
+- There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge 
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf) 
+  [[code]](https://github.com/robot-learning-freiburg/MM-DistillNet)
+	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
 
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
