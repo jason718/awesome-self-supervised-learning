@@ -485,6 +485,11 @@ Markdown format:
     - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
 
 #### 2021
+ - Barlow twins: Self-supervised learning via redundancy reduction 
+  [[pdf]](https://arxiv.org/abs/2103.03230)
+  [[code]](https://github.com/facebookresearch/barlowtwins) 
+    - Zbontar, J., Jing, L., Misra, I., LeCun, Y., & Deny, S.
+
  - Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation
    [[pdf]](https://arxiv.org/abs/2106.06801)
    - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam. *MICCAI 2021*
