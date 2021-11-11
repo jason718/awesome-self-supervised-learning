@@ -484,6 +484,11 @@ Markdown format:
     [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
     - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
 
+- Demystifying contrastive self-supervised learning: Invariances, augmentations and dataset biases
+    [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
+    - Senthil Purushwalkam, Abhinav Gupta. *NeurIPS 2020*
+ 
+
 #### 2021
  - Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation
    [[pdf]](https://arxiv.org/abs/2106.06801)
