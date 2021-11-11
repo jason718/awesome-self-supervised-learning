@@ -484,6 +484,11 @@ Markdown format:
     [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
     - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
 
+- Demystifying contrastive self-supervised learning: Invariances, augmentations and dataset biases
+    [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
+    - Senthil Purushwalkam, Abhinav Gupta. *NeurIPS 2020*
+ 
+
 #### 2021
  - Barlow twins: Self-supervised learning via redundancy reduction 
   [[pdf]](https://arxiv.org/abs/2103.03230)
