@@ -769,7 +769,7 @@ Markdown format:
 	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
 
 
-  - BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
+- BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
  [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
  [[code]](https://github.com/nttcslab/byol-a)
   - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
