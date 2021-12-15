@@ -768,6 +768,12 @@ Markdown format:
   [[code]](https://github.com/robot-learning-freiburg/MM-DistillNet)
 	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
 
+
+- BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
+ [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
+ [[code]](https://github.com/nttcslab/byol-a)
+  - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
+
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
