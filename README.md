@@ -48,6 +48,10 @@ Markdown format:
 -   A Theoretical Analysis of Contrastive Unsupervised Representation Learning.
     [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
     -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
+
+-   Towards the Generalization of Contrastive Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
+    -   Weiran Huang, Mingyang Yi, and Xuyang Zhao.
     
 -   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
     [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
@@ -67,7 +71,7 @@ Markdown format:
    
 -   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
     [[pdf]](https://arxiv.org/pdf/2103.03568.pdf)
-    -   Jiaye Teng and Weiran Huang.
+    -   Jiaye Teng, Weiran Huang, and Haowei He. *AISTATS 2022*
        
        
 ## Computer Vision
