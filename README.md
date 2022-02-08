@@ -61,7 +61,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2008.10150.pdf)
     -   Christopher Tosh, Akshay Krishnamurthy, and Daniel Hsu.
    
--   Understanding Self-supervised Learning with Dual Deep Networks.
+-   Understanding Self-supervised Learning with Dual Deep Networks. 
     [[pdf]](https://arxiv.org/pdf/2010.00578.pdf)
     -   Yuandong Tian, Lantao Yu, Xinlei Chen, and Surya Ganguli.
     
