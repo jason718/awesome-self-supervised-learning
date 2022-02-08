@@ -52,6 +52,10 @@ Markdown format:
 -   Towards the Generalization of Contrastive Self-Supervised Learning.
     [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
     -   Weiran Huang, Mingyang Yi, and Xuyang Zhao.
+  
+-   Understanding the Behaviour of Contrastive Loss.
+    [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
+    -   Feng Wang and Huaping Liu. *CVPR 2021*
     
 -   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
     [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
@@ -61,7 +65,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2008.10150.pdf)
     -   Christopher Tosh, Akshay Krishnamurthy, and Daniel Hsu.
    
--   Understanding Self-supervised Learning with Dual Deep Networks. 
+-   Understanding Self-supervised Learning with Dual Deep Networks.
     [[pdf]](https://arxiv.org/pdf/2010.00578.pdf)
     -   Yuandong Tian, Lantao Yu, Xinlei Chen, and Surya Ganguli.
     
@@ -76,6 +80,10 @@ Markdown format:
        
 ## Computer Vision
 ### Survey
+- Contrastive Representation Learning: A Framework and Review
+  [[pdf]](https://arxiv.org/abs/2010.05113)
+  - Phuc H. Le-Khac, Graham Healy, Alan F. Smeaton. *IEEE Access 2020*
+
 - A Survey on Contrastive Self-supervised Learning
   [[pdf]](https://arxiv.org/pdf/2011.00362.pdf)
   - Ashish Jaiswal, Ashwin R Babu, Mohammad Z Zadeh, Debapriya Banerjee, Fillia Makedon
@@ -92,7 +100,9 @@ Markdown format:
 ### Image Representation Learning
 
 #### Benchmark code
-FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fair_self_supervision_benchmark): various benchmark (and legacy) tasks for evaluating quality of visual representations learned by various self-supervision approaches. 
+- FAIR Self-Supervision Benchmark [[pdf]](https://arxiv.org/abs/1905.01235) [[repo]](https://github.com/facebookresearch/fair_self_supervision_benchmark): various benchmark (and legacy) tasks for evaluating quality of visual representations learned by various self-supervision approaches.
+
+- How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/abs/2011.13377) [[repo]](https://github.com/linusericsson/ssl-transfer): A benchmark for evaluating self-supervision consisting of many-shot/few-shot recognition, object detection, surface normal estimation and semantic segmentation.
 
 #### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
@@ -428,6 +438,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[unofficial-code]](https://github.com/lucidrains/byol-pytorch)
     - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
     
+ - Contrastive learning of global and local features for medical image segmentation with limited annotations
+    [[pdf]](https://arxiv.org/pdf/2006.10511.pdf)
+    [[code]](https://github.com/krishnabits001/domain_specific_cl)
+    - Krishna Chaitanya, Ertunc Erdil, Neerav Karani, Ender Konukoglu. *NeurIPS 2020, Oral*
+
+ - Unsupervised Representation Learning by InvariancePropagation
+    [[pdf]](https://arxiv.org/pdf/2010.11694.pdf)
+    [[code]](https://github.com/WangFeng18/InvariancePropagation)
+    - Feng Wang, Huaping Liu, Di Guo, Fuchun Sun. *NeurIPS 2020, Spotlight*
+
  - Big Self-Supervised Models are Strong Semi-Supervised Learners
     [[pdf]](https://arxiv.org/abs/2006.10029)
     [[code]](https://github.com/google-research/simclr)
@@ -463,11 +483,54 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[code]](https://github.com/valeoai/obow)
     - Spyros Gidaris, Andrei Bursuc, Gilles Puy, Nikos Komodakis, Matthieu Cord, Patrick Pérez
 
+ - Rethinking the Value of Labels for Improving Class-Imbalanced Learning
+    [[pdf]](https://arxiv.org/abs/2006.07529)
+    [[code]](https://github.com/YyzHarry/imbalanced-semi-self)
+    - Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
+
+- Demystifying contrastive self-supervised learning: Invariances, augmentations and dataset biases
+    [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
+    - Senthil Purushwalkam, Abhinav Gupta. *NeurIPS 2020*
+ 
+
 #### 2021
+ - Barlow twins: Self-supervised learning via redundancy reduction 
+  [[pdf]](https://arxiv.org/abs/2103.03230)
+  [[code]](https://github.com/facebookresearch/barlowtwins) 
+    - Zbontar, J., Jing, L., Misra, I., LeCun, Y., & Deny, S.
+
+ - Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation
+   [[pdf]](https://arxiv.org/abs/2106.06801)
+   - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam. *MICCAI 2021*
+   
  - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
    [[pdf]](https://arxiv.org/pdf/2011.10043)
    [[code]](https://github.com/zdaxie/PixPro)
    - Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, and Han Hu. *CVPR 2021*
+
+ - How Well Do Self-Supervised Models Transfer?
+   [[pdf]](https://arxiv.org/abs/2011.13377)
+   [[code]](https://github.com/linusericsson/ssl-transfer)
+   - Linus Ericsson, Henry Gouk, Timothy M. Hospedales. *CVPR 2021*
+
+- Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.  
+  [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
+  - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
+
+ - SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning
+   [[pdf]](https://arxiv.org/abs/2009.07724)
+   [[code]](https://github.com/cjrd/selfaugment)
+   - Colorado Reed, Sean Metzger, Aravind Srinivas, Trevor Darrell, Kurt Keutzer. *CVPR 2021*
+ 
+ - Jigsaw Clustering for Unsupervised Visual Representation Learning
+   [[pdf]](https://arxiv.org/abs/2104.00323)
+   [[code]](https://github.com/dvlab-research/JigsawClustering)
+   - Pengguang Chen, Shu Liu, Jiaya Jia. *CVPR 2021*
+
+ - Improving Contrastive Learning by Visualizing Feature Transformation
+   [[pdf]](https://arxiv.org/abs/2108.02982)
+   [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
+   - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
 
 ### Video Representation Learning
 
@@ -579,7 +642,8 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2011.07949)
-  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan
+  [[code]](https://github.com/PeihaoChen/RSPNet)
+  - Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, and Chuang Gan. *AAAI 2021*
 
 - Hierarchically Decoupled Spatial-Temporal Contrast for Self-supervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2011.11261)
@@ -703,6 +767,16 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 - Does Visual Self-Supervision Improve Learning of Speech Representations?
    [[pdf]](https://arxiv.org/pdf/2005.01400.pdf)
    - Abhinav Shukla, Stavros Petridis, Maja Pantic
+- There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge 
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf) 
+  [[code]](https://github.com/robot-learning-freiburg/MM-DistillNet)
+	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
+
+
+- BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
+ [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
+ [[code]](https://github.com/nttcslab/byol-a)
+  - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
 
 ### Others
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
@@ -969,53 +1043,103 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/jackroos/VL-BERT)
   - Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai. *ICLR 2020*
 
+- A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection
+  [[pdf]](https://people.cs.vt.edu/~reddy/papers/AAAI21.pdf)
+  [[code]](https://github.com/tshi04/AspDecSSCL)
+  - Tian Shi, Liuqing Li, Ping Wang, and Chandan K. Reddy. *AAAI 2021*
+
+- Self-Guided Contrastive Learning for BERT Sentence Representations
+  [[pdf]](https://arxiv.org/abs/2106.07345)
+  [[code]](https://github.com/galsang/SG-BERT)
+  - Taeuk Kim, Kang Min Yoo, and Sang-goo Lee. *ACL 2021*
+
 ## ASR
- - Learning Robust and Multilingual Speech Representations
-   [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
-   - Kazuya Kawakami, Luyu Wang, Chris Dyer, Phil Blunsom, Aaron van den Oord
-  
- - Unsupervised pretraining transfers well across languages
-   [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
-   [[code]](https://github.com/facebookresearch/CPC_audio)
-   - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux
+- wav2vec: Unsupervised Pre-Training for Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+  - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
 
- - wav2vec: Unsupervised Pre-Training for Speech Recognition
-   [[pdf]](https://arxiv.org/pdf/1904.05862.pdf)
-   [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
-   - Steffen Schneider, Alexei Baevski, Ronan Collobert, Michael Auli. *INTERSPEECH 2019*
+- Learning Robust and Multilingual Speech Representations
+  [[pdf]](https://arxiv.org/pdf/2001.11128.pdf)
+  - Kazuya Kawakami, Luyu Wang, Chris Dyer, Phil Blunsom, Aaron van den Oord. *Findings of EMNLP 2020*
 
- - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
-   [[pdf]](https://arxiv.org/pdf/1910.05453)
-   - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
-  
- - Effectiveness of self-supervised pre-training for speech recognition
-   [[pdf]](https://arxiv.org/pdf/1911.03912.pdf)
-   - Alexei Baevski, Michael Auli, Abdelrahman Mohamed, *ICASSP 2020*
-  
- - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
-   [[pdf]](https://arxiv.org/pdf/1910.12729)
-   - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee
+- Unsupervised Pretraining Transfers Well Across Languages
+  [[pdf]](https://arxiv.org/pdf/2002.02848.pdf)
+  [[code]](https://github.com/facebookresearch/CPC_audio)
+  - Morgane Riviere, Armand Joulin, Pierre-Emmanuel Mazare, Emmanuel Dupoux. *ICASSP 2020*
 
- - Self-Training for End-to-End Speech Recognition
-   [[pdf]](https://arxiv.org/pdf/1909.09116)
-   - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
+- vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+  [[pdf]](https://arxiv.org/pdf/1910.05453)
+  - Alexei Baevski, Steffen Schneider, Michael Auli. *ICLR 2020*
 
- - Generative Pre-Training for Speech with Autoregressive Predictive Coding
-   [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
-   [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
-   - Yu-An Chung, James Glass. *ICASSP 2020*
+- Effectiveness of Self-supervised Pre-training for Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/1911.03912.pdf)
+  - Alexei Baevski, Michael Auli, Abdelrahman Mohamed. *ICASSP 2020*
 
- - Disentangled Speech Embeddings using Cross-modal Self-supervision
-   [[pdf]](https://arxiv.org/pdf/2002.08742v1.pdf)
-   - Arsha Nagrani, Joon Son Chung, Samuel Albanie, Andrew Zisserman. *ICASSP 2020*
+- Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
+  [[pdf]](https://arxiv.org/pdf/1910.12729)
+  - Alexander H. Liu, Tao Tu, Hung-yi Lee, Lin-shan Lee. *ICASSP 2020*
 
- - Multi-task self-supervised learning for robust speech recognition
-   [[pdf]](https://arxiv.org/pdf/2001.09239.pdf)
-   - Mirco Ravanelli, Jianyuan Zhong, Santiago Pascual, Pawel Swietojanski, Joao Monteiro, Jan Trmal, Yoshua Bengio
+- Self-Training for End-to-End Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/1909.09116)
+  - Jacob Kahn, Ann Lee, Awni Hannun. *ICASSP 2020*
 
- - Visually Guided Self Supervised Learning of Speech Representations
-   [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
-   - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic
+- Generative Pre-Training for Speech with Autoregressive Predictive Coding
+  [[pdf]](https://arxiv.org/pdf/1910.12607.pdf)
+  [[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
+  - Yu-An Chung, James Glass. *ICASSP 2020*
+
+- Disentangled Speech Embeddings using Cross-modal Self-supervision
+  [[pdf]](https://arxiv.org/pdf/2002.08742v1.pdf)
+  - Arsha Nagrani, Joon Son Chung, Samuel Albanie, Andrew Zisserman. *ICASSP 2020*
+
+- Multi-task Self-supervised Learning for Robust Speech Recognition
+  [[pdf]](https://arxiv.org/pdf/2001.09239.pdf)
+  - Mirco Ravanelli, Jianyuan Zhong, Santiago Pascual, Pawel Swietojanski, Joao Monteiro, Jan Trmal, Yoshua Bengio. *ICASSP 2020*
+
+- Visually Guided Self Supervised Learning of Speech Representations
+  [[pdf]](https://arxiv.org/pdf/2001.04316.pdf)
+  - Abhinav Shukla, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Maja Pantic. *ICASSP 2020*
+
+- Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders
+  [[pdf]](https://arxiv.org/abs/1910.12638)
+  [[code]](https://github.com/s3prl/s3prl)
+  - Andy T. Liu, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee. *ICASSP 2020*
+
+- Vector-Quantized Autoregressive Predictive Coding
+  [[pdf]](https://arxiv.org/abs/2005.08392)
+  [[code]](https://github.com/Alexander-H-Liu/NPC)
+  - Yu-An Chung, Hao Tang, James Glass. *Interspeech 2020*
+
+- wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
+  [[pdf]](https://arxiv.org/abs/2006.11477)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+  - Alexei Baevski, Yuhao Zhou, Abdelrahman Mohamed, Michael Auli. *NeurIPS 2020*
+
+- Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training
+  [[pdf]](https://arxiv.org/abs/2104.01027)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
+  - Wei-Ning Hsu, Anuroop Sriram, Alexei Baevski, Tatiana Likhomanenko, Qiantong Xu, Vineel Pratap, Jacob Kahn, Ann Lee, Ronan Collobert, Gabriel Synnaeve, Michael Auli
+
+- HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+  [[pdf]](https://arxiv.org/abs/2106.07447)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/hubert)
+  - Wei-Ning Hsu, Benjamin Bolte, Yao-Hung Hubert Tsai, Kushal Lakhotia, Ruslan Salakhutdinov, Abdelrahman Mohamed. *ICASSP 2021*
+
+- Unsupervised Speech Recognition
+  [[pdf]](https://arxiv.org/abs/2105.11084)
+  [[code]](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec/unsupervised)
+  - Alexei Baevski, Wei-Ning Hsu, Alexis Conneau, Michael Auli
+
+- TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech
+  [[pdf]](https://arxiv.org/abs/2007.06028)
+  [[code]](https://github.com/s3prl/s3prl)
+  - Andy T. Liu, Shang-Wen Li, Hung-yi Lee. *IEEE/ACM TASLP 2021*
+
+- Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies
+  [[pdf]](https://arxiv.org/abs/2011.00406)
+  [[code]](https://github.com/Alexander-H-Liu/NPC)
+  - Alexander H. Liu, Yu-An Chung, James Glass. *Interspeech 2021*
 
 ## Graph
  - Deep Graph Infomax
@@ -1057,6 +1181,15 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
     [[pdf]](https://arxiv.org/pdf/2006.10141.pdf)
    - Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.
 
+- Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
+  [[pdf]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
+  [[code]](https://github.com/pnnl/SLICE)
+  - Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
+
+- Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs
+  [[pdf]](https://people.cs.vt.edu/~reddy/papers/WWW21a.pdf)
+  [[code]](https://github.com/amazon-research/hyperbolic-embeddings)
+  - Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, and Chandan K. Reddy. *WWW 2021*
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
