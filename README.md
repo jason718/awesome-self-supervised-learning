@@ -49,6 +49,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
     -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
 
+-   Towards the Generalization of Contrastive Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
+    -   Weiran Huang, Mingyang Yi, and Xuyang Zhao.
+  
 -   Understanding the Behaviour of Contrastive Loss.
     [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
     -   Feng Wang and Huaping Liu. *CVPR 2021*
@@ -71,7 +75,7 @@ Markdown format:
    
 -   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
     [[pdf]](https://arxiv.org/pdf/2103.03568.pdf)
-    -   Jiaye Teng and Weiran Huang.
+    -   Jiaye Teng, Weiran Huang, and Haowei He. *AISTATS 2022*
        
        
 ## Computer Vision
