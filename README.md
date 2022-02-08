@@ -837,6 +837,10 @@ Markdown format:
 - Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
   - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
 
+- Self-Supervised Point Cloud Completion via Inpainting
+  [[pdf]](https://arxiv.org/abs/2111.10701)
+  - Himangi Mittal, Brian Okorn, Arpit Jangid, David Held. *BMVC 2021*
+
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
