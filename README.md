@@ -29,6 +29,7 @@ Markdown format:
   - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
+  - [3D Feature Learning](#3D-feature-learning)
   - [Geometry](#geometry)
   - [Audio](#audio)
   - [Others](#others)
@@ -665,6 +666,29 @@ Markdown format:
   - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
 
 
+### 3D Feature Learning
+- Self-Supervised Deep Learning on Point Clouds by Reconstructing Space 
+  [[pdf]](http://papers.neurips.cc/paper/9455-self-supervised-deep-learning-on-point-clouds-by-reconstructing-space.pdf)
+  - Jonathan Sauder, and Bjarne Sievers *NeurIPS 2019*
+
+- Self-Supervised Learning of Point Clouds via Orientation Estimation 
+  [[pdf]](http://www.vovakim.com/papers/20_3DV_RotationSupervision.pdf)
+  [[code]](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds)
+  -  Omid Poursaeed, Tianxing Jiang, Han Qiao, Nayun Xu, and Vladimir G. Kim,*3DV 2020* 
+
+- Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf) 
+  - Benjamin Eckart, Wentao Yuan,  Chao Liu,  and Jan Kautz *CVPR 2021*
+
+- PointContrast: Unsupervised Pre-training for 3D Point Cloud
+  [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480579.pdf)
+  [[code]](https://github.com/facebookresearch/PointContrast)
+  - Saining Xie, Jiatao Gu, Demi Guo, Charles R. Qi, Leonidas Guibas, and Or Litany *ECCV 2020*
+
+- Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation
+  [[pdf]](https://arxiv.org/pdf/2110.08188)
+  - Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, and Jiaya Jia *ICCV 2021*
+
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
   [[pdf]](https://arxiv.org/pdf/1603.04992.pdf)
@@ -719,7 +743,6 @@ Markdown format:
   [[code]](https://github.com/jamt9000/DVE)
   [[web]](http://www.robots.ox.ac.uk/~vgg/research/DVE/)
   - James Thewlis, Samuel Albanie, Hakan Bilen, Andrea Vedaldi. ICCV 2019
-
  
 
 ### Audio
