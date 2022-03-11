@@ -43,6 +43,7 @@ Markdown format:
 - [Talks](#talks)
 - [Thesis](#thesis)
 - [Blog](#blog)
+- [Time-Series](#Time-Series)
 
 
 ## Theory    
@@ -1249,6 +1250,9 @@ Markdown format:
 - Self Supervised Representation Learning in NLP. Amit Chaudhary. [[link]](https://amitness.com/2020/05/self-supervised-learning-nlp/).
 - The Illustrated [[Self-Supervised Learning]](https://amitness.com/2020/02/illustrated-self-supervised-learning/), [[SimCLR]](https://amitness.com/2020/03/illustrated-simclr/), [[PIRL]](https://amitness.com/2020/03/illustrated-pirl/), [[Self-Labelling]](https://amitness.com/2020/04/illustrated-self-labelling/), [[FixMatch]](https://amitness.com/2020/03/fixmatch-semi-supervised/), [[DeepCluster]](https://amitness.com/2020/04/deepcluster/). Amit Chaudhary. 
 - Contrastive Self-Supervised Learning. Ankesh Anand. [[link]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html).
+
+## Time-Series
+dasd
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
