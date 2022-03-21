@@ -39,10 +39,12 @@ Markdown format:
 - [Robotics](#robotics)  
 - [Natural Language Processing (NLP)](#nlp)
 - [Automatic Speech Recognition (ASR)](#asr)
+- [Time-Series](#Time-Series)
 - [Graph](#graph)
 - [Talks](#talks)
 - [Thesis](#thesis)
 - [Blog](#blog)
+
 
 
 ## Theory    
@@ -1168,6 +1170,34 @@ Markdown format:
   [[code]](https://github.com/Alexander-H-Liu/NPC)
   - Alexander H. Liu, Yu-An Chung, James Glass. *Interspeech 2021*
 
+## Time-Series
+ - Unsupervised Scalable Representation Learning for Multivariate Time Series
+   [[pdf]](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)
+   [[code]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)
+   - Franceschi, Jean-Yves, Aymeric Dieuleveut, and Martin Jaggi. *NeurIPS 2019*
+ 
+ - Time-Series Representation Learning via Temporal and Contextual Contrasting
+   [[pdf]](https://www.ijcai.org/proceedings/2021/0324.pdf)
+   [[code]](https://github.com/emadeldeen24/TS-TCC)
+   - Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, and Cuntai Guan. *IJCAI 2021*
+ 
+ - Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding
+   [[pdf]](https://openreview.net/pdf?id=8qDwejCuCN)
+   [[code]](https://github.com/sanatonek/TNC_representation_learning)
+   - Tonekaboni, Sana, Danny Eytan, and Anna Goldenberg. *ICLR 2021*
+ 
+ - A Transformer-Based Framework for Multivariate Time Series Representation Learning
+   [[pdf]](https://arxiv.org/pdf/2010.02803.pdf)
+   [[code]](https://github.com/gzerveas/mvts_transformer)
+   - Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *KDD 2021*
+
+- TS2Vec: Towards Universal Representation of Time Series
+   [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
+   [[code]](https://github.com/yuezhihan/ts2vec)
+   - Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
+ 
+
+
 ## Graph
  - Deep Graph Infomax
    [[pdf]](https://openreview.net/forum?id=rklz9iAcKQ)
@@ -1249,6 +1279,7 @@ Markdown format:
 - Self Supervised Representation Learning in NLP. Amit Chaudhary. [[link]](https://amitness.com/2020/05/self-supervised-learning-nlp/).
 - The Illustrated [[Self-Supervised Learning]](https://amitness.com/2020/02/illustrated-self-supervised-learning/), [[SimCLR]](https://amitness.com/2020/03/illustrated-simclr/), [[PIRL]](https://amitness.com/2020/03/illustrated-pirl/), [[Self-Labelling]](https://amitness.com/2020/04/illustrated-self-labelling/), [[FixMatch]](https://amitness.com/2020/03/fixmatch-semi-supervised/), [[DeepCluster]](https://amitness.com/2020/04/deepcluster/). Amit Chaudhary. 
 - Contrastive Self-Supervised Learning. Ankesh Anand. [[link]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html).
+
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
