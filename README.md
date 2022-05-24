@@ -97,7 +97,7 @@ Markdown format:
 
 - Self-supervised Learning: Generative or Contrastive
   [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
-  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang. *TKDE 2022*
+  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang. *TKDE 2021*
 
 
 ### Image Representation Learning
