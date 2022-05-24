@@ -97,7 +97,7 @@ Markdown format:
 
 - Self-supervised Learning: Generative or Contrastive
   [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
-  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang.
+  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang. *TKDE 2022*
 
 
 ### Image Representation Learning
@@ -1247,6 +1247,11 @@ Markdown format:
   [[pdf]](https://people.cs.vt.edu/~reddy/papers/WWW21a.pdf)
   [[code]](https://github.com/amazon-research/hyperbolic-embeddings)
   - Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, and Chandan K. Reddy. *WWW 2021*
+
+- GraphMAE: Self-supervised Masked Graph Autoencoders
+  [[pdf]](https://arxiv.org/pdf/2205.10803.pdf)
+  [[code]](https://github.com/THUDM/GraphMAE)
+  - Zhenyu Hou, Xiao Liu, Yukuo Ceng, Yuxiao Dong, Hongxia Yang, Chunjie Wang, Jie Tang. *KDD 2022*
 
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
