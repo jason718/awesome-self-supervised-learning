@@ -804,6 +804,11 @@ Markdown format:
   - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
 
 ### Others
+- Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data 
+  [[pdf]](https://arxiv.org/abs/2206.02909) 
+  [[code]](https://github.com/OxWearables/ssl-wearables)
+  - Hang Yuan*, Shing Chan*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
+  
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
