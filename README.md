@@ -535,6 +535,12 @@ Markdown format:
    [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
    - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
 
+#### 2022
+ - Tailoring Self-Supervision for Supervised Learning
+   [[pdf]](https://arxiv.org/abs/2207.10023)
+   [[code]](https://github.com/wjun0830/Localizable-Rotation)
+   - WonJun Moon, Ji-Hwan Kim, Jae-Pil Heo. *ECCV 2022*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
