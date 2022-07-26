@@ -877,6 +877,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/2111.10701)
   - Himangi Mittal, Brian Okorn, Arpit Jangid, David Held. *BMVC 2021*
 
+- ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
+  [[pdf]](https://arxiv.org/pdf/2202.00758.pdf)
+  [[code]](https://github.com/akhilmathurs/collossl)
+  - Yash Jain, Ian Tang, Chulhong Min, Fahim Kawsar, Akhil Mathur. *UbiComp 2022*
+
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
