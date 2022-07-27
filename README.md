@@ -494,7 +494,11 @@ Markdown format:
 - Demystifying contrastive self-supervised learning: Invariances, augmentations and dataset biases
     [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
     - Senthil Purushwalkam, Abhinav Gupta. *NeurIPS 2020*
- 
+    
+- Mitigating embedding and class assignment mismatch in unsupervised image classification
+    [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_45)
+    [[code]](https://github.com/Sungwon-Han/TwoStageUC)
+    - Sungwon Han, Sungwon Park, Sungkyu Park, Sundong Kim, Meeyoung Cha. *ECCV 2020*
 
 #### 2021
  - Barlow twins: Self-supervised learning via redundancy reduction 
@@ -529,17 +533,28 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2104.00323)
    [[code]](https://github.com/dvlab-research/JigsawClustering)
    - Pengguang Chen, Shu Liu, Jiaya Jia. *CVPR 2021*
+   
+ - Improving Unsupervised Image Clustering With Robust Learning
+   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf)
+   [[code]](https://github.com/deu30303/RUC)
+   - Sungwon Park, Sungwon Han, Sundong Kim, Danu Kim, Sungkyu Park, Seunghoon Hong, Meeyoung Cha. *CVPR 2021*
 
  - Improving Contrastive Learning by Visualizing Feature Transformation
    [[pdf]](https://arxiv.org/abs/2108.02982)
    [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
    - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
+   
 
 #### 2022
  - Tailoring Self-Supervision for Supervised Learning
    [[pdf]](https://arxiv.org/abs/2207.10023)
    [[code]](https://github.com/wjun0830/Localizable-Rotation)
    - WonJun Moon, Ji-Hwan Kim, Jae-Pil Heo. *ECCV 2022*
+   
+ - FedX: Unsupervised Federated Learning with Cross Knowledge Distillation
+   [[pdf]](https://arxiv.org/abs/2207.09158)
+   [[code]](https://github.com/Sungwon-Han/FEDX)
+   - Sungwon Han, Sungwon Park, Fangzhao Wu, Sundong Kim, Chuhan Wu, Xing Xie, Meeyoung Cha. *ECCV 2022*
 
 ### Video Representation Learning
 
