@@ -555,6 +555,11 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2207.09158)
    [[code]](https://github.com/Sungwon-Han/FEDX)
    - Sungwon Han, Sungwon Park, Fangzhao Wu, Sundong Kim, Chuhan Wu, Xing Xie, Meeyoung Cha. *ECCV 2022*
+  
+ - Masked Siamese Networks for Label-Efficient Learning
+   [[pdf]](https://arxiv.org/abs/2204.07141)
+   [[code]](https://github.com/facebookresearch/msn)
+   - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Florian Bordes, Pascal Vincent, Armand Joulin, Michael Rabbat, Nicolas Ballas.
 
 ### Video Representation Learning
 
