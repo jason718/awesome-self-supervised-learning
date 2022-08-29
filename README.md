@@ -563,12 +563,6 @@ Markdown format:
 
 ### Video Representation Learning
 
-#### Benchmark code
-- How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?
-  [[pdf]](https://arxiv.org/abs/2203.14221) 
-  [[code]](https://github.com/fmthoker/SEVERE-BENCHMARK)
-  - Thoker, Fida Mohammad and Doughty, Hazel and Bagad, Piyush and Snoek, Cees . *ECCV 2022*
-
 - Unsupervised Learning of Video Representations using LSTMs.
   [[pdf]](https://arxiv.org/pdf/1502.04681.pdf)
   [[code]](https://github.com/emansim/unsupervised-videos)
@@ -698,6 +692,12 @@ Markdown format:
   [[code]](https://github.com/ajabri/videowalk/)
   [[project]](http://ajabri.github.io/videowalk)
   - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
+  
+#### Benchmark code for video self-supervised learning
+- How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?
+  [[pdf]](https://arxiv.org/abs/2203.14221) 
+  [[code]](https://github.com/fmthoker/SEVERE-BENCHMARK)
+  - Thoker, Fida Mohammad and Doughty, Hazel and Bagad, Piyush and Snoek, Cees . *ECCV 2022*
 
 
 ### 3D Feature Learning
