@@ -561,6 +561,14 @@ Markdown format:
    [[code]](https://github.com/facebookresearch/msn)
    - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Florian Bordes, Pascal Vincent, Armand Joulin, Michael Rabbat, Nicolas Ballas.
 
+ - TriBYOL: Triplet BYOL for Self-Supervised Representation Learning
+   [[pdf]](https://arxiv.org/abs/2206.03012)
+   - Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama. *ICASSP 2022*
+
+ - Self-Knowledge Distillation based Self-Supervised Learning for Covid-19 Detection from Chest X-Ray Images
+   [[pdf]](https://arxiv.org/abs/2206.03009)
+   - Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama. *ICASSP 2022*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
