@@ -660,6 +660,10 @@ Markdown format:
   [[project]](http://ajabri.github.io/videowalk)
   - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
 
+- Learning State-Aware Visual Representations from Audible Interactions
+  [[pdf]](https://arxiv.org/abs/2209.13583)
+  [[code]](https://github.com/HimangiM/RepLAI)
+  - Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta. *NeurIPS 2022*
 
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
