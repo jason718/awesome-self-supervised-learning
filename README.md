@@ -569,6 +569,11 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2206.03009)
    - Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama. *ICASSP 2022*
 
+  - Self-Supervised Visual Representation Learning with Semantic Grouping 
+    [[pdf]](https://arxiv.org/abs/2205.15288) 
+    [[code]](https://github.com/CVMI-Lab/SlotCon)
+    - Xin Wen, Bingchen Zhao, Anlin Zheng, Xiangyu Zhang, and Xiaojuan Qi. *NeurIPS 2022*
+
 ### Video Representation Learning
 
 - Unsupervised Learning of Video Representations using LSTMs.
