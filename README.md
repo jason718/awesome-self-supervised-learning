@@ -29,6 +29,7 @@ Markdown format:
   - [Survey](#survey)
   - [Image Representation Learning](#image-representation-learning)
   - [Video Representation Learning](#video-representation-learning)
+  - [3D Feature Learning](#3D-feature-learning)
   - [Geometry](#geometry)
   - [Audio](#audio)
   - [Others](#others)
@@ -38,10 +39,12 @@ Markdown format:
 - [Robotics](#robotics)  
 - [Natural Language Processing (NLP)](#nlp)
 - [Automatic Speech Recognition (ASR)](#asr)
+- [Time-Series](#Time-Series)
 - [Graph](#graph)
 - [Talks](#talks)
 - [Thesis](#thesis)
 - [Blog](#blog)
+
 
 
 ## Theory    
@@ -49,6 +52,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
     -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
 
+-   Towards the Generalization of Contrastive Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
+    -   Weiran Huang, Mingyang Yi, and Xuyang Zhao.
+  
 -   Understanding the Behaviour of Contrastive Loss.
     [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
     -   Feng Wang and Huaping Liu. *CVPR 2021*
@@ -71,7 +78,7 @@ Markdown format:
    
 -   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
     [[pdf]](https://arxiv.org/pdf/2103.03568.pdf)
-    -   Jiaye Teng and Weiran Huang.
+    -   Jiaye Teng, Weiran Huang, and Haowei He. *AISTATS 2022*
        
        
 ## Computer Vision
@@ -90,7 +97,7 @@ Markdown format:
 
 - Self-supervised Learning: Generative or Contrastive
   [[pdf]](https://arxiv.org/pdf/2006.08218.pdf)
-  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang.
+  - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang. *TKDE 2021*
 
 
 ### Image Representation Learning
@@ -487,7 +494,11 @@ Markdown format:
 - Demystifying contrastive self-supervised learning: Invariances, augmentations and dataset biases
     [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
     - Senthil Purushwalkam, Abhinav Gupta. *NeurIPS 2020*
- 
+    
+- Mitigating embedding and class assignment mismatch in unsupervised image classification
+    [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_45)
+    [[code]](https://github.com/Sungwon-Han/TwoStageUC)
+    - Sungwon Han, Sungwon Park, Sungkyu Park, Sundong Kim, Meeyoung Cha. *ECCV 2020*
 
 #### 2021
  - Barlow twins: Self-supervised learning via redundancy reduction 
@@ -522,11 +533,46 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2104.00323)
    [[code]](https://github.com/dvlab-research/JigsawClustering)
    - Pengguang Chen, Shu Liu, Jiaya Jia. *CVPR 2021*
+   
+ - Improving Unsupervised Image Clustering With Robust Learning
+   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf)
+   [[code]](https://github.com/deu30303/RUC)
+   - Sungwon Park, Sungwon Han, Sundong Kim, Danu Kim, Sungkyu Park, Seunghoon Hong, Meeyoung Cha. *CVPR 2021*
 
  - Improving Contrastive Learning by Visualizing Feature Transformation
    [[pdf]](https://arxiv.org/abs/2108.02982)
    [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
    - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
+   
+
+#### 2022
+ - Tailoring Self-Supervision for Supervised Learning
+   [[pdf]](https://arxiv.org/abs/2207.10023)
+   [[code]](https://github.com/wjun0830/Localizable-Rotation)
+   - WonJun Moon, Ji-Hwan Kim, Jae-Pil Heo. *ECCV 2022*
+   
+ - FedX: Unsupervised Federated Learning with Cross Knowledge Distillation
+   [[pdf]](https://arxiv.org/abs/2207.09158)
+   [[code]](https://github.com/Sungwon-Han/FEDX)
+   - Sungwon Han, Sungwon Park, Fangzhao Wu, Sundong Kim, Chuhan Wu, Xing Xie, Meeyoung Cha. *ECCV 2022*
+  
+ - Masked Siamese Networks for Label-Efficient Learning
+   [[pdf]](https://arxiv.org/abs/2204.07141)
+   [[code]](https://github.com/facebookresearch/msn)
+   - Mahmoud Assran, Mathilde Caron, Ishan Misra, Piotr Bojanowski, Florian Bordes, Pascal Vincent, Armand Joulin, Michael Rabbat, Nicolas Ballas.
+
+ - TriBYOL: Triplet BYOL for Self-Supervised Representation Learning
+   [[pdf]](https://arxiv.org/abs/2206.03012)
+   - Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama. *ICASSP 2022*
+
+ - Self-Knowledge Distillation based Self-Supervised Learning for Covid-19 Detection from Chest X-Ray Images
+   [[pdf]](https://arxiv.org/abs/2206.03009)
+   - Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama. *ICASSP 2022*
+
+  - Self-Supervised Visual Representation Learning with Semantic Grouping 
+    [[pdf]](https://arxiv.org/abs/2205.15288) 
+    [[code]](https://github.com/CVMI-Lab/SlotCon)
+    - Xin Wen, Bingchen Zhao, Anlin Zheng, Xiangyu Zhang, and Xiaojuan Qi. *NeurIPS 2022*
 
 ### Video Representation Learning
 
@@ -659,11 +705,38 @@ Markdown format:
   [[code]](https://github.com/ajabri/videowalk/)
   [[project]](http://ajabri.github.io/videowalk)
   - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
+  
+ 
+#### Benchmark code for video self-supervised learning
+- How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?
+  [[pdf]](https://arxiv.org/abs/2203.14221) 
+  [[code]](https://github.com/fmthoker/SEVERE-BENCHMARK)
+  - Thoker, Fida Mohammad and Doughty, Hazel and Bagad, Piyush and Snoek, Cees . *ECCV 2022*
 
-- Learning State-Aware Visual Representations from Audible Interactions
-  [[pdf]](https://arxiv.org/abs/2209.13583)
-  [[code]](https://github.com/HimangiM/RepLAI)
-  - Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta. *NeurIPS 2022*
+
+### 3D Feature Learning
+- Self-Supervised Deep Learning on Point Clouds by Reconstructing Space 
+  [[pdf]](http://papers.neurips.cc/paper/9455-self-supervised-deep-learning-on-point-clouds-by-reconstructing-space.pdf)
+  - Jonathan Sauder, and Bjarne Sievers *NeurIPS 2019*
+
+- Self-Supervised Learning of Point Clouds via Orientation Estimation 
+  [[pdf]](http://www.vovakim.com/papers/20_3DV_RotationSupervision.pdf)
+  [[code]](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds)
+  -  Omid Poursaeed, Tianxing Jiang, Han Qiao, Nayun Xu, and Vladimir G. Kim,*3DV 2020* 
+
+- Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf) 
+  - Benjamin Eckart, Wentao Yuan,  Chao Liu,  and Jan Kautz *CVPR 2021*
+
+- PointContrast: Unsupervised Pre-training for 3D Point Cloud
+  [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480579.pdf)
+  [[code]](https://github.com/facebookresearch/PointContrast)
+  - Saining Xie, Jiatao Gu, Demi Guo, Charles R. Qi, Leonidas Guibas, and Or Litany *ECCV 2020*
+
+- Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation
+  [[pdf]](https://arxiv.org/pdf/2110.08188)
+  - Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, and Jiaya Jia *ICCV 2021*
+
 
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
@@ -719,7 +792,6 @@ Markdown format:
   [[code]](https://github.com/jamt9000/DVE)
   [[web]](http://www.robots.ox.ac.uk/~vgg/research/DVE/)
   - James Thewlis, Samuel Albanie, Hakan Bilen, Andrea Vedaldi. ICCV 2019
-
  
 
 ### Audio
@@ -772,13 +844,22 @@ Markdown format:
   [[code]](https://github.com/robot-learning-freiburg/MM-DistillNet)
 	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
 
-
 - BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
  [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
  [[code]](https://github.com/nttcslab/byol-a)
   - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
 
+- Learning State-Aware Visual Representations from Audible Interactions
+  [[pdf]](https://arxiv.org/abs/2209.13583)
+  [[code]](https://github.com/HimangiM/RepLAI)
+  - Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta. *NeurIPS 2022*
+
 ### Others
+- Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data 
+  [[pdf]](https://arxiv.org/abs/2206.02909) 
+  [[code]](https://github.com/OxWearables/ssl-wearables)
+  - Hang Yuan*, Shing Chan*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
+  
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
@@ -840,7 +921,12 @@ Markdown format:
 - Self-Supervised Point Cloud Completion via Inpainting
   [[pdf]](https://arxiv.org/abs/2111.10701)
   - Himangi Mittal, Brian Okorn, Arpit Jangid, David Held. *BMVC 2021*
-
+  
+- ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
+  [[pdf]](https://arxiv.org/pdf/2202.00758.pdf)
+  [[code]](https://github.com/akhilmathurs/collossl)
+  - Yash Jain, Ian Tang, Chulhong Min, Fahim Kawsar, Akhil Mathur. *UbiComp 2022*
+  
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
@@ -1145,6 +1231,34 @@ Markdown format:
   [[code]](https://github.com/Alexander-H-Liu/NPC)
   - Alexander H. Liu, Yu-An Chung, James Glass. *Interspeech 2021*
 
+## Time-Series
+ - Unsupervised Scalable Representation Learning for Multivariate Time Series
+   [[pdf]](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)
+   [[code]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)
+   - Franceschi, Jean-Yves, Aymeric Dieuleveut, and Martin Jaggi. *NeurIPS 2019*
+ 
+ - Time-Series Representation Learning via Temporal and Contextual Contrasting
+   [[pdf]](https://www.ijcai.org/proceedings/2021/0324.pdf)
+   [[code]](https://github.com/emadeldeen24/TS-TCC)
+   - Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, and Cuntai Guan. *IJCAI 2021*
+ 
+ - Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding
+   [[pdf]](https://openreview.net/pdf?id=8qDwejCuCN)
+   [[code]](https://github.com/sanatonek/TNC_representation_learning)
+   - Tonekaboni, Sana, Danny Eytan, and Anna Goldenberg. *ICLR 2021*
+ 
+ - A Transformer-Based Framework for Multivariate Time Series Representation Learning
+   [[pdf]](https://arxiv.org/pdf/2010.02803.pdf)
+   [[code]](https://github.com/gzerveas/mvts_transformer)
+   - Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *KDD 2021*
+
+- TS2Vec: Towards Universal Representation of Time Series
+   [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
+   [[code]](https://github.com/yuezhihan/ts2vec)
+   - Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
+ 
+
+
 ## Graph
  - Deep Graph Infomax
    [[pdf]](https://openreview.net/forum?id=rklz9iAcKQ)
@@ -1195,6 +1309,11 @@ Markdown format:
   [[code]](https://github.com/amazon-research/hyperbolic-embeddings)
   - Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, and Chandan K. Reddy. *WWW 2021*
 
+- GraphMAE: Self-supervised Masked Graph Autoencoders
+  [[pdf]](https://arxiv.org/pdf/2205.10803.pdf)
+  [[code]](https://github.com/THUDM/GraphMAE)
+  - Zhenyu Hou, Xiao Liu, Yukuo Ceng, Yuxiao Dong, Hongxia Yang, Chunjie Wang, Jie Tang. *KDD 2022*
+
 ## Talks
 - The power of Self-Learning Systems. Demis Hassabis (DeepMind).
   [[link]](https://youtu.be/wxis9FrCHbw)
@@ -1226,6 +1345,7 @@ Markdown format:
 - Self Supervised Representation Learning in NLP. Amit Chaudhary. [[link]](https://amitness.com/2020/05/self-supervised-learning-nlp/).
 - The Illustrated [[Self-Supervised Learning]](https://amitness.com/2020/02/illustrated-self-supervised-learning/), [[SimCLR]](https://amitness.com/2020/03/illustrated-simclr/), [[PIRL]](https://amitness.com/2020/03/illustrated-pirl/), [[Self-Labelling]](https://amitness.com/2020/04/illustrated-self-labelling/), [[FixMatch]](https://amitness.com/2020/03/fixmatch-semi-supervised/), [[DeepCluster]](https://amitness.com/2020/04/deepcluster/). Amit Chaudhary. 
 - Contrastive Self-Supervised Learning. Ankesh Anand. [[link]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html).
+
 
 ## License
 To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) has waived all copyright and related or neighboring rights to this work.
