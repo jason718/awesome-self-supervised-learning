@@ -706,6 +706,7 @@ Markdown format:
   [[project]](http://ajabri.github.io/videowalk)
   - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
   
+ 
 #### Benchmark code for video self-supervised learning
 - How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?
   [[pdf]](https://arxiv.org/abs/2203.14221) 
@@ -735,6 +736,7 @@ Markdown format:
 - Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation
   [[pdf]](https://arxiv.org/pdf/2110.08188)
   - Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, and Jiaya Jia *ICCV 2021*
+
 
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
@@ -842,11 +844,15 @@ Markdown format:
   [[code]](https://github.com/robot-learning-freiburg/MM-DistillNet)
 	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
 
-
 - BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
  [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
  [[code]](https://github.com/nttcslab/byol-a)
   - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
+
+- Learning State-Aware Visual Representations from Audible Interactions
+  [[pdf]](https://arxiv.org/abs/2209.13583)
+  [[code]](https://github.com/HimangiM/RepLAI)
+  - Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta. *NeurIPS 2022*
 
 ### Others
 - Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data 
@@ -915,12 +921,12 @@ Markdown format:
 - Self-Supervised Point Cloud Completion via Inpainting
   [[pdf]](https://arxiv.org/abs/2111.10701)
   - Himangi Mittal, Brian Okorn, Arpit Jangid, David Held. *BMVC 2021*
-
+  
 - ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
   [[pdf]](https://arxiv.org/pdf/2202.00758.pdf)
   [[code]](https://github.com/akhilmathurs/collossl)
   - Yash Jain, Ian Tang, Chulhong Min, Fahim Kawsar, Akhil Mathur. *UbiComp 2022*
-
+  
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
