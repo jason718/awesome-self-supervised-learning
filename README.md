@@ -961,6 +961,11 @@ Markdown format:
   [[code]](https://github.com/mila-iqia/atari-representation-learning)
   - Ankesh Anand, Evan Racah, Sherjil Ozair, Yoshua Bengio, Marc-Alexandre Côté, R Devon Hjelm. *NeurIPS 2019*
 
+- Visual Reinforcement Learning with Self-Supervised 3D Representations.
+  [[pdf]](https://arxiv.org/pdf/2210.07241.pdf)
+  [[code]](https://github.com/YanjieZe/rl3d)
+  - Yanjie Ze*, Nicklas Hansen*, Yinbo Chen, Mohit Jain, Xiaolong Wang. *Preprint 2022*
+
 ### Recommendation Systems
 - Self-supervised Learning for Deep Models in Recommendations.
   [[pdf](https://arxiv.org/pdf/2007.12865.pdf)]
