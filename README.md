@@ -543,7 +543,6 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2108.02982)
    [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
    - Rui Zhu*, Bingchen Zhao*, Jingen Liu, Zhenglong Sun, Chang Wen Chen. *ICCV 2021 Oral*
-   
 
 #### 2022
  - Tailoring Self-Supervision for Supervised Learning
@@ -578,6 +577,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/abs/2205.15288) 
     [[code]](https://github.com/CVMI-Lab/SlotCon)
     - Xin Wen, Bingchen Zhao, Anlin Zheng, Xiangyu Zhang, and Xiaojuan Qi. *NeurIPS 2022*
+   
+ - VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
+   [[pdf]](https://arxiv.org/abs/2105.04906)
+   - Adrien Bardes, Jean Ponce, Yann LeCun. *ICLR 2022*    
 
 ### Video Representation Learning
 
