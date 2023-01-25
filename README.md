@@ -501,6 +501,10 @@ Markdown format:
     - Sungwon Han, Sungwon Park, Sungkyu Park, Sundong Kim, Meeyoung Cha. *ECCV 2020*
 
 #### 2021
+ - Self-Supervised Learning Across Domains
+  [[pdf]](https://arxiv.org/abs/2007.12368)
+    - Silvia Bucci, Antonio D'Innocente, Yujun Liao, Fabio Maria Carlucci, Barbara Caputo, Tatiana Tommasi. *IEEE T-PAMI 2021*
+
  - Barlow twins: Self-supervised learning via redundancy reduction 
   [[pdf]](https://arxiv.org/abs/2103.03230)
   [[code]](https://github.com/facebookresearch/barlowtwins) 
