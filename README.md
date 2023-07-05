@@ -1127,6 +1127,12 @@ Markdown format:
   [[Project]](http://robotskills.cs.uni-freiburg.de/)
   - Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard *ICRA 2020*
 
+### 2023
+- Self-Supervised Object Goal Navigation with In-Situ Finetuning.
+[[pdf]](https://arxiv.org/abs/2212.05923) 
+[[Video]](https://www.youtube.com/watch?v=LXsZst5ZUpU)
+  - So Yeon Min, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang *IROS 2023*
+
 ## NLP
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
   [[pdf]](https://arxiv.org/abs/1810.04805)
