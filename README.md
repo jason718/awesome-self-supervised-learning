@@ -585,6 +585,15 @@ Markdown format:
  - VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
    [[pdf]](https://arxiv.org/abs/2105.04906)
    - Adrien Bardes, Jean Ponce, Yann LeCun. *ICLR 2022*    
+#### 2023
+ - Inter-Instance Similarity Modeling for Contrastive Learning
+   [[pdf]](https://arxiv.org/abs/2306.12243) 
+   [[code]](https://github.com/visresearch/patchmix)
+   - Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang. 
+ - Asymmetric Patch Sampling for Contrastive Learning
+   [[pdf]](https://arxiv.org/abs/2306.02854)
+   [[code]](https://github.com/visresearch/aps)
+   - Chengchao Shen, Jianzhong Chen, Shu Wang, Hulin Kuang, Jin Liu, Jianxin Wang. 
 
 ### Video Representation Learning
 
