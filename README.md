@@ -748,7 +748,20 @@ Markdown format:
 - Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation
   [[pdf]](https://arxiv.org/pdf/2110.08188)
   - Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, and Jiaya Jia *ICCV 2021*
+ 
+- Ponder: Point Cloud Pre-training via Neural Rendering
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html)
+  - Di Huang, Sida Peng, Tong He, Honghui Yang, Xiaowei Zhou and Wanli Ouyang *ICCV 2023*
 
+- PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm
+  [[pdf]](https://arxiv.org/abs/2310.08586)
+  [[code]](https://github.com/OpenGVLab/PonderV2)
+  - Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao and Wanli Ouyang *Arxiv 2023*
+
+- UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
+  [[pdf]](https://arxiv.org/abs/2310.08586)
+  [[code]]([https://arxiv.org/abs/2310.08370](https://github.com/Nightmare-n/UniPAD))
+  - Honghui Yang, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin, Xiaofei He, Wanli Ouyang *Arxiv 2023*
 
 ### Geometry
 - Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
@@ -1126,6 +1139,11 @@ Markdown format:
 [[pdf]](https://arxiv.org/pdf/1910.09430.pdf) 
   [[Project]](http://robotskills.cs.uni-freiburg.de/)
   - Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard *ICRA 2020*
+
+### 2024
+- Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning.
+  [[pdf]](https://arxiv.org/pdf/2402.02500.pdf)
+  - Haoyi Zhu, Yating Wang, Di Huang, Weicai Ye, Wanli Ouyang, Tong He
 
 ## NLP
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
