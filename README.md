@@ -1142,12 +1142,17 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1912.03227.pdf) 
   - Jannik Zuern, Wolfram Burgard, Abhinav Valada
 
-
 ### 2020
 - Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video.
 [[pdf]](https://arxiv.org/pdf/1910.09430.pdf) 
   [[Project]](http://robotskills.cs.uni-freiburg.de/)
   - Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard *ICRA 2020*
+
+### 2023
+- Self-Supervised Object Goal Navigation with In-Situ Finetuning.
+[[pdf]](https://arxiv.org/abs/2212.05923) 
+[[Video]](https://www.youtube.com/watch?v=LXsZst5ZUpU)
+  - So Yeon Min, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang *IROS 2023*
 
 ### 2024
 - Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning.
