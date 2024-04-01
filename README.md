@@ -100,7 +100,7 @@ Markdown format:
   - Xiao Liu, Fanjin Zhang, Zhenyu Hou, Li Mian, Zhaoyu Wang, Jing Zhang, Jie Tang. *TKDE 2021*
 
 - Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training
-  [[pdf]]([https://arxiv.org/pdf/2006.08218.pdf](https://openreview.net/pdf?id=Ma25S4ludQ))
+  [[pdf]][https://arxiv.org/pdf/2006.08218.pdf](https://openreview.net/pdf?id=Ma25S4ludQ)
   - Utku Ozbulak, Hyun Jung Lee, Beril Boga, Esla Timothy Anzaku, Ho-min Park, Arnout Van Messem, Wesley De Neve, Joris Vankerschaver. *TMLR 2023*
 
 
