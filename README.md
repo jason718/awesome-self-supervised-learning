@@ -2,6 +2,7 @@
 
 A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for self-supervised learning workflow orchestration, automated research management, and multi-agent coordination. MIT licensed.
 #### Why Self-Supervised?
 Self-Supervised Learning has become an exciting direction in AI community. 
   - Jitendra Malik: "Supervision is the opium of the AI researcher"
