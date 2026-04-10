@@ -1001,6 +1001,7 @@ Markdown format:
   [[code]](https://github.com/akhilmathurs/collossl)
   - Yash Jain, Ian Tang, Chulhong Min, Fahim Kawsar, Akhil Mathur. *UbiComp 2022*
   
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jason718_awesome-self-supervised-learning) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
