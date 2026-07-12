@@ -3,7 +3,7 @@
 A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search)
 
 #### Why Self-Supervised?
-Self-Supervised Learning has become an exciting direction in AI community. 
+Self-Supervised Learning has become an exciting direction in AI community.
   - Jitendra Malik: "Supervision is the opium of the AI researcher"
   - Alyosha Efros: "The AI revolution will not be supervised"
   - Yann LeCun: "self-supervised learning is the cake, supervised learning is the icing on the cake, reinforcement learning is the cherry on the cake"
@@ -17,8 +17,8 @@ Please help contribute this list by [pull request](https://github.com/jason718/A
 
 Markdown format:
 ```markdown
-- Paper Name. 
-  [[pdf]](link) 
+- Paper Name.
+  [[pdf]](link)
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
@@ -36,7 +36,7 @@ Markdown format:
 - [Machine Learning](#machine-learning)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Recommendation Systems](#recommendation-systems)
-- [Robotics](#robotics)  
+- [Robotics](#robotics)
 - [Natural Language Processing (NLP)](#nlp)
 - [Automatic Speech Recognition (ASR)](#asr)
 - [Time-Series](#Time-Series)
@@ -63,7 +63,7 @@ Markdown format:
 -   For self-supervised learning, Rationality implies generalization, provably.
     [[pdf]](https://arxiv.org/pdf/2010.08508.pdf)
     -   Yamini Bansal, Gal Kaplun, and Boaz Barak.
-   
+
 #### 2021
 -   Towards the Generalization of Contrastive Self-Supervised Learning.
     [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
@@ -71,7 +71,7 @@ Markdown format:
 -   Understanding the Behaviour of Contrastive Loss.
     [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
     -   Feng Wang and Huaping Liu. *CVPR 2021*
--   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
+-   Predicting What You Already Know Helps: Provable Self-Supervised Learning.
     [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
     -   Jason D. Lee, Qi Lei, Nikunj Saunshi, and Jiacheng Zhuo.
 -   Contrastive learning , multi-view redundancy , and linear models.
@@ -99,7 +99,7 @@ Markdown format:
     -   Liu Ziyin, Ekdeep Singh Lubana, Masahito Ueda, Hidenori Tanaka. *ICLR 2023*
 
 
-#### 2024  
+#### 2024
 -   Bridging Mini-Batch and Asymptotic Analysis in Contrastive Learning: From InfoNCE to Kernel-Based Losses.
     [[pdf]](https://arxiv.org/pdf/2405.18045)
     [[code]](https://github.com/pakoromilas/DHEL-KCL)
@@ -112,7 +112,7 @@ Markdown format:
     -  Zhiquan Tan, Jingqin Yang, Weiran Huang, Yang Yuan, Yifan Zhang. *ICML 2024*
 
 
-       
+
 ## Computer Vision
 ### Survey
 - Contrastive Representation Learning: A Framework and Review
@@ -150,37 +150,37 @@ Markdown format:
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
 
 - Unsupervised Learning of Visual Representations using Videos.
-  [[pdf]](http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf) 
+  [[pdf]](http://www.cs.cmu.edu/~xiaolonw/papers/unsupervised_video.pdf)
   [[code]](http://www.cs.cmu.edu/~xiaolonw/unsupervise.html)
   - Wang, Xiaolong and Gupta, Abhinav. *ICCV 2015*
 
-- Learning to See by Moving. 
+- Learning to See by Moving.
   [[pdf]](http://arxiv.org/abs/1505.01596)
   [[code]](https://people.eecs.berkeley.edu/~pulkitag/lsm/lsm.html)
   - Agrawal, Pulkit and Carreira, Joao and Malik, Jitendra. *ICCV 2015*
 
 - Learning image representations tied to ego-motion.
-  [[pdf]](http://vision.cs.utexas.edu/projects/egoequiv/ijcv_bestpaper_specialissue_egoequiv.pdf) 
+  [[pdf]](http://vision.cs.utexas.edu/projects/egoequiv/ijcv_bestpaper_specialissue_egoequiv.pdf)
   [[code]](http://vision.cs.utexas.edu/projects/egoequiv/)
   - Jayaraman, Dinesh and Grauman, Kristen. *ICCV 2015*
 
 #### 2016
-- Joint Unsupervised Learning of Deep Representations and Image Clusters. 
-  [[pdf]](https://arxiv.org/pdf/1604.03628.pdf) 
+- Joint Unsupervised Learning of Deep Representations and Image Clusters.
+  [[pdf]](https://arxiv.org/pdf/1604.03628.pdf)
   [[code-torch]](https://github.com/jwyang/JULE.torch)
   [[code-caffe]](https://github.com/jwyang/JULE-Caffe)
   - Jianwei Yang, Devi Parikh, Dhruv Batra. *CVPR 2016*
-  
+
 - Unsupervised Deep Embedding for Clustering Analysis.
-  [[pdf]](https://arxiv.org/pdf/1511.06335.pdf) 
+  [[pdf]](https://arxiv.org/pdf/1511.06335.pdf)
   [[code]](https://github.com/piiswrong/dec)
   - Junyuan Xie, Ross Girshick, and Ali Farhadi. *ICML 2016*
-  
-- Slow and steady feature analysis: higher order temporal coherence in video. 
+
+- Slow and steady feature analysis: higher order temporal coherence in video.
   [[pdf]](http://vision.cs.utexas.edu/projects/slowsteady/cvpr16.pdf)
   - Jayaraman, Dinesh and Grauman, Kristen. *CVPR 2016*
 
-- Context Encoders: Feature Learning by Inpainting. 
+- Context Encoders: Feature Learning by Inpainting.
   [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf)
   [[code]](https://people.eecs.berkeley.edu/~pathak/context_encoder/)
   - Pathak, Deepak and  Krahenbuhl, Philipp and Donahue, Jeff and Darrell, Trevor and Efros, Alexei A. *CVPR 2016*
@@ -196,11 +196,11 @@ Markdown format:
   - Noroozi, Mehdi and Favaro, Paolo. *ECCV 2016*
 
 - Ambient Sound Provides Supervision for Visual Learning.
-  [[pdf]](http://arxiv.org/pdf/1608.07017) 
+  [[pdf]](http://arxiv.org/pdf/1608.07017)
   [[code]](http://andrewowens.com/ambient/index.html)
   - Owens, Andrew and Wu, Jiajun and McDermott, Josh and Freeman, William and Torralba, Antonio. *ECCV 2016*
 
-- Learning Representations for Automatic Colorization. 
+- Learning Representations for Automatic Colorization.
   [[pdf]](http://arxiv.org/pdf/1603.06668.pdf)
   [[code]](http://people.cs.uchicago.edu/~larsson/colorization/)
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *ECCV 2016*
@@ -211,28 +211,28 @@ Markdown format:
     -   Li, Dong and Hung, Wei-Chih and Huang, Jia-Bin and Wang, Shengjin and Ahuja, Narendra and Yang, Ming-Hsuan. *ECCV 2016*
 
 #### 2017
-- Adversarial Feature Learning. 
+- Adversarial Feature Learning.
   [[pdf]](https://arxiv.org/pdf/1605.09782.pdf)
   [[code]](https://github.com/jeffdonahue/bigan)
   - Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
-  
+
 - Self-supervised learning of visual features through embedding images into text topic spaces.
   [[pdf]](https://arxiv.org/pdf/1705.08631.pdf)
   [[code]](https://github.com/lluisgomez/TextTopicNet)
   - L. Gomez* and Y. Patel* and M. Rusiñol and D. Karatzas and C.V. Jawahar. *CVPR 2017*
-  
+
 - Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction.
-  [[pdf]](https://arxiv.org/abs/1611.09842) 
+  [[pdf]](https://arxiv.org/abs/1611.09842)
   [[code]](https://github.com/richzhang/splitbrainauto)
   - Zhang, Richard and Isola, Phillip and Efros, Alexei A. *CVPR 2017*
 
 - Learning Features by Watching Objects Move.
-  [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf) 
+  [[pdf]](https://people.eecs.berkeley.edu/~pathak/papers/cvpr17.pdf)
   [[code]](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/)
   - Pathak, Deepak and Girshick, Ross and Dollar, Piotr and  Darrell, Trevor and Hariharan, Bharath. *CVPR 2017*
-  
-- Colorization as a Proxy Task for Visual Understanding. 
-  [[pdf]](http://arxiv.org/abs/1703.04044) 
+
+- Colorization as a Proxy Task for Visual Understanding.
+  [[pdf]](http://arxiv.org/abs/1703.04044)
   [[code]](http://people.cs.uchicago.edu/~larsson/color-proxy/)
   - Larsson, Gustav and Maire, Michael and Shakhnarovich, Gregory. *CVPR 2017*
 
@@ -242,11 +242,11 @@ Markdown format:
     -   Cruz, Rodrigo Santa and Fernando, Basura and Cherian, Anoop and Gould, Stephen. *CVPR 2017*
 
 - Unsupervised Learning by Predicting Noise.
-  [[pdf]](https://arxiv.org/abs/1704.05310) 
+  [[pdf]](https://arxiv.org/abs/1704.05310)
   [[code]](https://github.com/facebookresearch/noise-as-targets)
   - Bojanowski, Piotr and Joulin, Armand. *ICML 2017*
 
-- Multi-task Self-Supervised Visual Learning. 
+- Multi-task Self-Supervised Visual Learning.
   [[pdf]](https://arxiv.org/abs/1708.07860)
   - Doersch, Carl and Zisserman, Andrew. *ICCV 2017*
 
@@ -258,54 +258,54 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1708.02901.pdf)
   - Wang, Xiaolong and He, Kaiming and Gupta, Abhinav. *ICCV 2017*
 
-- Look, Listen and Learn. 
+- Look, Listen and Learn.
   [[pdf]](https://arxiv.org/pdf/1705.08168.pdf)
   - Relja, Arandjelovic and Zisserman, Andrew. *ICCV 2017*
 
-- Unsupervised Representation Learning by Sorting Sequences. 
-  [[pdf]](https://arxiv.org/pdf/1708.01246.pdf) 
+- Unsupervised Representation Learning by Sorting Sequences.
+  [[pdf]](https://arxiv.org/pdf/1708.01246.pdf)
   [[code]](https://github.com/HsinYingLee/OPN)
   - Hsin-Ying Lee, Jia-Bin Huang, Maneesh Kumar Singh, and Ming-Hsuan Yang. *ICCV 2017*
 
 #### 2018
 - Unsupervised Feature Learning via Non-parameteric Instance Discrimination
-  [[pdf]](https://arxiv.org/pdf/1805.01978.pdf) 
+  [[pdf]](https://arxiv.org/pdf/1805.01978.pdf)
   [[code]](https://github.com/zhirongw/lemniscate.pytorch)
   - Zhirong Wu, Yuanjun Xiong and X Yu Stella and Dahua Lin. *CVPR 2018*
 
-- Learning Image Representations by Completing Damaged Jigsaw Puzzles. 
+- Learning Image Representations by Completing Damaged Jigsaw Puzzles.
   [[pdf]](https://arxiv.org/pdf/1802.01880.pdf)
   [[code]](https://github.com/MehdiNoroozi/JigsawPuzzleSolver)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *WACV 2018*
-  
-- Unsupervised Representation Learning by Predicting Image Rotations. 
+
+- Unsupervised Representation Learning by Predicting Image Rotations.
   [[pdf]](https://openreview.net/forum?id=S1v4N2l0-)
   [[code]](https://github.com/gidariss/FeatureLearningRotNet)
   - Spyros Gidaris and Praveer Singh and Nikos Komodakis. *ICLR 2018*
-  
-- Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. 
-  [[pdf]](https://openreview.net/pdf?id=HkMvEOlAb) 
+
+- Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization.
+  [[pdf]](https://openreview.net/pdf?id=HkMvEOlAb)
   [[code]](https://github.com/ozcell/LALNets)
   - Ozsel Kilinc and Ismail Uysal. *ICLR 2018*
-  
-- Improvements to context based self-supervised learning. 
+
+- Improvements to context based self-supervised learning.
   [[pdf]](https://arxiv.org/abs/1711.06379)
   - Terrell Mundhenk and Daniel Ho and Barry Chen. *CVPR 2018*
-  
+
 - Self-Supervised Feature Learning by Learning to Spot Artifacts.
   [[pdf]](https://arxiv.org/pdf/1806.05024.pdf)
   [[code]](https://github.com/sjenni/LearningToSpotArtifacts)
   - Simon Jenni and Universität Bern and Paolo Favaro. *CVPR 2018*
-  
-- Boosting Self-Supervised Learning via Knowledge Transfer. 
+
+- Boosting Self-Supervised Learning via Knowledge Transfer.
   [[pdf]](https://www.csee.umbc.edu/~hpirsiav/papers/transfer_cvpr18.pdf)
   - Mehdi Noroozi and Ananth Vinjimoor and Paolo Favaro and Hamed Pirsiavash. *CVPR 2018*
-  
-- Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. 
+
+- Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery.
   [[pdf]](https://arxiv.org/abs/1711.09082)
   [[code]](https://github.com/jason718/game-feature-learning)
   - Zhongzheng Ren and Yong Jae Lee. *CVPR 2018*
-  
+
 - ShapeCodes: Self-Supervised Feature Learning by Lifting Views to Viewgrids.
   [[pdf]](https://arxiv.org/pdf/1709.00505.pdf)
   - Dinesh Jayaraman*, UC Berkeley; Ruohan Gao, University of Texas at Austin; Kristen Grauman. *ECCV 2018*
@@ -338,8 +338,8 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1901.09005)
   [[code]](https://github.com/google/revisiting-self-supervised)
   - Alexander Kolesnikov; Xiaohua Zhai; Lucas Beye. *CVPR 2019*
-  
-- Self-Supervised GANs via Auxiliary Rotation Loss. 
+
+- Self-Supervised GANs via Auxiliary Rotation Loss.
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Self-Supervised_GANs_via_Auxiliary_Rotation_Loss_CVPR_2019_paper.pdf)
   [[code]](https://github.com/vandit15/Self-Supervised-Gans-Pytorch)
   - Ting Chen; Xiaohua Zhai; Marvin Ritter; Mario Lucic; Neil Houlsby. *CVPR 2019*
@@ -353,7 +353,7 @@ Markdown format:
   [[pdf]](http://proceedings.mlr.press/v97/huang19b.html).
   [[code]](https://github.com/Raymond-sci/AND).
   - Jiabo Huang, Qi Dong, Shaogang Gong, Xiatian Zhu. *ICML 2019*
-  
+
 - Contrastive Multiview Coding.
   [[pdf]](https://arxiv.org/abs/1906.05849)
   [[code]](https://github.com/HobbitLong/CMC/)
@@ -368,10 +368,10 @@ Markdown format:
   [[code]](https://github.com/Philip-Bachman/amdim-public)
   - Philip Bachman, R Devon Hjelm, William Buchwalter
 
- - Selfie: Self-supervised Pretraining for Image Embedding. 
-    [[pdf]](https://arxiv.org/abs/1906.02940) 
+ - Selfie: Self-supervised Pretraining for Image Embedding.
+    [[pdf]](https://arxiv.org/abs/1906.02940)
     - Trieu H. Trinh, Minh-Thang Luong, Quoc V. Le
-   
+
  - Data-Efficient Image Recognition with Contrastive Predictive Coding
     [[pdf]](https://arxiv.org/abs/1905.09272)
     - Olivier J. He ́naff, Ali Razavi, Carl Doersch, S. M. Ali Eslami, Aaron van den Oord
@@ -380,7 +380,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/1906.12340)
     [[code]](https://github.com/hendrycks/ss-ood)
     - Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
-    
+
  - Boosting Few-Shot Visual Learning with Self-Supervision
     [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.pdf)
     - Pyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, and Matthieu Cord. *ICCV 2019*
@@ -410,11 +410,11 @@ Markdown format:
   [[code]](https://github.com/google-research/s4l)
   - Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, Lucas Beyer. *ICCV 2019*
 
-- Self-supervised model adaptation for multimodal semantic segmentation. 
-  [[pdf]](https://arxiv.org/abs/1808.03833) 
+- Self-supervised model adaptation for multimodal semantic segmentation.
+  [[pdf]](https://arxiv.org/abs/1808.03833)
   [[code]](https://github.com/DeepSceneSeg/SSMA)
   - Abhinav Valada, Rohit Mohan, and Wolfram Burgard. *IJCV 2019*
-    
+
 #### 2020
  - A critical analysis of self-supervision, or what we can learn from a single image
    [[pdf]](https://arxiv.org/pdf/1904.13132)
@@ -450,7 +450,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/abs/2002.05709)
     [[code]](https://github.com/google-research/simclr)
     - Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton. *ICML 2020*
-   
+
  - How Useful is Self-Supervised Pretraining for Visual Tasks?
     [[pdf]](https://arxiv.org/abs/2003.14323)
     [[code]](https://github.com/princeton-vl/selfstudy-render)
@@ -468,12 +468,12 @@ Markdown format:
 - Self-Supervised Learning of Pretext-Invariant Representations
    [[pdf]](https://arxiv.org/abs/1912.01991)
    - Ishan Misra, Laurens van der Maaten. *CVPR 2020*
-   
+
 - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
     [[pdf]](https://arxiv.org/abs/2006.07733)
     [[unofficial-code]](https://github.com/lucidrains/byol-pytorch)
     - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
-    
+
  - Contrastive learning of global and local features for medical image segmentation with limited annotations
     [[pdf]](https://arxiv.org/pdf/2006.10511.pdf)
     [[code]](https://github.com/krishnabits001/domain_specific_cl)
@@ -488,7 +488,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/abs/2006.10029)
     [[code]](https://github.com/google-research/simclr)
     - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. *NeurIPS 2020*
-    
+
  - Self-Supervised Prototypical Transfer Learning for Few-Shot Classification
     [[pdf]](https://arxiv.org/pdf/2006.11325.pdf)
     [[code]](https://github.com/indy-lab/ProtoTransfer)
@@ -498,12 +498,12 @@ Markdown format:
     [[pdf]](https://arxiv.org/abs/2005.12320)
     [[code]](https://github.com/wvangansbeke/Unsupervised-Classification)
     - Wouter Van Gansbeke, Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Luc Van Gool. *ECCV 2020*
-  
+
  - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
     [[pdf]](https://arxiv.org/abs/2006.09882)
     [[code]](https://github.com/facebookresearch/swav)
     - Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin. *NeurIPS 2020*
-    
+
  - Self-Supervised Relational Reasoning for Representation Learning
     [[pdf]](https://arxiv.org/pdf/2006.05849.pdf)
     [[code]](https://github.com/mpatacchiola/self-supervised-relational-reasoning)
@@ -527,7 +527,7 @@ Markdown format:
 - Demystifying contrastive self-supervised learning: Invariances, augmentations and dataset biases
     [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
     - Senthil Purushwalkam, Abhinav Gupta. *NeurIPS 2020*
-    
+
 - Mitigating embedding and class assignment mismatch in unsupervised image classification
     [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_45)
     [[code]](https://github.com/Sungwon-Han/TwoStageUC)
@@ -538,15 +538,15 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/2007.12368)
     - Silvia Bucci, Antonio D'Innocente, Yujun Liao, Fabio Maria Carlucci, Barbara Caputo, Tatiana Tommasi. *T-PAMI 2021*
 
- - Barlow twins: Self-supervised learning via redundancy reduction 
+ - Barlow twins: Self-supervised learning via redundancy reduction
   [[pdf]](https://arxiv.org/abs/2103.03230)
-  [[code]](https://github.com/facebookresearch/barlowtwins) 
+  [[code]](https://github.com/facebookresearch/barlowtwins)
     - Zbontar, J., Jing, L., Misra, I., LeCun, Y., & Deny, S.
 
  - Contrastive Semi-Supervised Learning for 2D Medical Image Segmentation
    [[pdf]](https://arxiv.org/abs/2106.06801)
    - Prashant Pandey, Ajey Pai, Nisarg Bhatt, Prasenjit Das, Govind Makharia, Prathosh AP, Mausam. *MICCAI 2021*
-   
+
  - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
    [[pdf]](https://arxiv.org/pdf/2011.10043)
    [[code]](https://github.com/zdaxie/PixPro)
@@ -557,7 +557,7 @@ Markdown format:
    [[code]](https://github.com/linusericsson/ssl-transfer)
    - Linus Ericsson, Henry Gouk, Timothy M. Hospedales. *CVPR 2021*
 
-- Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.  
+- Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.
   [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
   - Ayan Kumar Bhunia, Pinaki nath Chowdhury, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song. *CVPR 2021*
 
@@ -565,12 +565,12 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2009.07724)
    [[code]](https://github.com/cjrd/selfaugment)
    - Colorado Reed, Sean Metzger, Aravind Srinivas, Trevor Darrell, Kurt Keutzer. *CVPR 2021*
- 
+
  - Jigsaw Clustering for Unsupervised Visual Representation Learning
    [[pdf]](https://arxiv.org/abs/2104.00323)
    [[code]](https://github.com/dvlab-research/JigsawClustering)
    - Pengguang Chen, Shu Liu, Jiaya Jia. *CVPR 2021*
-   
+
  - Improving Unsupervised Image Clustering With Robust Learning
    [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf)
    [[code]](https://github.com/deu30303/RUC)
@@ -586,12 +586,12 @@ Markdown format:
    [[pdf]](https://arxiv.org/abs/2207.10023)
    [[code]](https://github.com/wjun0830/Localizable-Rotation)
    - WonJun Moon, Ji-Hwan Kim, Jae-Pil Heo. *ECCV 2022*
-   
+
  - FedX: Unsupervised Federated Learning with Cross Knowledge Distillation
    [[pdf]](https://arxiv.org/abs/2207.09158)
    [[code]](https://github.com/Sungwon-Han/FEDX)
    - Sungwon Han, Sungwon Park, Fangzhao Wu, Sundong Kim, Chuhan Wu, Xing Xie, Meeyoung Cha. *ECCV 2022*
-  
+
  - Masked Siamese Networks for Label-Efficient Learning
    [[pdf]](https://arxiv.org/abs/2204.07141)
    [[code]](https://github.com/facebookresearch/msn)
@@ -604,26 +604,26 @@ Markdown format:
  - Self-Knowledge Distillation based Self-Supervised Learning for Covid-19 Detection from Chest X-Ray Images
    [[pdf]](https://arxiv.org/abs/2206.03009)
    - Guang Li, Ren Togo, Takahiro Ogawa, Miki Haseyama. *ICASSP 2022*
- 
+
  - Adaptive Soft Contrastive Learning
    [[pdf]](https://arxiv.org/abs/2207.11163)
    [[code]](https://github.com/MrChenFeng/ASCL_ICPR2022)
    - Chen Feng, Ioannis Patras. *ICPR 2022*
-   
-  - Self-Supervised Visual Representation Learning with Semantic Grouping 
-    [[pdf]](https://arxiv.org/abs/2205.15288) 
+
+  - Self-Supervised Visual Representation Learning with Semantic Grouping
+    [[pdf]](https://arxiv.org/abs/2205.15288)
     [[code]](https://github.com/CVMI-Lab/SlotCon)
     - Xin Wen, Bingchen Zhao, Anlin Zheng, Xiangyu Zhang, and Xiaojuan Qi. *NeurIPS 2022*
-   
+
  - VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
    [[pdf]](https://arxiv.org/abs/2105.04906)
-   - Adrien Bardes, Jean Ponce, Yann LeCun. *ICLR 2022*  
+   - Adrien Bardes, Jean Ponce, Yann LeCun. *ICLR 2022*
 
 #### 2023
  - Inter-Instance Similarity Modeling for Contrastive Learning
-   [[pdf]](https://arxiv.org/abs/2306.12243) 
+   [[pdf]](https://arxiv.org/abs/2306.12243)
    [[code]](https://github.com/visresearch/patchmix)
-   - Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang. 
+   - Chengchao Shen, Dawei Liu, Hao Tang, Zhe Qu, Jianxin Wang.
  - Asymmetric Patch Sampling for Contrastive Learning
    [[pdf]](https://arxiv.org/abs/2306.02854)
    [[code]](https://github.com/visresearch/aps)
@@ -631,7 +631,7 @@ Markdown format:
 
 #### 2024
  - Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning
-   [[pdf]](https://arxiv.org/pdf/2406.14525) 
+   [[pdf]](https://arxiv.org/pdf/2406.14525)
    [[code]](https://github.com/cdvetal/evodenss)
    - Adriano Vinhas, João Correia, Penousal Machado. *CEC 2024*
 
@@ -642,27 +642,27 @@ Markdown format:
   [[code]](https://github.com/emansim/unsupervised-videos)
   - Srivastava, Nitish and Mansimov, Elman and Salakhudinov, Ruslan. *ICML 2015*
 
-- Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. 
-  [[pdf]](http://arxiv.org/abs/1603.08561) 
+- Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.
+  [[pdf]](http://arxiv.org/abs/1603.08561)
   [[code]](https://github.com/imisra/shuffle-tuple)
   - Ishan Misra, C. Lawrence Zitnick and Martial Hebert. *ECCV 2016*
-  
+
 - LSTM Self-Supervision for Detailed Behavior Analysis
   [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Brattoli_LSTM_Self-Supervision_for_CVPR_2017_paper.pdf)
   - Biagio Brattoli*, Uta Büchler*, Anna-Sophia Wahl, Martin E. Schwab, and Björn Ommer. *CVPR 2017*
-  
-- Self-Supervised Video Representation Learning With Odd-One-Out Networks. 
-  [[pdf]](https://arxiv.org/abs/1611.06646) 
+
+- Self-Supervised Video Representation Learning With Odd-One-Out Networks.
+  [[pdf]](https://arxiv.org/abs/1611.06646)
   - Basura Fernando and Hakan Bilen and Efstratios Gavves and Stephen Gould. *CVPR 2017*
 
-- Unsupervised Learning of Long-Term Motion Dynamics for Videos. 
+- Unsupervised Learning of Long-Term Motion Dynamics for Videos.
   [[pdf]](https://arxiv.org/pdf/1701.01821.pdf)
   - Luo, Zelun and Peng, Boya and Huang, De-An and Alahi, Alexandre and Fei-Fei, Li. *CVPR 2017*
 
 - Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning.
-  [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf) 
+  [[pdf]](http://ai.ucsd.edu/~haosu/papers/cvpr18_geometry_predictive_learning.pdf)
   - Chuang Gan and Boqing Gong and Kun Liu and Hao Su and Leonidas J. Guibas. *CVPR 2018*
-  
+
 - Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/abs/1807.11293)
   - Biagio Brattoli*, Uta Büchler*, and Björn Ommer. *ECCV 2018*
@@ -671,7 +671,7 @@ Markdown format:
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Wiles18a/wiles18a.pdf)
   - Wiles, O.*, Koepke, A.S.*, Zisserman, A. *BMVC 2018*
 
-- Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles. 
+- Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles.
   [[pdf]](https://arxiv.org/pdf/1811.09795.pdf)
   - Kim, Dahun and Cho, Donghyeon and Yoo, Donggeun and Kweon, In So. *AAAI 2019*
 
@@ -684,12 +684,12 @@ Markdown format:
   - Ali Diba; Vivek Sharma, Luc Van Gool, Rainer Stiefelhagen. *ICCV 2019*
 
 - Learning Correspondence from the Cycle-consistency of Time.
-  [[pdf]](https://arxiv.org/abs/1903.07593) 
+  [[pdf]](https://arxiv.org/abs/1903.07593)
   [[code]](https://github.com/xiaolonw/TimeCycle)
   - Xiaolong Wang*, Allan Jabri* and Alexei A. Efros. *CVPR 2019*
 
 - Joint-task Self-supervised Learning for Temporal Correspondence.
-  [[pdf]](https://arxiv.org/abs/1909.11895) 
+  [[pdf]](https://arxiv.org/abs/1909.11895)
   [[code]](https://github.com/Liusifei/UVC)
   - Xueting Li*, Sifei Liu*, Shalini De Mello, Xiaolong Wang, Jan Kautz, and Ming-Hsuan Yang. *NIPS 2019*
 
@@ -697,22 +697,22 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.02531.pdf)
   [[code]](https://github.com/BestJuly/IIC)
   - Li Tao, Xueting Wang*, Toshihiko Yamasaki. *ACMMM 2020*
-  
+
 - Video Playback Rate Perception for Self-Supervised Spatio-Temporal Representation Learning
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_Video_Playback_Rate_Perception_for_Self-Supervised_Spatio-Temporal_Representation_Learning_CVPR_2020_paper.pdf)
   [[Code]](https://github.com/yuanyao366/PRP)
   - Yuan Yao*, Chang Liu*, Dezhao Luo, Yu Zhou, Qixiang Ye. *CVPR 2020*
-  
+
 - Self-Supervised Video Representation Learning by Pace Prediction
   [[pdf]](http://www.robots.ox.ac.uk/~vgg/publications/2020/Wang20/wang20.pdf)
   [[code]](https://github.com/laura-wang/video-pace)
   - Jiangliu Wang, Jianbo Jiao, Yun-Hui Liu. *ECCV 2020*
-  
+
 - Video Representation Learning by Recognizing Temporal Transformations
   [[pdf]](https://arxiv.org/pdf/2007.10730.pdf)
   [[code]](https://github.com/sjenni/temporal-ssl)
   - Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
-  
+
 - Self-supervised Co-training for Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2010.09709)
   [[code]](https://github.com/TengdaHan/CoCLR)
@@ -766,27 +766,27 @@ Markdown format:
   [[code]](https://github.com/ajabri/videowalk/)
   [[project]](http://ajabri.github.io/videowalk)
   - Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
-  
- 
+
+
 #### Benchmark code for video self-supervised learning
 - How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?
-  [[pdf]](https://arxiv.org/abs/2203.14221) 
+  [[pdf]](https://arxiv.org/abs/2203.14221)
   [[code]](https://github.com/fmthoker/SEVERE-BENCHMARK)
   - Thoker, Fida Mohammad and Doughty, Hazel and Bagad, Piyush and Snoek, Cees . *ECCV 2022*
 
 
 ### 3D Feature Learning
-- Self-Supervised Deep Learning on Point Clouds by Reconstructing Space 
+- Self-Supervised Deep Learning on Point Clouds by Reconstructing Space
   [[pdf]](http://papers.neurips.cc/paper/9455-self-supervised-deep-learning-on-point-clouds-by-reconstructing-space.pdf)
   - Jonathan Sauder, and Bjarne Sievers *NeurIPS 2019*
 
-- Self-Supervised Learning of Point Clouds via Orientation Estimation 
+- Self-Supervised Learning of Point Clouds via Orientation Estimation
   [[pdf]](http://www.vovakim.com/papers/20_3DV_RotationSupervision.pdf)
   [[code]](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds)
-  -  Omid Poursaeed, Tianxing Jiang, Han Qiao, Nayun Xu, and Vladimir G. Kim,*3DV 2020* 
+  -  Omid Poursaeed, Tianxing Jiang, Han Qiao, Nayun Xu, and Vladimir G. Kim,*3DV 2020*
 
 - Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf) 
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Eckart_Self-Supervised_Learning_on_3D_Point_Clouds_by_Learning_Discrete_Generative_CVPR_2021_paper.pdf)
   - Benjamin Eckart, Wentao Yuan,  Chao Liu,  and Jan Kautz *CVPR 2021*
 
 - PointContrast: Unsupervised Pre-training for 3D Point Cloud
@@ -797,7 +797,7 @@ Markdown format:
 - Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation
   [[pdf]](https://arxiv.org/pdf/2110.08188)
   - Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, and Jiaya Jia *ICCV 2021*
- 
+
 - Ponder: Point Cloud Pre-training via Neural Rendering
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html)
   - Di Huang, Sida Peng, Tong He, Honghui Yang, Xiaowei Zhou and Wanli Ouyang *ICCV 2023*
@@ -828,12 +828,12 @@ Markdown format:
   [[pdf]](http://papers.neurips.cc/paper/6686-unsupervised-learning-of-object-frames-by-dense-equivariant-image-labelling.pdf)
   - James Thewlis, Hakan Bilen, Andrea Vedaldi. *NeurIPS 2017*
 
--   Unsupervised Learning of Depth and Ego-Motion from Video. 
+-   Unsupervised Learning of Depth and Ego-Motion from Video.
     [[pdf]](https://arxiv.org/pdf/1704.07813.pdf)
     [[code]](https://github.com/tinghuiz/SfMLearner)
     [[web]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
     -   Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe, David G. *CVPR 2017*
-    
+
 - Active Stereo Net: End-to-End Self-Supervised Learning for Active Stereo Systems.
   [[project]](http://asn.cs.princeton.edu/)
   - Yinda Zhang*, Sean Fanello, Sameh Khamis, Christoph Rhemann, Julien Valentin, Adarsh Kowdle, Vladimir Tankovich, Shahram Izadi, Thomas Funkhouser. *ECCV 2018*
@@ -866,23 +866,23 @@ Markdown format:
   [[code]](https://github.com/jamt9000/DVE)
   [[web]](http://www.robots.ox.ac.uk/~vgg/research/DVE/)
   - James Thewlis, Samuel Albanie, Hakan Bilen, Andrea Vedaldi. ICCV 2019
- 
+
 
 ### Audio
 - Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
   [[pdf]](https://arxiv.org/pdf/1804.03641.pdf)
   [[code]](https://github.com/andrewowens/multisensory)
   - Andrew Owens, Alexei A. Efros. *ECCV 2018*
-  
+
 - Objects that Sound.
   [[pdf]](https://arxiv.org/pdf/1712.06651.pdf)
-  -  R. Arandjelović, A. Zisserman. *ECCV 2018* 
-  
+  -  R. Arandjelović, A. Zisserman. *ECCV 2018*
+
 - Learning to Separate Object Sounds by Watching Unlabeled Video.
   [[pdf]](https://arxiv.org/abs/1804.01665)
   [[project]](http://vision.cs.utexas.edu/projects/separating_object_sounds/)
   - Ruohan Gao, Rogerio Feris, Kristen Grauman.  *ECCV 2018*
-  
+
 - The Sound of Pixels.
   [[pdf]]( https://arxiv.org/pdf/1804.03160.pdf )
   [[project]](https://github.com/hangzhaomit/Sound-of-Pixels)
@@ -894,14 +894,14 @@ Markdown format:
   - Arsha Nagrani, Samuel Albanie, Andrew Zisserman. ECCV 2018
 
 
-- Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization. 
+- Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.
   [[pdf]](http://papers.nips.cc/paper/8002-cooperative-learning-of-audio-and-video-models-from-self-supervised-synchronization.pdf)
   - Bruno Korbar,Dartmouth College, Du Tran, Lorenzo Torresani. *NIPS 2018*
-  
+
 - Self-Supervised Generation of Spatial Audio for 360° Video.
   [[pdf]](http://papers.nips.cc/paper/7319-self-supervised-generation-of-spatial-audio-for-360-video.pdf)
   - Pedro Morgado, Nuno Nvasconcelos, Timothy Langlois, Oliver Wang. *NIPS 2018*
-  
+
 - TriCycle: Audio Representation Learning from Sensor Network Data Using Self-Supervision
   [[pdf]](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cartwright_tricycle_waspaa2019.pdf)
   - Mark Cartwright, Jason Cramer, Justin Salamon, Juan Pablo Bello. *WASPAA 2019*
@@ -909,17 +909,17 @@ Markdown format:
 - Self-supervised audio-visual co-segmentation
   [[pdf]](https://arxiv.org/pdf/1904.09013.pdf)
   - Andrew Rouditchenko, Hang Zhao, Chuang Gan, Josh McDermott, and Antonio Torralba. *ICASSP 2019*
-  
+
 - Does Visual Self-Supervision Improve Learning of Speech Representations?
    [[pdf]](https://arxiv.org/pdf/2005.01400.pdf)
    - Abhinav Shukla, Stavros Petridis, Maja Pantic
-- There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge 
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf) 
+- There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf)
   [[code]](https://github.com/robot-learning-freiburg/MM-DistillNet)
 	- Francisco Rivera Valverde, Juana Valeria Hurtado, and Abhinav Valada. *CVPR 2021*
 
 - BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
- [[pdf]](https://arxiv.org/pdf/2103.06695.pdf) 
+ [[pdf]](https://arxiv.org/pdf/2103.06695.pdf)
  [[code]](https://github.com/nttcslab/byol-a)
   - Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
 
@@ -929,78 +929,78 @@ Markdown format:
   - Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta. *NeurIPS 2022*
 
 ### Others
-- Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data 
-  [[pdf]](https://arxiv.org/abs/2206.02909) 
+- Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
+  [[pdf]](https://arxiv.org/abs/2206.02909)
   [[code]](https://github.com/OxWearables/ssl-wearables)
   - Hang Yuan*, Shing Chan*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
-  
+
 - Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model.
   [[pdf]](https://arxiv.org/abs/1611.07544)
   - Qixiang Ye, Tianliang Zhang, Qiang Qiu, Baochang Zhang, Jie Chen, Guillermo Sapiro. *CVPR 2017*
-  
+
 - Free Supervision from Video Games.
   [[pdf]](http://www.philkr.net/papers/2018-06-01-cvpr/2018-06-01-cvpr.pdf)
   [[project+code]](http://www.philkr.net/fsv/)
   - Philipp Krähenbühl. *CVPR 2018*
-  
+
 - Fighting Fake News: Image Splice Detection via Learned Self-Consistency
   [[pdf]](https://arxiv.org/pdf/1805.04096.pdf)
   [[code]](https://github.com/minyoungg/selfconsistency)
   - Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros. *ECCV 2018*
-  
+
 - Self-supervised Tracking by Colorization (Tracking Emerges by Colorizing Videos).
   [[pdf]](https://www.cs.columbia.edu/~vondrick//videocolor.pdf)
   - Carl Vondrick*, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy. *ECCV 2018*
-  
+
 - High-Fidelity Image Generation With Fewer Labels.
   [[pdf]](https://arxiv.org/pdf/1903.02271.pdf)
   - Mario Lucic*, Michael Tschannen*, Marvin Ritter*, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly.
-  
+
 - Self-supervised Fitting of Articulated Meshes to Point Clouds.
   - Chun-Liang Li, Tomas Simon, Jason Saragih, Barnabás Póczos and Yaser Sheikh. *CVPR 2019*
-  
+
 - Just Go with the Flow: Self-Supervised Scene Flow Estimation
   [[pdf]](https://arxiv.org/pdf/1912.00497.pdf)
   [[code]](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)
   - Himangi Mittal, Brian Okorn, David Held. *CVPR 2020*
-  
-- SCOPS: Self-Supervised Co-Part Segmentation. 
+
+- SCOPS: Self-Supervised Co-Part Segmentation.
   - Wei-Chih Hung, Varun Jampani, Sifei Liu, Pavlo Molchanov, Ming-Hsuan Yang, and Jan Kautz. *CVPR 2019*
-  
+
 - Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking.
   - Jae Shin Yoon; Takaaki Shiratori; Shoou-I Yu; Hyun Soo Park. *CVPR 2019*
-  
+
 - Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
- [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Multi-Task_Self-Supervised_Object_Detection_via_Recycling_of_Bounding_Box_Annotations_CVPR_2019_paper.pdf) 
+ [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Multi-Task_Self-Supervised_Object_Detection_via_Recycling_of_Bounding_Box_Annotations_CVPR_2019_paper.pdf)
  [[code]](https://github.com/wonheeML/mtl-ssl)
   - Wonhee Lee; Joonil Na; Gunhee Kim. *CVPR 2019*
-  
+
 - Self-Supervised Convolutional Subspace Clustering Network.
   - Junjian Zhang; Chun-Guang Li; Chong You; Xianbiao Qi; Honggang Zhang; Jun Guo; Zhouchen Lin. *CVPR 2019*
-  
+
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation.
   - Xin Wang; Qiuyuan Huang; Asli Celikyilmaz; Jianfeng Gao; Dinghan Shen; Yuan-Fang Wang; William Yang Wang; Lei Zhang. *CVPR 2019*
-  
+
 - Unsupervised 3D Pose Estimation With Geometric Self-Supervision.
   - Ching-Hang Chen; Ambrish Tyagi; Amit Agrawal; Dylan Drover; Rohith MV; Stefan Stojanov; James M. Rehg. *CVPR 2019*
-  
+
 - Learning to Generate Grounded Image Captions without Localization Supervision. [[pdf]](https://arxiv.org/pdf/1906.00283.pdf)
   - Chih-Yao Ma; Yannis Kalantidis; Ghassan AlRegib; Peter Vajda; Marcus Rohrbach; Zsolt Kira.
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1904.01766.pdf)
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid. *ICCV 2019*
-  
+
 - Countering Noisy Labels By Learning From Auxiliary Clean Labels [[pdf]]( https://arxiv.org/pdf/1905.13305.pdf )
   - Tsung Wei Tsai, Chongxuan Li, Jun Zhu
 
 - Self-Supervised Point Cloud Completion via Inpainting
   [[pdf]](https://arxiv.org/abs/2111.10701)
   - Himangi Mittal, Brian Okorn, Arpit Jangid, David Held. *BMVC 2021*
-  
+
 - ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
   [[pdf]](https://arxiv.org/pdf/2202.00758.pdf)
   [[code]](https://github.com/akhilmathurs/collossl)
   - Yash Jain, Ian Tang, Chulhong Min, Fahim Kawsar, Akhil Mathur. *UbiComp 2022*
-  
+
 ## Machine Learning
 -   Self-taught Learning: Transfer Learning from Unlabeled Data.
     [[pdf]](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
@@ -1012,19 +1012,19 @@ Markdown format:
     -   Bengio, Yoshua and Courville, Aaron and Vincent, Pascal. *TPAMI 2013*.
 
 ### Reinforcement Learning
-- Curiosity-driven Exploration by Self-supervised Prediction. 
-  [[pdf]](http://pathak22.github.io/noreward-rl/resources/icml17.pdf) 
+- Curiosity-driven Exploration by Self-supervised Prediction.
+  [[pdf]](http://pathak22.github.io/noreward-rl/resources/icml17.pdf)
   [[code]](https://pathak22.github.io/noreward-rl/index.html#sourceCode)
   - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. *ICML 2017*
 
 - Large-Scale Study of Curiosity-Driven Learning.
-  [[pdf]](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf) 
+  [[pdf]](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
   - Yuri Burda*, Harri Edwards*, Deepak Pathak*, Amos Storkey, Trevor Darrell and Alexei A. Efros
 
 - Playing hard exploration games by watching YouTube.
-  [[pdf]](https://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube.pdf) 
+  [[pdf]](https://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube.pdf)
   - Yusuf Aytar, Tobias Pfaff, David Budden, Tom Le Paine, Ziyu Wang, Nando de Freitas. *NIPS 2018*
-  
+
 - Unsupervised State Representation Learning in Atari.
   [[pdf]](https://arxiv.org/pdf/1906.08226.pdf)
   [[code]](https://github.com/mila-iqia/atari-representation-learning)
@@ -1047,7 +1047,7 @@ Markdown format:
 - Improving Robot Navigation Through Self-Supervised Online Learning
   [[pdf]](http://www.roboticsproceedings.org/rss02/p04.pdf)
   - Boris Sofman, Ellie Lin, J. Andrew Bagnell, Nicolas Vandapel, and Anthony Stentz
-  
+
 - Reverse Optical Flow for Self-Supervised Adaptive Autonomous Robot Navigation
   [[pdf]](https://www.cs.ait.ac.th/~mdailey/cvreadings/Lookingbill-ReverseOptical.pdf)
   - A. Lookingbill, D. Lieb, J. Rogers and J. Curry
@@ -1060,13 +1060,13 @@ Markdown format:
 ### 2012
 - Self-supervised terrain classification for planetary surface exploration rovers
   [[pdf]](https://pdfs.semanticscholar.org/66b7/eef326d1db1fa2b19d5dc6b84d3d2a95b76c.pdf)
-  - Christopher A. Brooks, Karl Iagnemma 
-  
+  - Christopher A. Brooks, Karl Iagnemma
+
 ### 2014
 - Terrain Traversability Analysis Using Multi-Sensor Data Correlation by a Mobile Robot
   [[pdf]](http://sensor.eng.shizuoka.ac.jp/pdf/2014/SII.pdf)
   - Mohammed Abdessamad Bekhti, Yuichi Kobayashi and Kazuki Matsumura
-  
+
 ### 2015
 - Online self-supervised learning for dynamic object segmentation
   [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.5829&rep=rep1&type=pdf)
@@ -1075,7 +1075,7 @@ Markdown format:
 - Self-Supervised Online Learning of Basic Object Push Affordances
   [[pdf]](http://abr.ijs.si/pdf/1429861734-RidgeIJARS2015.pdf)
   - Barry Ridge, Ales Leonardis, Ales Ude, Miha Denisa, and Danijel Skocaj
-  
+
 - Self-supervised learning of grasp dependent tool affordances on the iCub Humanoid robot
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139640)
   - Tanis Mar, Vadim Tikhanoff, Giorgio Metta, and Lorenzo Natale
@@ -1085,7 +1085,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1603.08047.pdf)
   - Kevin van Hecke, Guido de Croon, Laurens van der Maaten, Daniel Hennes, and Dario Izzo
 
-- The Curious Robot: Learning Visual Representations via Physical Interactions. 
+- The Curious Robot: Learning Visual Representations via Physical Interactions.
   [[pdf]](https://arxiv.org/pdf/1604.01360v2)
   - Lerrel Pinto and Dhiraj Gandhi and Yuanfeng Han and Yong-Lae Park and Abhinav Gupta. *ECCV 2016*
 
@@ -1096,26 +1096,26 @@ Markdown format:
 -   Supersizing Self-supervision: Learning to Grasp from 50K Tries and
     700 Robot Hours. [\[pdf\]](https://arxiv.org/pdf/1509.06825.pdf)
     -   Pinto, Lerrel and Gupta, Abhinav. *ICRA 2016*
-    
+
 ### 2017
 -  Supervision via Competition: Robot Adversaries for Learning Tasks.
    [[pdf]](https://arxiv.org/pdf/1610.01685.pdf)
    - Pinto, Lerrel and Davidson, James and Gupta, Abhinav. *ICRA 2017*
 
 - Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the Amazon Picking Challenge.
-  [[pdf]](https://arxiv.org/pdf/1803.09956.pdf) 
+  [[pdf]](https://arxiv.org/pdf/1803.09956.pdf)
   [[Project]](http://apc.cs.princeton.edu/)
-  - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017* 
+  - Andy Zeng, Kuan-Ting Yu, Shuran Song, Daniel Suo, Ed Walker Jr., Alberto Rodriguez, Jianxiong Xiao. *ICRA 2017*
 
 - Combining Self-Supervised Learning and Imitation for Vision-Based Rope Manipulation.
-  [[pdf]](https://arxiv.org/abs/1703.02018) 
+  [[pdf]](https://arxiv.org/abs/1703.02018)
   [[Project]](https://ropemanipulation.github.io/)
   - Ashvin Nair*, Dian Chen*, Pulkit Agrawal*, Phillip Isola, Pieter Abbeel, Jitendra Malik, Sergey Levine. *ICRA 2017*
 
 - Learning to Fly by Crashing
   [[pdf]](https://arxiv.org/abs/1704.05588)
   - Dhiraj Gandhi, Lerrel Pinto, Abhinav Gupta *IROS 2017*
-  
+
 - Self-supervised learning as an enabling technology for future space exploration robots: ISS experiments on monocular distance learning
   [[pdf]](http://www.esa.int/gsp/ACT/doc/AI/pub/ACT-RPR-AI-2017-ACTA-SSL.pdf)
   - K. van Hecke, G. C. de Croon, D. Hennes, T. P. Setterfield, A. Saenz- Otero, and D. Izzo
@@ -1130,41 +1130,41 @@ Markdown format:
   - Frederik Ebert, Chelsea Finn, Alex X. Lee, Sergey Levine. *CoRL2017*
 
 ### 2018
-- CASSL: Curriculum Accelerated Self-Supervised Learning. 
-  [[pdf]](https://arxiv.org/pdf/1708.01354.pdf) 
+- CASSL: Curriculum Accelerated Self-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/1708.01354.pdf)
   - Adithyavairavan Murali, Lerrel Pinto, Dhiraj Gandhi, Abhinav Gupta. *ICRA 2018*
 
-- Time-Contrastive Networks: Self-Supervised Learning from Video. 
-  [[pdf]](https://arxiv.org/pdf/1609.09475.pdf) 
+- Time-Contrastive Networks: Self-Supervised Learning from Video.
+  [[pdf]](https://arxiv.org/pdf/1609.09475.pdf)
   [[Project]](https://sermanet.github.io/imitate/)
   - Pierre Sermanet and Corey Lynch and Yevgen Chebotar and Jasmine Hsu and Eric Jang and Stefan Schaal and Sergey Levine. *ICRA 2018*
 
-- Self-Supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation. 
-  [[pdf]](http://arxiv.org/pdf/1709.10489) 
+- Self-Supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation.
+  [[pdf]](http://arxiv.org/pdf/1709.10489)
   - Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel, Sergey Levine. *ICRA 2018*
 
-- Learning Actionable Representations from Visual Observations. 
-  [[pdf]](https://arxiv.org/pdf/1609.09475.pdf) 
+- Learning Actionable Representations from Visual Observations.
+  [[pdf]](https://arxiv.org/pdf/1609.09475.pdf)
   [[Project]](https://sermanet.github.io/imitate/)
-  - Dwibedi, Debidatta and Tompson, Jonathan and Lynch, Corey and Sermanet, Pierre. *IROS 2018* 
-  
+  - Dwibedi, Debidatta and Tompson, Jonathan and Lynch, Corey and Sermanet, Pierre. *IROS 2018*
+
 - Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning.
-  [[pdf]](https://arxiv.org/abs/1808.00928) 
+  [[pdf]](https://arxiv.org/abs/1808.00928)
   [[Project]](https://sites.google.com/view/actionablerepresentations/)
-  - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018* 
-  
+  - Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser. *IROS 2018*
+
 - Visual Reinforcement Learning with Imagined Goals.
-  [[pdf]](https://arxiv.org/abs/1807.04742) 
+  [[pdf]](https://arxiv.org/abs/1807.04742)
   [[Project]](https://sites.google.com/site/visualrlwithimaginedgoals/)
   - Ashvin Nair*, Vitchyr Pong*, Murtaza Dalal, Shikhar Bahl, Steven Lin, Sergey Levine.*NeurIPS 2018*
 
 - Grasp2Vec: Learning Object Representations from Self-Supervised Grasping.
-  [[pdf]](https://arxiv.org/pdf/1811.06964.pdf) 
+  [[pdf]](https://arxiv.org/pdf/1811.06964.pdf)
   [[Project]](https://sites.google.com/site/grasp2vec/home)
   - Eric Jang*, Coline Devin*, Vincent Vanhoucke, Sergey Levine. *CoRL 2018*
 
 - Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning.
-  [[pdf]](https://arxiv.org/pdf/1810.03043.pdf) 
+  [[pdf]](https://arxiv.org/pdf/1810.03043.pdf)
   [[Project]](https://sites.google.com/view/robustness-via-retrying)
   - Frederik Ebert, Sudeep Dasari, Alex X. Lee, Sergey Levine, Chelsea Finn. *CoRL 2018*
 
@@ -1173,24 +1173,24 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1809.07207)
   - Mirko Nava, Jerome Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella, Alessandro Giusti. *Robotics and Automation Letters*
 
-- Learning Latent Plans from Play. 
-  [[pdf]](https://arxiv.org/pdf/1903.01973.pdf) 
+- Learning Latent Plans from Play.
+  [[pdf]](https://arxiv.org/pdf/1903.01973.pdf)
   [[Project]](https://learning-from-play.github.io/)
   - Corey Lynch, Mohi Khansari, Ted Xiao, Vikash Kumar, Jonathan Tompson, Sergey Levine, Pierre Sermanet
 
-- Self-Supervised Visual Terrain Classification from Unsupervised Acoustic Feature Learning. 
-  [[pdf]](https://arxiv.org/pdf/1912.03227.pdf) 
+- Self-Supervised Visual Terrain Classification from Unsupervised Acoustic Feature Learning.
+  [[pdf]](https://arxiv.org/pdf/1912.03227.pdf)
   - Jannik Zuern, Wolfram Burgard, Abhinav Valada
 
 ### 2020
 - Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video.
-[[pdf]](https://arxiv.org/pdf/1910.09430.pdf) 
+[[pdf]](https://arxiv.org/pdf/1910.09430.pdf)
   [[Project]](http://robotskills.cs.uni-freiburg.de/)
   - Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard *ICRA 2020*
 
 ### 2023
 - Self-Supervised Object Goal Navigation with In-Situ Finetuning.
-[[pdf]](https://arxiv.org/abs/2212.05923) 
+[[pdf]](https://arxiv.org/abs/2212.05923)
 [[Video]](https://www.youtube.com/watch?v=LXsZst5ZUpU)
   - So Yeon Min, Yao-Hung Hubert Tsai, Wei Ding, Ali Farhadi, Ruslan Salakhutdinov, Yonatan Bisk, Jian Zhang *IROS 2023*
 
@@ -1212,8 +1212,8 @@ Markdown format:
 - Self-Supervised Learning for Contextualized Extractive Summarization
   [[pdf]](https://arxiv.org/pdf/1906.04466.pdf)
   - Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang. *ACL 2019*
-  
-- A Mutual Information Maximization Perspective of Language Representation Learning 
+
+- A Mutual Information Maximization Perspective of Language Representation Learning
   [[pdf]](https://openreview.net/pdf?id=Syx79eBKwr)
   - Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama. *ICLR 2020*
 
@@ -1325,17 +1325,17 @@ Markdown format:
    [[pdf]](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)
    [[code]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)
    - Franceschi, Jean-Yves, Aymeric Dieuleveut, and Martin Jaggi. *NeurIPS 2019*
- 
+
  - Time-Series Representation Learning via Temporal and Contextual Contrasting
    [[pdf]](https://www.ijcai.org/proceedings/2021/0324.pdf)
    [[code]](https://github.com/emadeldeen24/TS-TCC)
    - Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, and Cuntai Guan. *IJCAI 2021*
- 
+
  - Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding
    [[pdf]](https://openreview.net/pdf?id=8qDwejCuCN)
    [[code]](https://github.com/sanatonek/TNC_representation_learning)
    - Tonekaboni, Sana, Danny Eytan, and Anna Goldenberg. *ICLR 2021*
- 
+
  - A Transformer-Based Framework for Multivariate Time Series Representation Learning
    [[pdf]](https://arxiv.org/pdf/2010.02803.pdf)
    [[code]](https://github.com/gzerveas/mvts_transformer)
@@ -1345,7 +1345,7 @@ Markdown format:
    [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
    [[code]](https://github.com/yuezhihan/ts2vec)
    - Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
- 
+
 
 
 ## Graph
@@ -1353,37 +1353,37 @@ Markdown format:
    [[pdf]](https://openreview.net/forum?id=rklz9iAcKQ)
    [[code]](https://github.com/PetarV-/DGI)
    - Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm. *ICLR 2019*
- 
+
  - When Does Self-Supervision Help Graph Convolutional Networks
    [[pdf]](https://arxiv.org/pdf/2006.09136.pdf)
    - Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen. *ICML 2020*
-   
+
  - Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels
     [[pdf]](https://arxiv.org/pdf/1902.11038v2.pdf)
    - Ke Sun, Zhouchen Lin, Zhanxing Zhu. *AAAI 2020*
-   
+
  - Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks
     [[pdf]](https://arxiv.org/pdf/2006.12971v1.pdf)
    - Arijit Sehanobish, Neal G. Ravindra, David van Dijk. *ICML 2020 Workshop*
-   
+
  - Deep Graph Contrastive Representation Learning
     [[pdf]](http://arxiv.org/abs/2006.04131)
     [[code]](https://github.com/CRIPAC-DIG/GRACE)
    - Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang. *ICML 2020 Workshop*
-   
+
  - Contrastive Multi-View Representation Learning on Graphs
     [[pdf]](https://arxiv.org/pdf/2006.05582)
    - Kaveh Hassani, Amir Hosein Khasahmadi. *ICML 2020*
-   
+
  - GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training
     [[pdf]](https://arxiv.org/pdf/2006.09963.pdf)
    - Jiezhong Qiu, Qibin Chen, Yuxiao Dong. *KDD 2020*
-   
+
  - GPT-GNN: Generative Pre-Training of Graph Neural Networks
     [[pdf]](https://arxiv.org/pdf/2006.15437.pdf)
     [[code]](https://github.com/acbull/GPT-GNN)
    - Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
-   
+
  - Self-supervised Learning on Graphs: Deep Insights and New Direction
     [[pdf]](https://arxiv.org/pdf/2006.10141.pdf)
    - Wei Jin, Tyler Derr, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, Jiliang Tang.
@@ -1408,19 +1408,19 @@ Markdown format:
   [[link]](https://youtu.be/wxis9FrCHbw)
 - Supersizing Self-Supervision: Learning Perception and Action without Human Supervision. Abhinav Gupta (CMU).
   [[link]](https://simons.berkeley.edu/talks/abhinav-gupta-2017-3-28)
-- Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB) 
+- Self-supervision, Meta-supervision, Curiosity: Making Computers Study Harder. Alyosha Efros (UCB)
   [[link]](https://business.facebook.com/academics/videos/1632981350086599)
-- Unsupervised Visual Learning Tutorial. *CVPR 2018* 
-  [[part 1]](https://www.youtube.com/watch?v=gSqmUOAMwcc) 
+- Unsupervised Visual Learning Tutorial. *CVPR 2018*
+  [[part 1]](https://www.youtube.com/watch?v=gSqmUOAMwcc)
   [[part 2]](https://www.youtube.com/watch?v=BijK_US6A0w)
-- Self-Supervised Learning. Andrew Zisserman (Oxford & Deepmind). 
+- Self-Supervised Learning. Andrew Zisserman (Oxford & Deepmind).
   [[pdf]](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
 - Graph Embeddings, Content Understanding, & Self-Supervised Learning. Yann LeCun. (NYU & FAIR)
   [[pdf]](https://drive.google.com/file/d/12pDCno02FJPDEBk4iGuuaj8b2rr48Hh0/view)
   [[video]](https://www.youtube.com/watch?v=UGPT64wo7lU)
-- Self-supervised learning: could machines learn like humans? Yann LeCun @EPFL. 
+- Self-supervised learning: could machines learn like humans? Yann LeCun @EPFL.
   [[video]](https://www.youtube.com/watch?v=7I0Qt7GALVk)
-- Week 9 (b): CS294-158 Deep Unsupervised Learning(Spring 2019). Alyosha Efros @UC Berkeley. 
+- Week 9 (b): CS294-158 Deep Unsupervised Learning(Spring 2019). Alyosha Efros @UC Berkeley.
   [[video]](https://www.youtube.com/watch?v=PX11C5Vfo9U)
 
 ## Thesis
@@ -1432,7 +1432,7 @@ Markdown format:
 ## Blog
 - Self-Supervised Representation Learning. Lilian Weng. [[link]](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html).
 - Self Supervised Representation Learning in NLP. Amit Chaudhary. [[link]](https://amitness.com/2020/05/self-supervised-learning-nlp/).
-- The Illustrated [[Self-Supervised Learning]](https://amitness.com/2020/02/illustrated-self-supervised-learning/), [[SimCLR]](https://amitness.com/2020/03/illustrated-simclr/), [[PIRL]](https://amitness.com/2020/03/illustrated-pirl/), [[Self-Labelling]](https://amitness.com/2020/04/illustrated-self-labelling/), [[FixMatch]](https://amitness.com/2020/03/fixmatch-semi-supervised/), [[DeepCluster]](https://amitness.com/2020/04/deepcluster/). Amit Chaudhary. 
+- The Illustrated [[Self-Supervised Learning]](https://amitness.com/2020/02/illustrated-self-supervised-learning/), [[SimCLR]](https://amitness.com/2020/03/illustrated-simclr/), [[PIRL]](https://amitness.com/2020/03/illustrated-pirl/), [[Self-Labelling]](https://amitness.com/2020/04/illustrated-self-labelling/), [[FixMatch]](https://amitness.com/2020/03/fixmatch-semi-supervised/), [[DeepCluster]](https://amitness.com/2020/04/deepcluster/). Amit Chaudhary.
 - Contrastive Self-Supervised Learning. Ankesh Anand. [[link]](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html).
 
 
