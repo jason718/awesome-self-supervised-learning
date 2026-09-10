@@ -1202,6 +1202,7 @@ Markdown format:
 ## NLP
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
   [[pdf]](https://arxiv.org/abs/1810.04805)
+  [[read online]](https://webeditions.page/works/bert-pre-training/)
   [[link]](https://github.com/google-research/bert)
   - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. *NAACL 2019 Best Long Paper*
 
